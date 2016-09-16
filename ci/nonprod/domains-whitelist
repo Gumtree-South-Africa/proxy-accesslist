@@ -1,0 +1,31 @@
+# Jenkins plugin/update mirrors
+.jenkins-ci.org
+jenkins.mirror.isppower.de
+ftp.halifax.rwth-aachen.de
+ftp.yz.yamagata-u.ac.jp
+ftp.tsukuba.wide.ad.jp
+mirror.esuni.jp
+ftp.nluug.nl
+ftp.icm.edu.pl
+mirror.yandex.ru
+mirrors.clinkerhq.com
+mirror.xmission.com
+archives.jenkins-ci.org
+.osuosl.org
+# Publish build event from jenkins to slack
+.slack.com
+# Cloning from github.com
+github.com
+# Corp stuff
+.corp.ebay.com
+# L&P
+admarkt.demo.qa-mp.so
+lp-topannoncer.dbabusiness.dk
+cas.qa.kijiji.ca
+# PROD
+admarkt.marktplaats.nl
+topannoncer.dbabusiness.dk
+cas.kijiji.ca
+# Python PIP
+.python.org
+
