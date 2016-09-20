@@ -11,6 +11,7 @@
 .docker.io
 .doubleclick.net
 .driving.ca
+.fastly.net
 .googleadservices.com
 .googleapis.com
 .googlecode.com
@@ -26,6 +27,7 @@
 .overture.com
 .salesforce.com
 .sandbox.ebay.com
+.sonatype.org
 .surveymonkey.com
 .tidaltv.com
 10.254.128.41
@@ -203,7 +205,6 @@ seefinchfirst.com
 simplyautomotive.ca
 sit2.kijiji.ca
 sonatype.com
-sonatype.org
 static.albilegeant.com
 subaruoflethbridge.com
 thecardealers.ca
