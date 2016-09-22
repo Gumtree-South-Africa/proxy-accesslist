@@ -11,4 +11,6 @@ pypi.python.org
 .googleapis.com
 .cdn.mozilla.net
 .fastly.net
+.cloudfront.net
+
 
