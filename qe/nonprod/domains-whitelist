@@ -1,3 +1,4 @@
+# Selenium Grid Setup
 .docker.io
 .docker.com
 .ubuntu.com
@@ -12,5 +13,60 @@ pypi.python.org
 .cdn.mozilla.net
 .fastly.net
 .cloudfront.net
+
+.ebay.com
+.ebayimg.com
+
+# BOLT
+.vivanuncios.com.mx
+.alamaula.com
+.gumtree.pl
+.gumtree.ie
+.gumtree.sg
+.gumtree.co.za
+
+# AU
+.gumtree.com.au
+
+# IT
+.kijiji.it
+.automobile.it
+
+# Third Party Domains
+.google-analytics.com
+.googletagmanager.com
+.googleadservices.com
+.googlesyndication.com
+.amazonaws.com
+.facebook.net
+.facebook.com
+.doubleclick.net
+.classistatic.com
+.rfihub.com
+.criteo.net
+.criteo.com
+.scorecardresearch.com
+.360yield.com
+.hiberniacdn.com
+.marketo.net
+.effectivemeasure.net
+.imrworldwide.com
+.optimizely.com
+.adsafeprotected.com
+.shoppingshadow.com
+.indeed.com
+.annuncicdn.it
+.btrll.com
+.moatads.com
+.contextweb.com
+.adscale.de
+.omnitagjs.com
+
+
+
+
+
+
+
 
 
