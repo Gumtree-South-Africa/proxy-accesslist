@@ -12,6 +12,8 @@ mirrors.clinkerhq.com
 mirror.xmission.com
 archives.jenkins-ci.org
 .osuosl.org
+# Docker to pull base images
+.docker.io
 # Publish build event from jenkins to slack
 .slack.com
 # Cloning from github.com
