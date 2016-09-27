@@ -1,3 +1,4 @@
 events.pagerduty.com
 api.pagerduty.com
 .docker.io
+.cloudfront.net
