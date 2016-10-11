@@ -3,8 +3,10 @@
 .mongodb.org
 .npmjs.org
 .jenkins.io
+.jenkins-ci.org
 .osuosl.org
 .dockerproject.org
+.docker.io
 .launchpad.net
 .sks-keyservers.net
 .nodesource.com
