@@ -4,6 +4,7 @@
 .npmjs.org
 .jenkins.io
 .jenkins-ci.org
+.xmission.com
 .osuosl.org
 .dockerproject.org
 .docker.io
@@ -16,3 +17,6 @@ github.corp.ebay.com
 .githubusercontent.com
 .rubygems.global.ssl.fastly.net
 .rubygems.org
+.cloudfront.net
+.ubuntu.com
+.redis.io
