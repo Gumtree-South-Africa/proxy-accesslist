@@ -23,7 +23,7 @@ packagist.org
 .pagerduty.com
 api.worldweatheronline.com
 .launchpad.net
-.feedburner.com
+feeds.feedburner.com
 github-cloud.s3.amazonaws.com
 i.telegraph.co.uk
 jfs24.com
@@ -48,16 +48,3 @@ static.nvd.nist.gov
 rubygems.global.ssl.fastly.net
 .debian.org
 .elastic.co
-.bintray.com
-.paypal.com
-nodejs.org
-.sonatype.org
-.jfrog.org
-.scala-sbt.org
-.typesafe.com
-.maven.org
-repository.corp.ebay.com
-rubygems.org
-.artifactoryonline.com
-.autoxy.it
-www.sissa.it
