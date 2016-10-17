@@ -1,3 +1,4 @@
+.amazonaws.com
 .bitbucket.org
 .cloudera.com
 .debian.net
@@ -15,7 +16,6 @@ bower.io
 bower.corp.mobile.de
 de.archive.ubuntu.com
 gems.rubyforge.org
-github-cloud.s3.amazonaws.com
 jenkins.mirror.isppower.de
 npmjs.org
 npmjs.com
