@@ -20,3 +20,5 @@ ftp-nyc.osuosl.org
 .slack.com
 # Autodeploy mobile.de artefacts
 .corp.mobile.de
+.cloudfront.net
+.docker.io
