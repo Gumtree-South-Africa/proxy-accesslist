@@ -19,7 +19,10 @@
 .java.net
 .clojars.org
 .eclipse.org
-
+.docker.io
+.docker.com
+p80.pool.sks-keyservers.net
+apt.dockerproject.org
 aws-eu-cache01.rubygems.org
 auth.corp.mobile.de
 bower.herokuapp.com
