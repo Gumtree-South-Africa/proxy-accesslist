@@ -13,8 +13,6 @@
 .nodesource.com
 ecg-api.gumtree.sg
 ecg-apis.gumtree.sg
-ecg-api.gumtree.sg.staging2.qa-bolt.com
-ecg-apis.gumtree.sg.staging2.qa-bolt.com
 github.corp.ebay.com
 .githubusercontent.com
 .rubygems.global.ssl.fastly.net
@@ -26,4 +24,3 @@ github.corp.ebay.com
 .ubuntuupdates.org
 .debian.org
 .herokuapp.com
-.ecg-apis.gumtree.sg.staging2.qa-bolt.com
