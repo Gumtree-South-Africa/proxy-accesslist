@@ -17,3 +17,6 @@ archives.jenkins-ci.org
 ftp.yz.yamagata-u.ac.jp
 ftp.tsukuba.wide.ad.jp
 mirror.esuni.jp
+repo1.maven.org
+repo.typesafe.com
+repo.scala-sbt.org
