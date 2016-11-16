@@ -9,6 +9,9 @@ gems.rubyforge.org
 #
 # urls.allowed (i.e. test code for production urls.allowed)
 #
+# Atlassian
+^https://downloads.atlassian.com
+
 # Google
 ^http://www.google.com/webmasters/tools/
 
