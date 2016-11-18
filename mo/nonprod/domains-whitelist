@@ -4,6 +4,7 @@
 .debian.net
 .github.com
 .gradle.org
+.jenkins-ci.org
 .osuosl.org
 .percona.com
 .pypi.python.org
@@ -14,7 +15,6 @@
 .apache.org
 .jboss.org
 .atlassian.com
-.jenkins-ci.org
 .jenkins.io
 .sonatype.org
 .java.net
@@ -37,7 +37,6 @@ npmjs.org
 npmjs.com
 nodejs.org
 mirror.centos.org
-mirrors.jenkins.io
 registry.npmjs.org
 rubygems.global.ssl.fastly.net
 security.ubuntu.com
