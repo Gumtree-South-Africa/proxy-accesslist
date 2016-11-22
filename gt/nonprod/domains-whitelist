@@ -57,6 +57,7 @@ repo.aptly.info
 repo.boundlessgeo.com
 repo.eligotech.com
 repo.jenkins-ci.org
+repo.scala-sbt.org
 repository.apache.org
 repository.excilys.com
 repository.jboss.org
