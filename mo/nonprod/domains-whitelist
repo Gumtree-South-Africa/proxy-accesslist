@@ -1,4 +1,5 @@
 .amazonaws.com
+.bintray.com
 .bitbucket.org
 .cloudera.com
 .debian.net
@@ -52,7 +53,6 @@ projectlombok.org
 ftp-stud.fht-esslingen.de
 pyx4j.com
 repo.typesafe.com
-jcenter.bintray.com
 nexus.kjdev.ca
 download.crashlytics.com
 maven.repository.redhat.com
