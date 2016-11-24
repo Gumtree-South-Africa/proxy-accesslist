@@ -15,6 +15,9 @@ gems.rubyforge.org
 # Slack
 .slack.com
 
+# Sonatype
+.sonatype.com
+
 # Google
 ^http://www.google.com/webmasters/tools/
 
