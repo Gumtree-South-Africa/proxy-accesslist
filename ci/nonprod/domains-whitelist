@@ -22,10 +22,9 @@ github.com
 # Corp stuff
 .corp.ebay.com
 # L&P
-.demo.qa-mp.so
+admarkt.demo.qa-mp.so
 lp-topannoncer.dbabusiness.dk
 cas.qa.kijiji.ca
-.qa10.kjdev.ca
 # PROD
 admarkt.marktplaats.nl
 topannoncer.dbabusiness.dk
@@ -35,6 +34,4 @@ cas.kijiji.ca
 # QA tests
 .ebaystatic.com
 marktplaatszakelijk.nl
-.ebay.com
-.de-studio.nl
 
