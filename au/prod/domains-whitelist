@@ -23,4 +23,8 @@ gems.rubyforge.org
 .pypi.python.org
 
 # Apache - Nexus
-repository.apache.org
+.apache.org
+.maven.org
+.nexus.codehaus.org
+.repository.jboss.org
+.repo.phloc.com
