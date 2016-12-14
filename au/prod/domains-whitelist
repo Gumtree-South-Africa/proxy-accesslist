@@ -1,2 +1,23 @@
-# Slack
+#
+# QA Cloud Specific
+#
+# Atlassian - Bamboo
+.atlassian.com
+
+# Slack - Bamboo
 .slack.com
+
+# Sonatype - Nexus
+.sonatype.com
+
+# Npm - Nexus
+.npmjs.org
+
+# Rubygems - Nexus
+.rubygems.org
+.rubygems-mirror.org
+gems.rubyforge.org
+.rubygems.global.ssl.fastly.net
+
+# Pypi - Nexus
+.pypi.python.org
