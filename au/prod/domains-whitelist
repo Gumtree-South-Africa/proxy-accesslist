@@ -21,3 +21,6 @@ gems.rubyforge.org
 
 # Pypi - Nexus
 .pypi.python.org
+
+# Apache - Nexus
+repository.apache.org
