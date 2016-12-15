@@ -1,5 +1,7 @@
 #
-# QA Cloud Specific
+# Prod Cloud Specific
+#
+# For AU-CI Tenant
 #
 # Atlassian - Bamboo
 .atlassian.com
@@ -28,3 +30,5 @@ gems.rubyforge.org
 .nexus.codehaus.org
 .repository.jboss.org
 .repo.phloc.com
+
+#####################

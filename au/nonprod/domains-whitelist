@@ -18,286 +18,117 @@ gems.rubyforge.org
 # Sonatype
 .sonatype.com
 
-# Google
-^http://www.google.com/webmasters/tools/
+# 0. Google webmaster tools
+# 1. For google safebrowsing check
+# 2. GTAU-9036
+.google.com
+.googleapis.com
 
 # Freshclam updates
-^http://db\.local\.clamav\.net/
-^http://database\.clamav\.net/
+.local.clamav.net
+database.clamav.net
 
 # eBay APIs
-^http://svcs\.ebay\.com/
-^svcs\.ebay\.com:443
-^http://api\.ebay\.com/
-^api\.ebay\.com:443
-^lfnapi\.ebay\.com:443
-^idauth\.ebay\.com:443
-^http://open\.api\.ebay\.com/
-^open\.api\.ebay\.com:443
+svcs.ebay.com
+api.ebay.com
+lfnapi.ebay.com
+idauth.ebay.com
+open.api.ebay.com
 
-# CPS
-#^http://api-c\.classistatic\.com/
-#^http://api\.classistatic\.com/
-#^http://img.\.classistatic\.com/
-
-# Paypal API (SSL)
-^api-3t\.paypal\.com:443
-^payflowpro\.paypal\.com:443
-^www\.paypal\.com:443
-^api\.paypal\.com:443
+# Paypal API ... all
+.paypal.com
 
 # iTunes
-^buy\.itunes\.apple\.com:443
+buy.itunes.apple.com
 
-# Main site
-^http://www\.gumtree\.com\.au/
+# Our Main site
+www.gumtree.com.au
 
 # Dealersolutions
-\.dealersolutions\.com\.au/
+.dealersolutions.com.au
+dealersolutions.com.au
 
 # Static feeds site
-^http://gumtree\.classistatic\.com/latest/feeds/
+gumtree.classistatic.com
+ssl-gumtree.classistatic.com
 
 # Salesforce (plain and SSL)
-^http://.*\.salesforce\.com/
-\.salesforce\.com:443
+.salesforce.com
+.my.salesforce.com
+gumtreeau--full.cs31.my.salesforce.com
 
 # EPS
-^http://i\.ebayimg\.com/
-^i\.ebayimg\.com:443
+i.ebayimg.com
 
-^http://dataconnect\.carsales\.com\.au
-^dataconnect\.carsales.com.au:443
+dataconnect.carsales.com.au
 
 # ThreatMetrix
-^h-api\.online-metrix\.net:443
+h-api.online-metrix.net
 
 # Tor project
-check\.torproject\.org:443
+check.torproject.org
 
 # ECN
-^http://10\.32\.141\.168
-^http://api\.ebaycommercenetwork\.com
-^api\.ebaycommercenetwork\.com:443
+api.ebaycommercenetwork.com
 
 # For Campaign Blog
-github\.com:443
+github.com
+.github.com
 
 # For recaptcha
-^http://api-verify.recaptcha.net/verify
-
-# For google safebrowsing check
-^http://www.google.com
+api-verify.recaptcha.net
 
 # ftp for enzo
-enzo\.postdirect\.com
+enzo.postdirect.com
 
 # ftp for glasses
-ftp\.glassguide\.com\.au
+ftp.glassguide.com.au
 
 # facebook
-^graph\.facebook\.com:443
-
-# GTAU-9036
-accounts\.google\.com:443
-tools\.google\.com:443
-www\.googleapis\.com:443
+graph.facebook.com
 
 # GTAU-10533
-^api\.yesmail\.com:443
+api.yesmail.com
 
 # GTAU-10634
-^api\.test\.yesmail\.com:443
+api.test.yesmail.com
 
 # SO-45188 mobile push notifications
-^android\.googleapis\.com:443
-^gateway\.push\.apple\.com:2195
+android.googleapis.com
+gateway.push.apple.com:2195
 
 # SO-46673
-^events\.pagerduty\.com:443
 # SO-50651
-^api\.pagerduty\.com:443
-
-# SO-47671
-^http://api\.indeed\.com
-
+.pagerduty.com
 
 # GTAU-15651
-^ebayapi.billing.nl:443
-^ebayapiuat.billing.nl:443
-^atom.boomi.com:443
+.billing.nl:443
+atom.boomi.com
 
 #Paypal QA sandbox
-^pilot-payflowpro\.paypal\.com:443
-^api-3t\.sandbox\.paypal\.com:443
-^old-api-3t\.sandbox\.paypal\.com:443
-^api\.sandbox\.paypal\.com:443
+pilot-payflowpro.paypal.com
+.sandbox.paypal.com
 
 # SO-43481 Apple QA/Sandbox site
-^sandbox\.itunes\.apple\.com:443
+sandbox.itunes.apple.com
 # Apple APNS sandbox
-^gateway\.sandbox\.push\.apple\.com:2195
-
+gateway.sandbox.push.apple.com:2195
 
 # GTAU-10527 This is duplicate of GTAU-10634 above
 # will need to be commented in when GTAU-10634
 # removed
 # ^api.test.yesmail.com:443
 
+# FIXME for cloud qa
 # Boomi access to ExtAPIQA2 in QA only SO-50280
-^extapi\.qa.\.gumtree\.com\.au:443
+#^extapi\.qa.\.gumtree\.com\.au:443
 
+# FIXME - still needed?
 # Minion, others SO-50779
-^http://www\.qa.\.gumtree\.com\.au/
-^www\.qa.\.gumtree\.com\.au:443
-^http://api\.qa.\.gumtree\.com\.au
-^api\.qa.\.gumtree\.com\.au:443
-^http://cs\.qa.\.gumtree\.com\.au
-^cs\.qa.\.gumtree\.com\.au:443
-
-root@proxy001:/etc/squid3# cat urls.allowed
-# Managed by Puppet (config/au_proxy)
-# ## See end of file for QA-only URLs
-# These are all matched by default case sensitive
-# Also see urls_case_insensitive.allowed
-
-# Google
-^http://www.google.com/webmasters/tools/
-
-# Freshclam updates
-^http://db\.local\.clamav\.net/
-^http://database\.clamav\.net/
-
-# eBay APIs
-^http://svcs\.ebay\.com/
-^svcs\.ebay\.com:443
-^http://api\.ebay\.com/
-^api\.ebay\.com:443
-^lfnapi\.ebay\.com:443
-^idauth\.ebay\.com:443
-^http://open\.api\.ebay\.com/
-^open\.api\.ebay\.com:443
-
-# CPS
-#^http://api-c\.classistatic\.com/
-#^http://api\.classistatic\.com/
-#^http://img.\.classistatic\.com/
-
-# Paypal API (SSL)
-^api-3t\.paypal\.com:443
-^payflowpro\.paypal\.com:443
-^www\.paypal\.com:443
-^api\.paypal\.com:443
-
-# iTunes
-^buy\.itunes\.apple\.com:443
-
-# Main site
-^http://www\.gumtree\.com\.au/
-
-# Dealersolutions
-\.dealersolutions\.com\.au/
-
-# Static feeds site
-^http://gumtree\.classistatic\.com/latest/feeds/
-
-# Salesforce (plain and SSL)
-^http://.*\.salesforce\.com/
-\.salesforce\.com:443
-
-# EPS
-^http://i\.ebayimg\.com/
-^i\.ebayimg\.com:443
-
-^http://dataconnect\.carsales\.com\.au
-^dataconnect\.carsales.com.au:443
-
-# ThreatMetrix
-^h-api\.online-metrix\.net:443
-
-# Tor project
-check\.torproject\.org:443
-
-# ECN
-^http://10\.32\.141\.168
-^http://api\.ebaycommercenetwork\.com
-^api\.ebaycommercenetwork\.com:443
-
-# For Campaign Blog
-github\.com:443
-
-# For recaptcha
-^http://api-verify.recaptcha.net/verify
-
-# For google safebrowsing check
-^http://www.google.com
-
-# ftp for enzo
-enzo\.postdirect\.com
-
-# ftp for glasses
-ftp\.glassguide\.com\.au
-
-# facebook
-^graph\.facebook\.com:443
-
-# GTAU-9036
-accounts\.google\.com:443
-tools\.google\.com:443
-www\.googleapis\.com:443
-
-# GTAU-10533
-^api\.yesmail\.com:443
-
-# GTAU-10634
-^api\.test\.yesmail\.com:443
-
-# SO-45188 mobile push notifications
-^android\.googleapis\.com:443
-^gateway\.push\.apple\.com:2195
-
-# SO-46673
-^events\.pagerduty\.com:443
-# SO-50651
-^api\.pagerduty\.com:443
-
-# SO-47671
-^http://api\.indeed\.com
-
-
-# GTAU-15651
-^ebayapi.billing.nl:443
-^ebayapiuat.billing.nl:443
-^atom.boomi.com:443
-
-#Paypal QA sandbox
-^pilot-payflowpro\.paypal\.com:443
-^api-3t\.sandbox\.paypal\.com:443
-^old-api-3t\.sandbox\.paypal\.com:443
-^api\.sandbox\.paypal\.com:443
-
-# SO-43481 Apple QA/Sandbox site
-^sandbox\.itunes\.apple\.com:443
-# Apple APNS sandbox
-^gateway\.sandbox\.push\.apple\.com:2195
-
-
-# GTAU-10527 This is duplicate of GTAU-10634 above
-# will need to be commented in when GTAU-10634
-# removed
-# ^api.test.yesmail.com:443
-
-# Boomi access to ExtAPIQA2 in QA only SO-50280
-^extapi\.qa.\.gumtree\.com\.au:443
-
-# Minion, others SO-50779
-^http://www\.qa.\.gumtree\.com\.au/
-^www\.qa.\.gumtree\.com\.au:443
-^http://api\.qa.\.gumtree\.com\.au
-^api\.qa.\.gumtree\.com\.au:443
-^http://cs\.qa.\.gumtree\.com\.au
-^cs\.qa.\.gumtree\.com\.au:443
-
-
-
+#^http://www\.qa.\.gumtree\.com\.au/
+#^www\.qa.\.gumtree\.com\.au:443
+#^http://api\.qa.\.gumtree\.com\.au
+#^api\.qa.\.gumtree\.com\.au:443
+#^http://cs\.qa.\.gumtree\.com\.au
+#^cs\.qa.\.gumtree\.com\.au:443
 
