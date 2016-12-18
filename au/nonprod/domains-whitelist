@@ -4,23 +4,8 @@
 #
 # QA Cloud Specific
 #
-.rubygems.org
-.rubygems-mirror.org
-gems.rubyforge.org
-.rubygems.global.ssl.fastly.net
-
-#
 # urls.allowed (i.e. test code for production urls.allowed)
 #
-# Atlassian
-.atlassian.com
-
-# Slack
-.slack.com
-
-# Sonatype
-.sonatype.com
-
 # 0. Google webmaster tools
 # 1. For google safebrowsing check
 # 2. GTAU-9036

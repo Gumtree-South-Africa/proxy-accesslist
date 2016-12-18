@@ -1,5 +1,5 @@
 #
-# QA Cloud Specific
+# AU-CI tenant specifics
 #
 # Atlassian - Bamboo
 .atlassian.com
@@ -16,7 +16,7 @@
 # Rubygems - Nexus
 .rubygems.org
 .rubygems-mirror.org
-gems.rubyforge.org
+.rubyforge.org
 .rubygems.global.ssl.fastly.net
 
 # Pypi - Nexus
