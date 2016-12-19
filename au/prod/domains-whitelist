@@ -1,30 +1,22 @@
 #
 # AU-CI tenant specifics
 #
-# Atlassian - Bamboo
+.apache.org
 .atlassian.com
-
-# Slack - Bamboo
-.slack.com
-
-# Sonatype - Nexus
-.sonatype.com
-
-# Npm - Nexus
+.bintray.com
+.docker.io
+.github.com
 .npmjs.org
-
-# Rubygems - Nexus
+.python.org
+.maven.org
+.nexus.codehaus.org
 .rubygems.org
 .rubygems-mirror.org
 .rubyforge.org
 .rubygems.global.ssl.fastly.net
-
-# Pypi - Nexus
-.pypi.python.org
-
-# Apache - Nexus
-.apache.org
-.maven.org
-.nexus.codehaus.org
 .repository.jboss.org
 .repo.phloc.com
+.slack.com
+.sonatype.com
+
+releases.hashicorp.com
