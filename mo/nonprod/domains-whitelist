@@ -3,7 +3,9 @@
 .bitbucket.org
 .cloudera.com
 .debian.net
+.ebayimg.com
 .github.com
+.github.io
 .gradle.org
 .jenkins-ci.org
 .jfrog.org
@@ -14,6 +16,7 @@
 .pm2.io
 .pypi.python.org
 .rubygems.org
+.scala-sbt.org
 .slack.com
 .sourceforge.net
 .maven.org
@@ -39,6 +42,7 @@ bower.corp.mobile.de
 de.archive.ubuntu.com
 gems.rubyforge.org
 jenkins.mirror.isppower.de
+nvd.nist.gov
 npmjs.org
 npmjs.com
 nodejs.org
