@@ -12,6 +12,8 @@
 .jfrog.org
 .mongodb.org
 .nodesecurity.io
+.npmjs.org
+.npmjs.com
 .osuosl.org
 .percona.com
 .pm2.io
@@ -44,8 +46,6 @@ de.archive.ubuntu.com
 gems.rubyforge.org
 jenkins.mirror.isppower.de
 nvd.nist.gov
-npmjs.org
-npmjs.com
 nodejs.org
 mirror.centos.org
 registry.npmjs.org
