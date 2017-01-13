@@ -1,22 +1,19 @@
 www.elastic.co
 opscenter.datastax.com
-# Jenkins plugin/update mirrors
-updates.jenkins-ci.org
-mirrors.jenkins-ci.org
-jenkins.mirror.isppower.de 
-ftp.halifax.rwth-aachen.de 
-ftp.yz.yamagata-u.ac.jp 
-ftp.tsukuba.wide.ad.jp 
-mirror.esuni.jp 
-ftp.nluug.nl 
+.jenkins-ci.org
+.jenkins.io
+jenkins.mirror.isppower.de
+ftp.halifax.rwth-aachen.de
+ftp.yz.yamagata-u.ac.jp
+ftp.tsukuba.wide.ad.jp
+mirror.esuni.jp
+ftp.nluug.nl
 ftp.icm.edu.pl
-mirror.yandex.ru  
-mirrors.clinkerhq.com 
-mirror.xmission.com 
-archives.jenkins-ci.org
-ftp-chi.osuosl.org 
-ftp-nyc.osuosl.org 
-# Publish build event from jenkins to slack
+mirror.yandex.ru
+mirrors.clinkerhq.com
+mirror.xmission.com
+ftp-chi.osuosl.org
+ftp-nyc.osuosl.org
 .slack.com
 # Autodeploy mobile.de artefacts
 .corp.mobile.de
