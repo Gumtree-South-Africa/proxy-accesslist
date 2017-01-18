@@ -29,8 +29,18 @@ open.api.ebay.com
 # iTunes
 buy.itunes.apple.com
 
-# Our Main site
+# Our Main site - PROD
 www.gumtree.com.au
+ecg-api.gumtree.com.au
+
+# Our QA envs via external DRO Access
+# Likely temporary until we have netscalers in cloud
+.cloud.qa1.gumtree.com.au
+.cloud.qa2.gumtree.com.au
+.cloud.qa3.gumtree.com.au
+.cloud.qa6.gumtree.com.au
+.cloud.qa7.gumtree.com.au
+.cloud.qa8.gumtree.com.au
 
 # Dealersolutions
 .dealersolutions.com.au
