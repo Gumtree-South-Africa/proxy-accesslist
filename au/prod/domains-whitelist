@@ -32,12 +32,15 @@ go.googlecode.com
 grafanarel.s3.amazonaws.com
 mirror.cogentco.com
 mirrors.sonic.net
+oss.sonatype.org
 phantomjs.googlecode.com
 prdownloads.sourceforge.net
 production.cf.rubygems.org
 projects.unbit.it
 raw.github.com
 releases.hashicorp.com
+repo.scala-sbt.org
+repo.typesafe.com
 search.maven.org
 semicomplete.com
 sonatype-download.global.ssl.fastly.net
