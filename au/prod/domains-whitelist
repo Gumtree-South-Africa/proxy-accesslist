@@ -9,8 +9,8 @@
 .keepalived.org
 .maven.org
 .nexus.codehaus.org
-.npmjs.org
 .nodejs.org
+.npmjs.org
 .python.org
 .repo.phloc.com
 .repository.jboss.org
@@ -41,6 +41,8 @@ raw.github.com
 releases.hashicorp.com
 repo.scala-sbt.org
 repo.typesafe.com
+repository.cloudera.com
+repository.springsource.com
 search.maven.org
 semicomplete.com
 sonatype-download.global.ssl.fastly.net
