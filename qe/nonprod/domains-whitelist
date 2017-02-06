@@ -23,7 +23,19 @@ pypi.python.org
 .gumtree.io
 .gumtree.sg
 .gumtree.co.za
-.gumtree.com.au
+
+# AU Main site - PROD
+www.gumtree.com.au
+ecg-api.gumtree.com.au
+
+# AU QA envs via external DRO Access
+.cloud.qa1.gumtree.com.au
+.cloud.qa2.gumtree.com.au
+.cloud.qa3.gumtree.com.au
+.cloud.qa6.gumtree.com.au
+.cloud.qa7.gumtree.com.au
+.cloud.qa8.gumtree.com.au
+
 .kijiji.it
 .automobile.it
 .google-analytics.com
