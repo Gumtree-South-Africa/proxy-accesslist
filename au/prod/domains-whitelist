@@ -5,6 +5,8 @@
 .bintray.com
 .docker.io
 .erlang.org
+.fastly.net
+.fastlylb.net
 .github.com
 .keepalived.org
 .maven.org
