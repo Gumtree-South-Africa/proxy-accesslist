@@ -1,2 +1,7 @@
 api.segment.io
 yum.dockerproject.org
+repos.mesosphere.com
+universe.mesosphere.com
+downloads.mesosphere.com
+.amazonaws.com
+github.com
