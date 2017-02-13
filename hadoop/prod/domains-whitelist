@@ -5,3 +5,5 @@ universe.mesosphere.com
 downloads.mesosphere.com
 .amazonaws.com
 github.com
+index.docker.io
+packages.confluent.io
