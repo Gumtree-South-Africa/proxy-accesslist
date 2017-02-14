@@ -4,7 +4,8 @@ repos.mesosphere.com
 universe.mesosphere.com
 downloads.mesosphere.com
 .amazonaws.com
-github.com
+.github.com
 .docker.io
 packages.confluent.io
 .cloudfront.net
+pypi.python.org
