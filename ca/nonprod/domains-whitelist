@@ -51,6 +51,7 @@ api-meta.classistatic.com
 api.classistatic.com
 api.ebay.com
 api.stubhub.com
+api.test13.stage.paypal.com:11888
 apt.postgresql.org
 apt.puppetlabs.com
 auto.cdemo.com
@@ -254,6 +255,7 @@ www.sonarsource.com
 www.taketheroad.com
 www.teamhyundai.com
 www.terracotta.org
+www.test13.stage.paypal.com
 www.tomgibara.com
 www.w3.org
 www.whatsmyip.net
