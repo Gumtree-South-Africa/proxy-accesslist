@@ -12,8 +12,6 @@ jenkins.mirror.isppower.de
 updates.jenkins.io
 mirrors.jenkins.io
 stable.release.core-os.net
-cdimage.debian.org
-caesar.acc.umu.se
 code.google.com
 storage.googleapis.com
 www.google.com
@@ -23,4 +21,4 @@ mirror.ratiokontakt.de
 .puppetlabs.com
 .fedoraproject.org
 .debian.org
-.umu.se
+.acc.umu.se
