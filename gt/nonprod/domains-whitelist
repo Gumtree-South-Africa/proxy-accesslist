@@ -3,6 +3,7 @@ akamai.bintray.com
 api.ebaycommercenetwork.com
 api.rubygems.org
 api.sandbox.braintreegateway.com
+api.sourcepoint.com
 archives.jenkins-ci.org
 bintray.com
 cdimage.debian.org
@@ -31,6 +32,7 @@ github-cloud.s3.amazonaws.com
 .github.com
 google-maven-repository.googlecode.com
 graph.facebook.com
+.gumtree.io
 h-api-sb.online-metrix.net
 hooks.slack.com
 jenkins.mirror.isppower.de
@@ -86,4 +88,3 @@ www.nuget.org
 www.orientechnologies.com
 www.pyx4me.com
 www.terracotta.org
-api.sourcepoint.com
