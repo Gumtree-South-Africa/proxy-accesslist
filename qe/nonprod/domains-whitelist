@@ -1,3 +1,4 @@
+# Grid setup related
 .docker.io
 .docker.com
 .ubuntu.com
@@ -6,23 +7,29 @@ ppa.launchpad.net
 p80.pool.sks-keyservers.net
 apt.dockerproject.org
 pypi.python.org
-.google.com
-.google.com.au
-.googleapis.com
 .cdn.mozilla.net
 .fastly.net
 .cloudfront.net
+
+# Google related
+.google.com
+.google.com.au
+.googleapis.com
+.google-analytics.com
+.googletagmanager.com
+.googleadservices.com
+.googlesyndication.com
+
+# eBay related
 .ebay.com
+.ebay.com.au
+.ebay.it
 .ebayimg.com
 .ebaystatic.com
 .ebayrtm.com
-.vivanuncios.com.mx
-.alamaula.com
-.gumtree.pl
-.gumtree.ie
-.gumtree.io
-.gumtree.sg
-.gumtree.co.za
+
+# treebay
+treebay.ebayclassifiedsgroup.com
 
 # AU Main site - PROD
 www.gumtree.com.au
@@ -36,12 +43,30 @@ ecg-api.gumtree.com.au
 .cloud.qa7.gumtree.com.au
 .cloud.qa8.gumtree.com.au
 
+# BOLT Main site - PROD
+.alamaula.com
+.gumtree.co.za
+.gumtree.ie
+.gumtree.pl
+.gumtree.sg
+.vivanuncios.com.mx
+
+# IT Main site - PROD
 .kijiji.it
 .automobile.it
-.google-analytics.com
-.googletagmanager.com
-.googleadservices.com
-.googlesyndication.com
+
+# IT QA related
+.clickpoint.com
+
+# UK Main site - PROD
+.gumtree.io
+
+# ThreatMetrix
+h-api.online-metrix.net
+h-api-sb.online-metrix.net
+
+www.bingapis.com
+www.bing.com
 .amazonaws.com
 .facebook.net
 .facebook.com
