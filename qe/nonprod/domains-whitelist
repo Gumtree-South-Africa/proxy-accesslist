@@ -65,29 +65,46 @@ ecg-api.gumtree.com.au
 h-api.online-metrix.net
 h-api-sb.online-metrix.net
 
-www.bingapis.com
-www.bing.com
+# Paypal API ... all
+.paypal.com
+
+# Amazon API
 .amazonaws.com
+
+# Apple API
+.apple.com
+
+# Bing API
+.bingapis.com
+.bing.com
+
+# Facebook API
 .facebook.net
 .facebook.com
-.doubleclick.net
+
+# Static feeds site
 .classistatic.com
-.rfihub.com
-.criteo.net
-.criteo.com
-.scorecardresearch.com
+
+# AU
+.yesmail.com
+
 .360yield.com
-.hiberniacdn.com
-.marketo.net
-.effectivemeasure.net
-.imrworldwide.com
-.optimizely.com
 .adsafeprotected.com
-.shoppingshadow.com
-.indeed.com
+.adscale.de
 .annuncicdn.it
 .btrll.com
-.moatads.com
 .contextweb.com
-.adscale.de
+.criteo.com
+.criteo.net
+.doubleclick.net
+.effectivemeasure.net
+.hiberniacdn.com
+.imrworldwide.com
+.indeed.com
+.marketo.net
+.moatads.com
 .omnitagjs.com
+.optimizely.com
+.shoppingshadow.com
+.scorecardresearch.com
+.rfihub.com
