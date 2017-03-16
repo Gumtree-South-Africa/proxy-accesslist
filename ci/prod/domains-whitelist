@@ -3,3 +3,24 @@ api.pagerduty.com
 .docker.io
 .cloudfront.net
 answerhub.corp.ebay.com
+# Jenkins plugin/update mirrors
+.jenkins-ci.org
+jenkins.mirror.isppower.de
+ftp.halifax.rwth-aachen.de
+ftp.yz.yamagata-u.ac.jp
+ftp.tsukuba.wide.ad.jp
+mirror.esuni.jp
+ftp.nluug.nl
+ftp.icm.edu.pl
+mirror.yandex.ru
+mirrors.clinkerhq.com
+mirror.xmission.com
+archives.jenkins-ci.org
+.osuosl.org
+# Docker to pull base images
+.docker.io
+.cloudfront.net
+# Publish build event from jenkins to slack
+.slack.com
+# Cloning from github.com
+github.com
