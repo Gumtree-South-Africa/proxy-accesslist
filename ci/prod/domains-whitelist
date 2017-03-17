@@ -24,3 +24,6 @@ archives.jenkins-ci.org
 .slack.com
 # Cloning from github.com
 github.com
+# Python PIP
+.python.org
+.python.map.fastly.net
