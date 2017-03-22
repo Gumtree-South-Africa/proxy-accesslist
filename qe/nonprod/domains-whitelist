@@ -62,6 +62,10 @@ ecg-api.gumtree.com.au
 # UK Main site - PROD
 .gumtree.io
 
+# UK QA related
+api.braintreegateway.com
+api.sandbox.braintreegateway.com
+
 # ThreatMetrix
 h-api.online-metrix.net
 h-api-sb.online-metrix.net
