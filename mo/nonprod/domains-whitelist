@@ -3,6 +3,8 @@
 .atlassian.com
 .bintray.com
 .bitbucket.org
+.cdn.segment.io
+.cdn.optimizely.com
 .clojars.org
 .cloudera.com
 .debian.net
@@ -14,11 +16,15 @@
 .github.io
 .githubusercontent.com
 .gradle.org
+.invisionapp-users.firebaseio.com
 .java.net
 .jboss.org
 .jenkins-ci.org
 .jenkins.io
 .jfrog.org
+.js.pusher.com
+.js-agent.newrelic.com
+.s3-cdn.invisionapp.com
 .maven.org
 .mongodb.org
 .motortalk.biz
@@ -32,6 +38,10 @@
 .rubygems.org
 .scala-sbt.org
 .slack.com
+.s.adroll.com
+.s3-cdn.invisionapp.com
+.sjs.bizographics.com
+.secure.adnxs.com
 .sonatype.com
 .sonatype.org
 .sourceforge.net
