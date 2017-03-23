@@ -27,3 +27,5 @@ github.com
 # Python PIP
 .python.org
 .python.map.fastly.net
+# Install grafana plugins
+grafana.net
