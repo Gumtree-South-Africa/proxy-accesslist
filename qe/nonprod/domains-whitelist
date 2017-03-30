@@ -10,6 +10,7 @@ pypi.python.org
 .cdn.mozilla.net
 .fastly.net
 .cloudfront.net
+ifconfig.co
 
 # Google related
 .google.com
