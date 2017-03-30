@@ -54,6 +54,7 @@ ecg-api.gumtree.com.au
 # IT Main site - PROD
 .kijiji.it
 .automobile.it
+.agos.it
 
 # IT QA related
 .clickpoint.com
