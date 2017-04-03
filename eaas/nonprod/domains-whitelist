@@ -12,6 +12,7 @@
 .rubygems.org
 .fastly.net
 .python.org
+.ruby-lang.org
 .slack.com
 .slack-msgs.com
 .pagerduty.com
@@ -34,7 +35,6 @@ releases.hashicorp.com
 .docker.io
 .cloudfront.net
 .fastlylb.net
-.rubygems.org
 .alpinelinux.org
 code.google.com
 .googleapis.com
