@@ -11,6 +11,7 @@
 .esuni.jp
 .fastly.net
 .github.com
+.googleapis.com
 .gradle.org
 .grafana.net
 .isppower.de
@@ -25,6 +26,7 @@
 .typesafe.com
 .xmission.com
 apt.dockerproject.org
+bazel.build
 bingapis.com
 download.eclipse.org
 download.elasticsearch.org
