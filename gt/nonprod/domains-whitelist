@@ -1,13 +1,14 @@
 accounts.google.com
 akamai.bintray.com
+api-3t.sandbox.paypal.com
 api.ebaycommercenetwork.com
 api.rubygems.org
 api.sandbox.braintreegateway.com
 api.sourcepoint.com
-api-3t.sandbox.paypal.com
 archives.jenkins-ci.org
 bintray.com
 cdimage.debian.org
+.clamav.net
 conjars.org
 cukes.info
 demo2.freespee.com
@@ -15,8 +16,9 @@ dl.bintray.com
 download.crashlytics.com
 download.java.net
 download.osgeo.org
-downloads.sonarsource.com
 download.sonatype.com
+downloads.sonarsource.com
+.facebook.com
 fastdl.mongodb.org
 files.couchbase.com
 freefr.dl.sourceforge.net
@@ -33,7 +35,6 @@ gensho.acc.umu.se
 github-cloud.s3.amazonaws.com
 .github.com
 google-maven-repository.googlecode.com
-.facebook.com
 .gumtree.io
 h-api-sb.online-metrix.net
 hooks.slack.com
