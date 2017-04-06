@@ -32,6 +32,10 @@ ifconfig.co
 # ecg related
 .ebayclassifiedsgroup.com
 
+# mobile.de related
+.mobile.de
+.automobile.fr
+
 # AU Main site - PROD
 www.gumtree.com.au
 ecg-api.gumtree.com.au
