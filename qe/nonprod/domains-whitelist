@@ -35,6 +35,9 @@ ifconfig.co
 # mobile.de related
 .mobile.de
 .automobile.fr
+.ioam.de
+.cloudflare.com
+.
 
 # AU Main site - PROD
 www.gumtree.com.au
@@ -98,6 +101,7 @@ h-api-sb.online-metrix.net
 
 # Static feeds site
 .classistatic.com
+.classistatic.de
 
 # AU
 .yesmail.com
