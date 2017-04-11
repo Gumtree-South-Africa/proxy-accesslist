@@ -1,7 +1,5 @@
 .slack.com
 .pagerduty.com
-.cloudfront.net
-.docker.io
 api.ebay.com
 idauth.ebay.com
 svcs.ebay.com
@@ -9,13 +7,29 @@ leadtracker.ahg.com.au
 .jenkins-ci.org
 .jenkins.io
 # jenkins plugins
+ftp-chi.osuosl.org
+ftp-nyc.osuosl.org
+events.pagerduty.com
+api.pagerduty.com
+answerhub.corp.ebay.com
 jenkins.mirror.isppower.de
 ftp.halifax.rwth-aachen.de
 ftp.yz.yamagata-u.ac.jp
 ftp.tsukuba.wide.ad.jp
 mirror.esuni.jp
+ftp.nluug.nl
 ftp.icm.edu.pl
+mirror.yandex.ru
 mirrors.clinkerhq.com
 mirror.xmission.com
-ftp-chi.osuosl.org
-ftp-nyc.osuosl.org
+archives.jenkins-ci.org
+.osuosl.org
+# Docker to pull base images
+.docker.io
+.cloudfront.net
+# Publish build event from jenkins to slack
+# Cloning from github.com
+github.com
+# Python PIP
+.python.org
+.python.map.fastly.net
