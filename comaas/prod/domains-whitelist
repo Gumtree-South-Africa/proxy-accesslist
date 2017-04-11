@@ -6,11 +6,6 @@ svcs.ebay.com
 leadtracker.ahg.com.au
 .jenkins-ci.org
 .jenkins.io
-# jenkins plugins
-ftp-chi.osuosl.org
-ftp-nyc.osuosl.org
-events.pagerduty.com
-api.pagerduty.com
 answerhub.corp.ebay.com
 jenkins.mirror.isppower.de
 ftp.halifax.rwth-aachen.de
@@ -22,14 +17,9 @@ ftp.icm.edu.pl
 mirror.yandex.ru
 mirrors.clinkerhq.com
 mirror.xmission.com
-archives.jenkins-ci.org
 .osuosl.org
-# Docker to pull base images
 .docker.io
 .cloudfront.net
-# Publish build event from jenkins to slack
-# Cloning from github.com
 github.com
-# Python PIP
 .python.org
 .python.map.fastly.net
