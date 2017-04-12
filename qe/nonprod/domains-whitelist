@@ -75,13 +75,14 @@ ecg-api.gumtree.com.au
 .gumtree.io
 
 # UK QA related
-googletagservices.com
-braintreegateway.com
-fonts.gstatic.com
-p.cpx.to
-tags.bkrtx.com
-analytics.twitter.com
-google.nl
+.googletagservices.com
+.braintreegateway.com
+.fonts.gstatic.com
+.p.cpx.to
+.tags.bkrtx.com
+.analytics.twitter.com
+.google.nl
+.gumtree.com
 
 # ThreatMetrix
 h-api.online-metrix.net
