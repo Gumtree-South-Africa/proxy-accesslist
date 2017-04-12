@@ -72,18 +72,21 @@ ecg-api.gumtree.com.au
 .solution.weborama.fr
 
 # UK Main site - PROD
+.gumtree.com
 .gumtree.io
 
 # UK QA related
 .googletagservices.com
 .braintreegateway.com
-.fonts.gstatic.com
-.p.cpx.to
+.gstatic.com
+.cpx.to
 .tags.bkrtx.com
 .analytics.twitter.com
 .google.nl
-.gumtree.com
-.cardinalcommerce.com
+.brcdn.com
+.adnxs.com
+.bluekai.com
+.decenthat.com
 
 # ThreatMetrix
 h-api.online-metrix.net
