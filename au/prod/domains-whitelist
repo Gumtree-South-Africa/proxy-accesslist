@@ -60,3 +60,7 @@ www.keepalived.org
 .qa6.gumtree.com.au
 .qa7.gumtree.com.au
 .qa8.gumtree.com.au
+
+# Hosts used by backend servers
+enzo.postdirect.com
+ftp.glassguide.com.au
