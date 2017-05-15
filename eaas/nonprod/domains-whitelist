@@ -33,6 +33,7 @@ releases.hashicorp.com
 .letsencrypt.org
 .dynect.net
 .docker.io
+.docker.elastic.co
 .cloudfront.net
 .fastlylb.net
 .alpinelinux.org
