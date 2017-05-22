@@ -3,4 +3,4 @@ repo.typesafe.com
 repo.scala-sbt.org
 repository.apache.org
 repository.jboss.org
-.docker.io
+registry-1.docker.io
