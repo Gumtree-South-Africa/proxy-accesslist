@@ -26,3 +26,5 @@ repository.apache.org
 repository.jboss.org
 .docker.io
 .alpinelinux.org
+.fastly.net
+.fastlylb.net
