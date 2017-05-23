@@ -25,3 +25,4 @@ repo.scala-sbt.org
 repository.apache.org
 repository.jboss.org
 .docker.io
+.alpinelinux.org
