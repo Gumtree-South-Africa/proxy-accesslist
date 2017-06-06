@@ -29,12 +29,14 @@
 .sonatype.com
 
 apache.mirror.digitalpacific.com.au
+api.pagerduty.com
 bucardo.org
 download.elasticsearch.org
 download.redis.io
 download.strongswan.org
 download.zeromq.org
 downloads.sourceforge.net
+events.pagerduty.com
 github-cloud.s3.amazonaws.com
 go.googlecode.com
 grafanarel.s3.amazonaws.com
