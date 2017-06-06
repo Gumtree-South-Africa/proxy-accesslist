@@ -12,3 +12,8 @@ pypi.python.org
 mirror.dkd.de
 cloud.r-project.org
 static.rexamine.com
+repo1.maven.org
+repo.typesafe.com
+repo.scala-sbt.org
+repository.apache.org
+repository.jboss.org
