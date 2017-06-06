@@ -18,3 +18,4 @@ repo.scala-sbt.org
 repository.apache.org
 repository.jboss.org
 .bintray.com
+repo.continuum.io
