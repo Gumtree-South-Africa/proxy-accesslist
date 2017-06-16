@@ -62,6 +62,7 @@ oss.sonatype.org
 pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
 pypi.python.org
+qa2-gumtreeforbusiness.cs83.force.com
 registry.npmjs.org
 releases.hashicorp.com
 repo1.maven.org
@@ -90,7 +91,6 @@ www.bing.com
 www.google-analytics.com
 www.googleapis.com
 www.google.com
-www.jamielewisresidential.co.uk
 www.nuget.org
 www.orientechnologies.com
 www.pyx4me.com
