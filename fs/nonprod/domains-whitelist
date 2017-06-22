@@ -1,6 +1,7 @@
 .alpinelinux.org
 .amazonaws.com
 .apache.org
+.bazel.build
 .bintray.com
 .cloudera.com
 .cloudflare.com
@@ -30,7 +31,6 @@
 .typesafe.com
 .xmission.com
 apt.dockerproject.org
-bazel.build
 bingapis.com
 download.eclipse.org
 download.elasticsearch.org
