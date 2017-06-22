@@ -29,6 +29,7 @@
 .yarnpkg.com
 .s3-cdn.invisionapp.com
 .maven.org
+.mobile.de
 .mongodb.org
 .motortalk.biz
 .mozilla.org
@@ -74,7 +75,6 @@ ftp-stud.fht-esslingen.de
 gems.rubyforge.org
 chromedriver.storage.googleapis.com
 jenkins.mirror.isppower.de
-m.mobile.de
 maven.repository.redhat.com
 mirror.centos.org
 nexus.kjdev.ca
