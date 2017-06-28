@@ -33,7 +33,6 @@ releases.hashicorp.com
 .letsencrypt.org
 .dynect.net
 .docker.io
-.docker.elastic.co
 .cloudfront.net
 .fastlylb.net
 .alpinelinux.org
@@ -46,3 +45,4 @@ secure-test.worldpay.com
 downloads.wordpress.org
 plugins.svn.wordpress.org
 .quay.io
+.elastic.co
