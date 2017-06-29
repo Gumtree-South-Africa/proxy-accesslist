@@ -19,3 +19,6 @@ repository.apache.org
 repository.jboss.org
 .bintray.com
 repo.continuum.io
+# PingID
+idpxnyl3m.pingidentity.com
+authenticator.pingone.com
