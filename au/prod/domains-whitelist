@@ -71,3 +71,8 @@ www.keepalived.org
 # Hosts used by backend servers
 enzo.postdirect.com
 ftp.glassguide.com.au
+
+# Catalyst Integration
+# # THIS IS A STAGING/QA ENDPOINT - USED IN PROD TOO WHILE BEING TESTED.
+# SHOULD BE CHANGED AUGUST 1ST AS PER @mpais
+ebay-beta-api-gw.tract-staging.com
