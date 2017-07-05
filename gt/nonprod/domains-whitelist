@@ -6,6 +6,7 @@ api.rubygems.org
 api.sandbox.braintreegateway.com
 api.sourcepoint.com
 archives.jenkins-ci.org
+auth.exacttargetapis.com
 bintray.com
 cdimage.debian.org
 .clamav.net
@@ -23,11 +24,13 @@ fastdl.mongodb.org
 files.couchbase.com
 freefr.dl.sourceforge.net
 ftp-chi.osuosl.org
+ftp.e-dialog.com
 ftp.halifax.rwth-aachen.de
 ftp.icm.edu.pl
 ftp.icm.edu.pl
 ftp.nluug.nl
 ftp-nyc.osuosl.org
+ftp.s7.exacttarget.com
 ftp.tsukuba.wide.ad.jp
 ftp.yz.yamagata-u.ac.jp
 gemmei.acc.umu.se
@@ -88,6 +91,7 @@ updates.jenkins-ci.org
 update.sonarsource.org
 www.bingapis.com
 www.bing.com
+www.exacttargetapis.com
 www.google-analytics.com
 www.googleapis.com
 www.google.com
