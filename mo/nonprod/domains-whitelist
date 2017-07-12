@@ -32,6 +32,7 @@
 .jfrog.org
 .js-agent.newrelic.com
 .js.pusher.com
+.launchpad.net
 .maven.org
 .mobile.de
 .mongodb.org
@@ -70,6 +71,7 @@
 .xmission.com
 .yarnpkg.com
 apt.dockerproject.org
+archive.ubuntu.com
 auth.corp.mobile.de
 aws-eu-cache01.rubygems.org
 bower.corp.mobile.de
@@ -93,6 +95,7 @@ p80.pool.sks-keyservers.net
 projectlombok.org
 pyx4j.com
 registry.npmjs.org
+releases.hashicorp.com
 repo.terracotta.org
 repo.typesafe.com
 rubygems.global.ssl.fastly.net
