@@ -62,6 +62,8 @@ www.erlang.org
 www.keepalived.org
 api.speedcurve.com
 
+# CI needs to talk to QA envs via their public endpoints.
+# CI is a prod env.
 .qa1.gumtree.com.au
 .qa2.gumtree.com.au
 .qa3.gumtree.com.au
@@ -77,3 +79,7 @@ ftp.glassguide.com.au
 # # THIS IS A STAGING/QA ENDPOINT - USED IN PROD TOO WHILE BEING TESTED.
 # SHOULD BE CHANGED AUGUST 1ST AS PER @mpais
 ebay-beta-api-gw.tract-staging.com
+
+# Hosts needed for 2FA auth in prod
+.pingidentity.com
+.pingone.com
