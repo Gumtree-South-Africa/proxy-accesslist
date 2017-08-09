@@ -76,6 +76,9 @@ api.speedcurve.com
 enzo.postdirect.com
 ftp.glassguide.com.au
 
+# Hosts used by analytics servers
+gumtree-au.upload.botify.com
+
 # Catalyst Integration
 # # THIS IS A STAGING/QA ENDPOINT - USED IN PROD TOO WHILE BEING TESTED.
 # SHOULD BE CHANGED AUGUST 1ST AS PER @mpais
