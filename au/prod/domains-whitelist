@@ -87,3 +87,7 @@ ebay-beta-api-gw.tract-staging.com
 # Hosts needed for 2FA auth in prod
 .pingidentity.com
 .pingone.com
+
+# Forex Microservice
+# SO-52847
+www.ecb.europa.eu
