@@ -72,14 +72,13 @@
 .xmission.com
 .yarnpkg.com
 apt.dockerproject.org
-archive.ubuntu.com
+.ubuntu.com
 auth.corp.mobile.de
 aws-eu-cache01.rubygems.org
 bower.corp.mobile.de
 bower.herokuapp.com
 bower.io
 chromedriver.storage.googleapis.com
-de.archive.ubuntu.com
 developer.jasig.org
 download.crashlytics.com
 files.couchbase.com
@@ -102,7 +101,6 @@ releases.hashicorp.com
 repo.terracotta.org
 repo.typesafe.com
 rubygems.global.ssl.fastly.net
-security.ubuntu.com
 smartbearsoftware.com
 soapui.org
 www.datanucleus.org
