@@ -8,6 +8,7 @@ api.sourcepoint.com
 archives.jenkins-ci.org
 auth.exacttargetapis.com
 bintray.com
+bsapi-test.brsrvr.com
 cdimage.debian.org
 .clamav.net
 conjars.org
@@ -51,6 +52,7 @@ maven.repository.redhat.com
 maven.springframework.org
 maven.vaadin.com
 .maxmind.com
+members.exacttarget.com
 mirror.esuni.jp
 mirrors.clinkerhq.com
 mirrors.jenkins-ci.org
@@ -100,4 +102,3 @@ www.nuget.org
 www.orientechnologies.com
 www.pyx4me.com
 www.terracotta.org
-bsapi-test.brsrvr.com
