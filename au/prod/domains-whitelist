@@ -91,3 +91,6 @@ ebay-beta-api-gw.tract-staging.com
 # Forex Microservice
 # SO-52847
 www.ecb.europa.eu
+
+# SO-52885
+i.ebayimg.com 
