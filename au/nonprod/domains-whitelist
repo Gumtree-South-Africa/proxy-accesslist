@@ -134,3 +134,6 @@ gateway.sandbox.push.apple.com
 #^http://cs\.qa.\.gumtree\.com\.au
 #^cs\.qa.\.gumtree\.com\.au:443
 
+# Forex Microservice
+# SO-52847
+www.ecb.europa.eu
