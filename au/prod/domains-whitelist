@@ -33,6 +33,7 @@
 
 apache.mirror.digitalpacific.com.au
 api.pagerduty.com
+api.yesmail.com    # SO-52962
 bucardo.org
 download.elasticsearch.org
 download.redis.io
