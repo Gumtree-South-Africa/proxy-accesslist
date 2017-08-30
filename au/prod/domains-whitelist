@@ -91,5 +91,5 @@ ebay-beta-api-gw.tract-staging.com
 
 www.ecb.europa.eu             # SO-52847
 i.ebayimg.com                 # SO-52885
-.android.googleapis.com:443   # SO-45188
-.gateway.push.apple.com:2195  # SO-45188
+.android.googleapis.com   # SO-45188
+.gateway.push.apple.com  # SO-45188
