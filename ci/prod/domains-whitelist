@@ -34,3 +34,5 @@ idpxnyl3m.pingidentity.com
 authenticator.pingone.com
 # eps image processing
 .ebayimg.com
+graphite.ix5.ops.prod.icas.ecg.so
+graphite.esh.ops.prod.icas.ecg.so
