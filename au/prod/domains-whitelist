@@ -73,6 +73,8 @@ api.speedcurve.com
 .qa7.gumtree.com.au
 .qa8.gumtree.com.au
 
+pilot-payflowlink.paypal.com # PayFlowPro Sandbox, for CI
+
 # Hosts used by backend servers
 enzo.postdirect.com
 ftp.glassguide.com.au
@@ -82,7 +84,7 @@ gumtree-au.upload.botify.com
 
 # Catalyst Integration
 # # THIS IS A STAGING/QA ENDPOINT - USED IN PROD TOO WHILE BEING TESTED.
-# SHOULD BE CHANGED AUGUST 1ST AS PER @mpais
+# SHOULD BE CHANGED when Catalyst project is live AS PER @mpais
 ebay-beta-api-gw.tract-staging.com
 
 # Hosts needed for 2FA auth in prod
@@ -93,3 +95,4 @@ www.ecb.europa.eu             # SO-52847
 i.ebayimg.com                 # SO-52885
 .android.googleapis.com   # SO-45188
 .gateway.push.apple.com  # SO-45188
+
