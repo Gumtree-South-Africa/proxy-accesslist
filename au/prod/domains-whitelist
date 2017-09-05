@@ -44,6 +44,7 @@ events.pagerduty.com
 github-cloud.s3.amazonaws.com
 go.googlecode.com
 grafanarel.s3.amazonaws.com
+graph.facebook.com  # Facebook robot access
 mirror.cogentco.com
 mirrors.sonic.net
 oss.sonatype.org
