@@ -1,5 +1,6 @@
 #
 # AU-CI tenant specifics
+.android.googleapis.com                            # SO-45188
 .apache.org
 .atlassian.com
 .bintray.com
@@ -8,6 +9,7 @@
 .erlang.org
 .fastly.net
 .fastlylb.net
+.gateway.push.apple.com                            # SO-45188
 .github.com
 .githubusercontent.com
 .github-production-release-asset-2e65be.s3.amazonaws.com
@@ -17,6 +19,8 @@
 .nexus.codehaus.org
 .nodejs.org
 .npmjs.org
+.pingidentity.com                                  # SO-52357
+.pingone.com                                       # SO-52357
 .python.org
 .repo.phloc.com
 .repository.jboss.org
@@ -32,21 +36,31 @@
 .sonatype.com
 .storage.googleapis.com
 
+accounts.google.com                                # GTAU-9036
 apache.mirror.digitalpacific.com.au
+api-verify.recaptcha.net
+api.indeed.com                                     # SO-47671
 api.pagerduty.com
-api.yesmail.com    # SO-52962
+api.yesmail.com                                    # SO-52962
+atom.boomi.com                                     # GTAU-15651
+au-extapi.intern.gumtree.com.au                    # SO-50310
 bucardo.org
+dataconnect.carsales.com.au
 download.elasticsearch.org
 download.redis.io
 download.strongswan.org
 download.zeromq.org
 downloads.sourceforge.net
+ebayapi.billing.nl                                 # GTAU-15651
+ebayapiuat.billing.nl                              # GTAU-15651
 events.pagerduty.com
 github-cloud.s3.amazonaws.com
 go.googlecode.com
 grafanarel.s3.amazonaws.com
-graph.facebook.com  # Facebook robot access
-mirror.cogentco.com
+graph.facebook.com                                 # Facebook robot access
+i.ebayimg.com                                      # SO-52885
+leadtracker.ahg.com.au                             # SO-43510, SO-47701, SO-50117
+mirror.cogentco.com 
 mirrors.sonic.net
 oss.sonatype.org
 phantomjs.googlecode.com
@@ -62,6 +76,9 @@ repository.springsource.com
 search.maven.org
 semicomplete.com
 sonatype-download.global.ssl.fastly.net
+tools.google.com                                   # GTAU-9036
+www.ecb.europa.eu                                  # SO-52847
+www.googleapis.com                                 # GTAU-9036
 www.erlang.org
 www.keepalived.org
 api.speedcurve.com
@@ -89,12 +106,4 @@ gumtree-au.upload.botify.com
 # SHOULD BE CHANGED when Catalyst project is live AS PER @mpais
 ebay-beta-api-gw.tract-staging.com
 
-# Hosts needed for 2FA auth in prod
-.pingidentity.com
-.pingone.com
-
-www.ecb.europa.eu             # SO-52847
-i.ebayimg.com                 # SO-52885
-.android.googleapis.com   # SO-45188
-.gateway.push.apple.com  # SO-45188
 
