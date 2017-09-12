@@ -22,6 +22,8 @@
 .gstatic.com
 .indeed.com
 .kijiji.ca
+.kijiji.limpsys.com
+.kijiji.net
 .kjdev.ca
 .locker.io
 .mediaplex.com
@@ -30,6 +32,7 @@
 .osuosl.org
 .overture.com
 .petfinder.com
+.point2.com
 .responsys.net
 .salesforce.com
 .sandbox.ebay.com
@@ -67,8 +70,6 @@ brantfordvw.com
 brianfinch.com
 brooksmotorproducts.com
 buku.com
-ca-uat2.classistatic.com
-cal.ams.kijiji.net
 calgarybmw.ca
 calgaryhonda.ca
 cambridgekia.com
@@ -77,7 +78,6 @@ central.maven.org
 ci.corp.mobile.de
 classistatic.com
 clojars.org
-cw.kijiji.net
 davisgmctrucks.ca
 de.archive.ubuntu.com
 dealer-site.com
@@ -125,7 +125,7 @@ hallmarktoyota.ca
 hub.browserstack.com
 hyundaigallerycalgary.ca
 icas.kjca.dev.qa-mp.so
-images.chryslercanada.ca 
+images.chryslercanada.ca
 images.re.kijijiturbo.com
 info.kijiji.com
 integrations.edealer.ca
@@ -141,10 +141,8 @@ kijiji.co.jp
 kijiji.com
 kijiji.com.tr
 kijiji.com.tw
-kijiji.net
 kijijibeta.com
 kijijiblog.ca
-kj-camisc001.intern.kijiji.net
 lfnapi.ebay.com
 lfnapi-new.ebay.com
 linux.dell.com
@@ -155,12 +153,9 @@ marktplaats.nl
 maven.restlet.org
 maxmind.com
 media.carbook.com
-media.point2.com
-mingle.uat2.kijiji.ca
 minicalgary.ca
 mirrors.ibiblio.org
 mirrors.jenkins-ci.org
-mweb.uat2.kijiji.ca
 myfamilyhonda.com
 nightlies.spray.io
 nl.archive.ubuntu.com
@@ -183,13 +178,11 @@ pfaffoutlet.com
 photos.strathcom.com
 pic.cdemo.com
 pictures.dealer.com
-pint.uat2.kijiji.ca
 ppa.launchpad.net
 prefsvc.qa.ebay.com
 production.s3.rubygems.org
 ps1.cdnmedia.autotrader.ca
 pypi.python.org
-qa.kijiji.ca
 rbsworldpay.com
 repo.spray.io
 repo.varnish-cache.org
@@ -204,6 +197,7 @@ rover.qa.ebay.com
 rsvp.com.au
 rsync.opencsw.org:873
 rubygems.org
+s3.amazonaws.com
 scougallmotors.com
 search.maven.org
 searchingforcars.com
@@ -212,7 +206,6 @@ seefinchfirst.com
 services.chromedata.com
 media.chromedata.com
 simplyautomotive.ca
-sit2.kijiji.ca
 sonatype.com
 static.albilegeant.com
 static.mobials.com
@@ -220,7 +213,6 @@ subaruoflethbridge.com
 thecardealers.ca
 twitter.com
 twv.com.tw
-uat2.kijiji.ca
 unclic.ca
 uniquechrysler.com
 update.sonarsource.org
