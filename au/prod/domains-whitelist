@@ -40,6 +40,7 @@ accounts.google.com                                # GTAU-9036
 apache.mirror.digitalpacific.com.au
 api-3t.paypal.com                                  #
 api-verify.recaptcha.net
+api.ebay.com                                       # SO-52963
 api.indeed.com                                     # SO-47671
 api.pagerduty.com
 api.paypal.com                                     # NO TICKET
@@ -62,6 +63,7 @@ go.googlecode.com
 grafanarel.s3.amazonaws.com
 graph.facebook.com                                 # Facebook robot access
 i.ebayimg.com                                      # SO-52885
+idauth.ebay.com                                    # SO-52963
 leadtracker.ahg.com.au                             # SO-43510, SO-47701, SO-50117
 mirror.cogentco.com 
 mirrors.sonic.net
@@ -80,12 +82,13 @@ repository.springsource.com
 search.maven.org
 semicomplete.com
 sonatype-download.global.ssl.fastly.net
-tools.google.com                                   # GTAU-9036
-www.ecb.europa.eu                                  # SO-52847
+svcs.ebay.com                                     # SO-52963
+tools.google.com                                  # GTAU-9036
+www.ecb.europa.eu                                 # SO-52847
 www.erlang.org
-www.googleapis.com                                 # GTAU-9036
+www.googleapis.com                                # GTAU-9036
 www.keepalived.org
-www.paypal.com                                     # NO TICKET
+www.paypal.com                                    # NO TICKET
 
 # CI needs to talk to QA envs via their public endpoints.
 # CI is a prod env.
