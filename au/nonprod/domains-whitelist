@@ -25,6 +25,7 @@ open.api.ebay.com
 
 # Paypal API ... all
 .paypal.com
+api.test13.stage.paypal.com
 
 # iTunes
 buy.itunes.apple.com
