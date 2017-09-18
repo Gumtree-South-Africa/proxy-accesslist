@@ -108,6 +108,9 @@ gateway.push.apple.com
 .billing.nl
 atom.boomi.com
 
+# Slack
+.slack.com
+
 #Paypal QA sandbox
 pilot-payflowpro.paypal.com
 .sandbox.paypal.com
