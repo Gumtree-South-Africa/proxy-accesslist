@@ -19,6 +19,7 @@ repository.apache.org
 repository.jboss.org
 .bintray.com
 repo.continuum.io
+conda.anaconda.org
 # PingID
 idpxnyl3m.pingidentity.com
 authenticator.pingone.com
