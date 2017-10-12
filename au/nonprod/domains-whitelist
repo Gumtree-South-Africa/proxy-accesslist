@@ -22,6 +22,7 @@ api.ebay.com
 lfnapi.ebay.com
 idauth.ebay.com
 open.api.ebay.com
+msa1.qa.ebay.com
 
 # Paypal API ... all
 .paypal.com
