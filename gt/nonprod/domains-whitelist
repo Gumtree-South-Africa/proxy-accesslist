@@ -1,3 +1,4 @@
+.amazonaws.com
 accounts.google.com
 akamai.bintray.com
 api-3t.sandbox.paypal.com
@@ -36,7 +37,6 @@ ftp.tsukuba.wide.ad.jp
 ftp.yz.yamagata-u.ac.jp
 gemmei.acc.umu.se
 gensho.acc.umu.se
-github-cloud.s3.amazonaws.com
 .github.com
 google-maven-repository.googlecode.com
 .gradle.org
@@ -45,7 +45,6 @@ gumtreejobs.madgexjbtest.com
 gumtree.uat-tribepad.com
 gumtreejobs-webservice.madgexjbtest.com
 h-api-sb.online-metrix.net
-hc-enterprise-binaries.s3.amazonaws.com
 jenkins.mirror.isppower.de
 lfnapi.ebay.com
 links.sonatype.com
