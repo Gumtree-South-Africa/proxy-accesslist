@@ -31,7 +31,7 @@ releases.hashicorp.com
 answerhub.corp.ebay.com
 .elastic.co
 marktplaats.upload.botify.com
-s.marktplaats.com
+.marktplaats.com
 .marktplaats.nl
 .pingidentity.com
 .pingone.com
@@ -39,3 +39,5 @@ sftp-live.adyen.com
 update.sonarsource.org
 .googleapis.com
 .google.com
+.klantenvertellen.nl
+.tevreden.nl
