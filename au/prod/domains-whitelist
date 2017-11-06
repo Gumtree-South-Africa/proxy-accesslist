@@ -35,6 +35,7 @@
 .slack-msgs.com
 .sonatype.com
 .storage.googleapis.com
+.clojars.org  # SO-53273
 
 accounts.google.com                                # GTAU-9036
 apache.mirror.digitalpacific.com.au
