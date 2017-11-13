@@ -197,6 +197,7 @@ repositories.cloud.ecg.so
 repositories.ecg.so
 repositories.ix5.core.prod.sn.ecg.so
 repository.apache.org
+repo.maven.apache.org
 repository.jboss.org
 repository.primefaces.org
 rover.qa.ebay.com
