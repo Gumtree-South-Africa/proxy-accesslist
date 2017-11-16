@@ -144,3 +144,14 @@ gateway.sandbox.push.apple.com
 # Forex Microservice
 # SO-52847
 www.ecb.europa.eu
+
+# Ad Verification Tests
+# GTAU-21645
+.googleadservices.com
+afs.googleusercontent.com
+www.googletagmanager.com
+www.googletagservices.com
+
+# Mortage Verification Tests
+# GTAU-21645
+www.ratecity.com.au
