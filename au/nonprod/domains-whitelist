@@ -149,9 +149,12 @@ www.ecb.europa.eu
 # GTAU-21645
 .googleadservices.com
 afs.googleusercontent.com
-www.googletagmanager.com
-www.googletagservices.com
+.googletagmanager.com
+.googletagservices.com
+.google-analytics.com
+.doubleclick.net
 
 # Mortage Verification Tests
 # GTAU-21645
-www.ratecity.com.au
+.ratecity.com.au
+
