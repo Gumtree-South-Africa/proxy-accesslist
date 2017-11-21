@@ -21,15 +21,15 @@ archives.jenkins-ci.org
 github.com
 # L&P
 .demo.qa-mp.so
-lp-topannoncer.dbabusiness.dk
 cas.qa.kijiji.ca
 .qa10.kjdev.ca
-grafana.net
+admarkt.xp.2dehands.com
 # PROD
 admarkt.marktplaats.nl
-topannoncer.dbabusiness.dk
 cas.kijiji.ca
 admarkt.kijiji.ca
+admarkt.2dehands.be
+admarkt.2ememain.be
 # Python PIP
 .python.org
 # QA tests
@@ -39,3 +39,5 @@ marktplaatszakelijk.nl
 .de-studio.nl
 # eps image processing
 .ebayimg.com
+# grafana dashboards import
+grafana.net
