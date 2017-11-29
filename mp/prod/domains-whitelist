@@ -51,3 +51,5 @@ publicsuffix.org
 .bitbucket.org
 .wpackagist.org
 .packagist.org
+downloads.wordpress.org
+plugins.svn.wordpress.org
