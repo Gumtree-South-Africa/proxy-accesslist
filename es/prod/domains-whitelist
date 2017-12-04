@@ -46,3 +46,4 @@ sensu.global.ssl.fastly.net
 spritelink.github.io
 ubuntu-cloud.archive.canonical.com
 www.rabbitmq.com
+pkg.ci.collectd.org
