@@ -115,6 +115,8 @@ atom.boomi.com
 #Paypal QA sandbox
 pilot-payflowpro.paypal.com
 .sandbox.paypal.com
+.paypalobjects.com
+
 
 # SO-43481 Apple QA/Sandbox site
 sandbox.itunes.apple.com
@@ -153,6 +155,7 @@ afs.googleusercontent.com
 .googletagservices.com
 .google-analytics.com
 .doubleclick.net
+.rokt.com
 
 # Mortage Verification Tests
 # GTAU-21645
