@@ -46,6 +46,7 @@ api.ziprecruiter.com
 .tidaltv.com
 .unhaggle.com
 .carpics2p0.com
+.s3.amazonaws.com
 10.254.128.41
 10.32.4.10
 195.78.85.201
@@ -120,7 +121,6 @@ github-stg.corp.ebay.com
 github.scm.corp.ebay.com
 google.com
 google.nl
-gsi-kijiji-kit.s3.amazonaws.com
 gslchevcity.com
 gumtree.co.nz
 gumtree.co.za
@@ -207,7 +207,6 @@ rover.qa.ebay.com
 rsvp.com.au
 rsync.opencsw.org:873
 rubygems.org
-s3.amazonaws.com
 scougallmotors.com
 search.maven.org
 searchingforcars.com
