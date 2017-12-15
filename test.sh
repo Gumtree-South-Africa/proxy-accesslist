@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 CONFIG=$(mktemp)
+echo 'test'
 
 # Generate a simple configuration sourcing only the files in this directory
 find $PWD -type f -name "domains-whitelist" -printf 'acl %P dstdomain "%p"\n' > $CONFIG
