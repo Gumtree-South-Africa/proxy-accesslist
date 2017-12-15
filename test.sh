@@ -2,6 +2,7 @@
 
 CONFIG=$(mktemp)
 
+
 # Generate a simple configuration sourcing only the files in this directory
 find $PWD -type f -name "domains-whitelist" -printf 'acl %P dstdomain "%p"\n' > $CONFIG
 find $PWD -type f -name "ips-whitelist" -printf 'acl %P dst "%p"\n' >> $CONFIG
