@@ -1,5 +1,4 @@
 #
-# AU-CI tenant specifics
 .android.googleapis.com                            # SO-45188
 .apache.org
 .atlassian.com
@@ -30,9 +29,10 @@
 .rubygems.org
 .rundeck.org
 .s3-us-west-2.amazonaws.com
-.salesforce.com                 # catalyst microsvc
+.salesforce.com                                   # catalyst microsvc
 .slack.com
 .slack-msgs.com
+.speedcurve.com                                   # SO-53371
 .sonatype.com
 .storage.googleapis.com
 .clojars.org  # SO-53273
@@ -45,7 +45,6 @@ api.ebay.com                                       # SO-52963
 api.indeed.com                                     # SO-47671
 api.pagerduty.com
 api.paypal.com                                     # NO TICKET
-api.speedcurve.com                                 # NO TICKET
 api.yesmail.com                                    # SO-52962
 atom.boomi.com                                     # GTAU-15651
 au-extapi.intern.gumtree.com.au                    # SO-50310
