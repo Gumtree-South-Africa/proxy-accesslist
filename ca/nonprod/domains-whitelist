@@ -69,7 +69,7 @@ autopricecanada.com
 autovaluehyundai.com
 aws-eu-cache01.rubygems.org
 barriehonda.com
-beclientsrv.qa.ebay.com
+# beclientsrv.qa.ebay.com # DUPLICATE
 bibit.com
 bingapis.com
 bmwgallery.ca
@@ -188,7 +188,7 @@ pictures.dealer.com
 pilot-payflowlink.paypal.com
 pilot-payflowpro.paypal.com
 ppa.launchpad.net
-prefsvc.qa.ebay.com
+# prefsvc.qa.ebay.com # DUPLICATE
 production.s3.rubygems.org
 ps1.cdnmedia.autotrader.ca
 pypi.python.org
@@ -203,7 +203,7 @@ repository.apache.org
 repo.maven.apache.org
 repository.jboss.org
 repository.primefaces.org
-rover.qa.ebay.com
+# rover.qa.ebay.com # DUPLICATE
 rsvp.com.au
 rsync.opencsw.org:873
 rubygems.org
@@ -238,7 +238,7 @@ worldpay.com
 www.acuraofbarrie.com
 www.advantageford.ca
 www.apache.org
-www.auth.stratus.qa.ebay.com
+# www.auth.stratus.qa.ebay.com # DUPLICATE
 www.auto123.com
 www.autocarcredit.ca
 www.beclientsrv.stratus.ebay.com
@@ -256,7 +256,7 @@ www.hintondodge.ca
 www.liquibase.org
 www.maximinc.com
 www.paypal-marketing.ca
-www.prefsvc.stratus.qa.ebay.com
+# www.prefsvc.stratus.qa.ebay.com # DUPLICATE
 www.soapui.org
 www.sonarsource.com
 www.taketheroad.com

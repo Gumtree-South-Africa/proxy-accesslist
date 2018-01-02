@@ -56,7 +56,7 @@
 .redis.io
 .rubygems.org
 .s.adroll.com
-.s3.amazonaws.com
+# .s3.amazonaws.com # DUPLICATE
 .s3-cdn.invisionapp.com
 .salesforce.com
 .scala-sbt.org
@@ -81,12 +81,12 @@
 api.runscope.com
 apt.dockerproject.org
 .ubuntu.com
-auth.corp.mobile.de
-aws-eu-cache01.rubygems.org
-bower.corp.mobile.de
+# auth.corp.mobile.de # DUPLICATE
+# aws-eu-cache01.rubygems.org # DUPLICATE
+# bower.corp.mobile.de # DUPLICATE
 bower.herokuapp.com
 bower.io
-chromedriver.storage.googleapis.com
+# chromedriver.storage.googleapis.com # DUPLICATE
 conda-forge.org
 ebay01.detroncloud.nl
 developer.jasig.org
@@ -107,7 +107,7 @@ p80.pool.sks-keyservers.net
 pki.corp.ebay.com
 projectlombok.org
 pyx4j.com
-registry.npmjs.org
+# registry.npmjs.org # DUPLICATE
 releases.hashicorp.com
 repo.terracotta.org
 repo.typesafe.com

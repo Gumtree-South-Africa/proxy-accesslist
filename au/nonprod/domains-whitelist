@@ -26,7 +26,7 @@ msa1.qa.ebay.com
 
 # Paypal API ... all
 .paypal.com
-api.test13.stage.paypal.com
+# api.test13.stage.paypal.com # DUPLICATE
 # Trying to see if this works 
 api.test13.stage.paypal.com:11888
 
@@ -55,8 +55,8 @@ ssl-gumtree.classistatic.com
 
 # Salesforce (plain and SSL)
 .salesforce.com
-.my.salesforce.com
-gumtreeau--full.cs31.my.salesforce.com
+# .my.salesforce.com # DUPLICATE
+# gumtreeau--full.cs31.my.salesforce.com # DUPLICATE
 # Catalyst Integration
 ebay-beta-api-gw.tract-staging.com
 
@@ -96,7 +96,7 @@ api.yesmail.com
 api.test.yesmail.com
 
 # SO-45188 mobile push notifications
-android.googleapis.com
+# android.googleapis.com # DUPLICATE
 gateway.push.apple.com
 ## explicitly by port, but not likely to work, because of how the squid config is created
 ##gateway.push.apple.com:2195
@@ -113,8 +113,8 @@ atom.boomi.com
 .slack.com
 
 #Paypal QA sandbox
-pilot-payflowpro.paypal.com
-.sandbox.paypal.com
+# pilot-payflowpro.paypal.com # DUPLICATE
+# .sandbox.paypal.com # DUPLICATE
 .paypalobjects.com
 
 
