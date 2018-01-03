@@ -25,7 +25,7 @@
 .repository.jboss.org
 .rubyforge.org
 .rubygems-mirror.org
-.rubygems.global.ssl.fastly.net
+# .rubygems.global.ssl.fastly.net # DUPLICATE
 .rubygems.org
 .rundeck.org
 .s3-us-west-2.amazonaws.com
@@ -71,23 +71,23 @@ oss.sonatype.org
 payflowpro.paypal.com                              # NO TICKET
 phantomjs.googlecode.com
 prdownloads.sourceforge.net
-production.cf.rubygems.org
+# production.cf.rubygems.org # DUPLICATE
 projects.unbit.it
-raw.github.com
+# raw.github.com # DUPLICATE
 releases.hashicorp.com
 repo.scala-sbt.org
 repo.typesafe.com
 repository.cloudera.com
 repository.springsource.com
-search.maven.org
+# search.maven.org # DUPLICATE
 semicomplete.com
-sonatype-download.global.ssl.fastly.net
+# sonatype-download.global.ssl.fastly.net # DUPLICATE
 svcs.ebay.com                                     # SO-52963
 tools.google.com                                  # GTAU-9036
 www.ecb.europa.eu                                 # SO-52847
-www.erlang.org
+# www.erlang.org # DUPLICATE
 www.googleapis.com                                # GTAU-9036
-www.keepalived.org
+# www.keepalived.org # DUPLICATE
 www.paypal.com                                    # NO TICKET
 
 # CI needs to talk to QA envs via their public endpoints.

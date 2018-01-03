@@ -145,11 +145,11 @@ maven.restlet.org
 maxmind.com
 media.carbook.com
 media.point2.com
-mingle.uat2.kijiji.ca
+# mingle.uat2.kijiji.ca # DUPLICATE
 minicalgary.ca
 mirrors.ibiblio.org
 mirrors.jenkins-ci.org
-mweb.uat2.kijiji.ca
+# mweb.uat2.kijiji.ca # DUPLICATE
 myfamilyhonda.com
 nightlies.spray.io
 nl.archive.ubuntu.com
@@ -168,13 +168,13 @@ pfaffoakville.com
 pfaffoutlet.com
 photos.strathcom.com
 pic.cdemo.com
-pint.uat2.kijiji.ca
+# pint.uat2.kijiji.ca # DUPLICATE
 ppa.launchpad.net
 prefsvc.qa.ebay.com
 production.s3.rubygems.org
 ps1.cdnmedia.autotrader.ca
 pypi.python.org
-qa.kijiji.ca
+# qa.kijiji.ca # DUPLICATE
 rbsworldpay.com
 repo.spray.io
 repo.varnish-cache.org
@@ -195,7 +195,7 @@ searchingforcars.com
 security.ubuntu.com
 seefinchfirst.com
 simplyautomotive.ca
-sit2.kijiji.ca
+# sit2.kijiji.ca # DUPLICATE
 sonatype.com
 sonatype.org
 static.albilegeant.com
@@ -203,7 +203,7 @@ subaruoflethbridge.com
 thecardealers.ca
 twitter.com
 twv.com.tw
-uat2.kijiji.ca
+# uat2.kijiji.ca # DUPLICATE
 unclic.ca
 uniquechrysler.com
 update.sonarsource.org

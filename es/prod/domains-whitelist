@@ -6,7 +6,7 @@ apt.dockerproject.org
 apt.postgresql.org
 apt.puppetlabs.com
 archive.cloudera.com
-artifacts.elastic.co
+# artifacts.elastic.co # DUPLICATE
 deb.nodesource.com
 deb.theforeman.org
 debian.datastax.com
