@@ -6,7 +6,6 @@ apt.dockerproject.org
 apt.postgresql.org
 apt.puppetlabs.com
 archive.cloudera.com
-# artifacts.elastic.co # DUPLICATE
 deb.nodesource.com
 deb.theforeman.org
 debian.datastax.com
@@ -31,7 +30,8 @@ packages.confluent.io
 packages.elasticsearch.org
 packages.erlang-solutions.com
 packages.pagerduty.com
-packages.pingidentity.com
+.pingidentity.com
+.pingone.com
 pkg.jenkins-ci.org
 pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
