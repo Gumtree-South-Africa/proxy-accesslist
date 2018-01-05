@@ -62,6 +62,7 @@
 .wpstn.com
 .newrelic.com
 .docker.io
+.cloudfront.net
 akamai.bintray.com
 api-3t.paypal.com
 api-int.phx.ops.pp.po.ecg.so
@@ -176,3 +177,4 @@ authenticator.pingone.com
 api.conekta.io
 sftp.fiqas.nl
 sfgext.acxiom.com
+gcr.io
