@@ -25,6 +25,7 @@ mirror.fuel-infra.org
 nginx.org
 oss-binaries.phusionpassenger.com
 packagecloud.io
+packagecloud-repositories.s3.dualstack.us-west-1.amazonaws.com
 packages.cloud.google.com
 packages.confluent.io
 packages.elasticsearch.org
