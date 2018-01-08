@@ -1,0 +1,16 @@
+# Source locations
+.github.corp.ebay.com
+.github.com
+
+# Build dependencies
+.nuget.org
+.elastic.co
+.docker.com
+.docker.io
+
+# Notification services
+.slack.com
+.pagerduty.com
+
+# Services used for tests
+.ebayimg.com
