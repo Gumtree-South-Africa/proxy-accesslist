@@ -30,6 +30,7 @@
 .rundeck.org
 .s3-us-west-2.amazonaws.com
 .salesforce.com                                   # catalyst microsvc
+.sks-keyservers.net                               # Sonar builds
 .slack.com
 .slack-msgs.com
 .speedcurve.com                                   # SO-53371
