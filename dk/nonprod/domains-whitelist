@@ -7,6 +7,7 @@
 .elastic.co
 .docker.com
 .docker.io
+.cloudfront.net
 
 # Notification services
 .slack.com
