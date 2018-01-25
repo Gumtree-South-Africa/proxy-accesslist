@@ -8,6 +8,8 @@
 .docker.com
 .docker.io
 .cloudfront.net
+.hashicorp.com
+.hosting.dk.ecg.so
 
 # Notification services
 .slack.com
