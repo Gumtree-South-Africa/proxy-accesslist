@@ -1,150 +1,26 @@
-# sorted by tld
-.amazonaws.com
-mirror.amsiohosting.net # taken over from ST proxy whitelist
-.anaconda.org # taken over from ST proxy whitelist
-repository.apache.org
-www.apache.org # taken over from ST proxy whitelist
-.bintray.com
-ubuntu-cloud.archive.canonical.com # taken over from ST proxy whitelist
-.cloudfront.net
-.centos.org # taken over from ST proxy whitelist
-ceph.com # taken over from ST proxy whitelist
-cloudera.com # taken over from ST proxy whitelist
-cops.cloudera.com # taken over from ST proxy whitelist
-ocsp.comodoca.com # taken over from ST proxy whitelist
-packages.confluent.io
-repo.continuum.io
-developers.crittercism.com # taken over from ST proxy whitelist
-# corppki # taken over from ST proxy whitelist ?
-debian.datastax.com # taken over from ST proxy whitelist
-debian.org # taken over from ST proxy whitelist
-dell.com # taken over from ST proxy whitelist
-ftp.dell.com # taken over from ST proxy whitelist
-linux.dell.com # taken over from ST proxy whitelist
-mirror.dkd.de
-download.docker.com # taken over from ST proxy whitelist
-docker.io # taken over from ST proxy whitelist
-.docker.io
-apt.dockerproject.org # taken over from ST proxy whitelist
+api.segment.io
 yum.dockerproject.org
-.ebayclassifiedsgroup.com # taken over from ST proxy whitelist
-i.ebayimg.com
-nocgraphite.ecg.so # taken over from ST proxy whitelist
-repo.eclipse.org # taken over from ST proxy whitelist
-.elastic.co # taken over from ST proxy whitelist
-download.elasticsearch.org # taken over from ST proxy whitelist
-packages.elasticsearch.org # taken over from ST proxy whitelist
-packages.erlang-solutions.com # taken over from ST proxy whitelist
-sdw.ecb.europa.eu # taken over from ST proxy whitelist
-packagecloud-oss.global.ssl.fastly.net # taken over from ST proxy whitelist
-packagecloud-prod.global.ssl.fastly.net # taken over from ST proxy whitelist
-rubygems.global.ssl.fastly.net # taken over from ST proxy whitelist
-sensu.global.ssl.fastly.net # taken over from ST proxy whitelist
-fedorapeople.org # taken over from ST proxy whitelist
-mirror.fuel-infra.org # taken over from ST proxy whitelist
-.github.com
-raw.githubusercontent.com # taken over from ST proxy whitelist
-spritelink.github.io # taken over from ST proxy whitelist
-github.corp.ebay.com # taken over from ST proxy whitelist
-github.scm.corp.ebay.com # taken over from ST proxy whitelist
-jira-staging.corp.ebay.com # taken over from ST proxy whitelist
-jira.corp.ebay.com # taken over from ST proxy whitelist
-mpnexus.corp.ebay.com # taken over from ST proxy whitelist
-nexus.corp.mobile.de # taken over from ST proxy whitelist
-download.gluster.org # taken over from ST proxy whitelist
-accounts.google.com # taken over from ST proxy whitelist
-dl.google.com # taken over from ST proxy whitelist
-packages.cloud.google.com # taken over from ST proxy whitelist
-gerrit-maven.storage.googleapis.com # taken over from ST proxy whitelist
-storage-download.googleapis.com # taken over from ST proxy whitelist
-storage-upload.googleapis.com # taken over from ST proxy whitelist
-storage.googleapis.com # taken over from ST proxy whitelist
-www.googleapis.com # taken over from ST proxy whitelist
-googlesource.com # taken over from ST proxy whitelist
-gumtree.com # taken over from ST proxy whitelist
-.gradle.org # taken over from ST proxy whitelist
-atlas.hashicorp.com # taken over from ST proxy whitelist
-releases.hashicorp.com # taken over from ST proxy whitelist
-downloads.linux.hp.com # taken over from ST proxy whitelist
-downloads.linux.hpe.com # taken over from ST proxy whitelist
-www.humanity.com # taken over from ST proxy whitelist
-repository.jboss.org
-jenkins-ci.org # taken over from ST proxy whitelist
-mirrors.jenkins.io # taken over from ST proxy whitelist
-pkg.jenkins.io # taken over from ST proxy whitelist
-ppa.launchpad.net # taken over from ST proxy whitelist
-mirror.nl.leaseweb.net # taken over from ST proxy whitelist
-i.marktplaats.com # taken over from ST proxy whitelist
-mathias-kettner.de # taken over from ST proxy whitelist
-git.mathias-kettner.de # taken over from ST proxy whitelist
-repo1.maven.org
 repos.mesosphere.com
 universe.mesosphere.com
 downloads.mesosphere.com
-.microsoft.com # taken over from ST proxy whitelist
-ipv6.msftncsi.com/ncsi.txt # taken over from ST proxy whitelist
-www.msftncsi.com/ncsi.txt # taken over from ST proxy whitelist
-aivision-ext.nchant.us # taken over from ST proxy whitelist
-ftp.nluug.nl # taken over from ST proxy whitelist
-deb.nodesource.com # taken over from ST proxy whitelist
-developer.download.nvidia.com # taken over from ST proxy whitelist
-svn.observium.org # taken over from ST proxy whitelist
-rsync.opencsw.org # taken over from ST proxy whitelist
-ftp.osuosl.org # taken over from ST proxy whitelist
-ftp-chi.osuosl.org # taken over from ST proxy whitelist
-ftp-nyc.osuosl.org # taken over from ST proxy whitelist
-rsync.osuosl.org # taken over from ST proxy whitelist
-packagecloud.io # taken over from ST proxy whitelist
-api.pagerduty.com # taken over from ST proxy whitelist
-events.pagerduty.com # taken over from ST proxy whitelist
-packages.pagerduty.com # taken over from ST proxy whitelist
-.paloaltonetworks.com # taken over from ST proxy whitelist
-repo.percona.com # taken over from ST proxy whitelist
-verifier.login.persona.org # taken over from ST proxy whitelist
-oss-binaries.phusionpassenger.com # taken over from ST proxy whitelist
-idpxnyl3m.pingidentity.com
-packages.pingidentity.com # taken over from ST proxy whitelist
-authenticator.pingone.com
-api.pingdom.com # taken over from ST proxy whitelist
-apt.postgresql.org # taken over from ST proxy whitelist
-download.postgresql.org # taken over from ST proxy whitelist
-repo.powerdns.com # taken over from ST proxy whitelist
-www.process-one.net # taken over from ST proxy whitelist
-cdp1.public-trust.com # taken over from ST proxy whitelist
-inf.puc-rio.br # taken over from ST proxy whitelist
-.puppetlabs.com # taken over from ST proxy whitelist
+.amazonaws.com
+.github.com
+.docker.io
+packages.confluent.io
+.cloudfront.net
 pypi.python.org
+mirror.dkd.de
 cloud.r-project.org
-www.rabbitmq.com # taken over from ST proxy whitelist
 static.rexamine.com
-rubygems.org # taken over from ST proxy whitelist
-debian.saltstack.com # taken over from ST proxy whitelist
-repo.saltstack.com # taken over from ST proxy whitelist
-repo.scala-sbt.org
-api.segment.io
-repositories.sensuapp.org # taken over from ST proxy whitelist
-mirror.serversupportforum.de # taken over from ST proxy whitelist
-www.shiftplanning.com # taken over from ST proxy whitelist
-ftp.shrubbery.net # taken over from ST proxy whitelist
-.slack-msgs.com # taken over from ST proxy whitelist
-.slack.com # taken over from ST proxy whitelist
-sourceforge.net # taken over from ST proxy whitelist
-api.speedcurve.com # taken over from ST proxy whitelist
-deb.theforeman.org # taken over from ST proxy whitelist
-yum.theforeman.org # taken over from ST proxy whitelist
+repo1.maven.org
 repo.typesafe.com
-.ubuntu.com # taken over from ST proxy whitelist
-crl.usertrust.com # taken over from ST proxy whitelist
-vagrantup.com # taken over from ST proxy whitelist
-repo.varnish-cache.org # taken over from ST proxy whitelist
-vmware.com # taken over from ST proxy whitelist
-packages.vmware.com # taken over from ST proxy whitelist
-ftpsite.vmware.com # taken over from ST proxy whitelist
-phtransfer.vmware.com # taken over from ST proxy whitelist
-supportassistant.vmware.com # taken over from ST proxy whitelist
-vapp-updates.vmware.com # taken over from ST proxy whitelist
-vcsa.vmware.com # taken over from ST proxy whitelist
-www.vmware.com # taken over from ST proxy whitelist
-.windowsupdate.com # taken over from ST proxy whitelist
-mirror.xmission.com # taken over from ST proxy whitelist
-.zfsonlinux.org # taken over from ST proxy whitelist
+repo.scala-sbt.org
+repository.apache.org
+repository.jboss.org
+.bintray.com
+repo.continuum.io
+conda.anaconda.org
+i.ebayimg.com
+# PingID
+idpxnyl3m.pingidentity.com
+authenticator.pingone.com
