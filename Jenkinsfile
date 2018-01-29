@@ -2,12 +2,15 @@
 
 pipeline {
     agent { label 'Slaves' }
-
+   
 
     stages {
         stage('Checkout') {
-            steps {
-                slackSend color: 'good', message: 'Running whitelist test', teamDomain: 'ebayclassifiedsgroup', token: credentials('slack-token')
+        environment {
+            SLACK_TOKEN = credentials('slack-token')
+        }
+             steps {
+                slackSend color: 'good', message: 'Running whitelist test', teamDomain: 'ebayclassifiedsgroup', token: ${env.SLACK_TOKEN}
                 
                 sh 'sudo yum install squid -y'
                 checkout scm
