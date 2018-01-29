@@ -32,4 +32,12 @@ pipeline {
             }
         }   
     }
+    post {
+        success {
+            setGitHubPullRequestStatus context: 'Cloud/ci-jenkins', message: 'Passed', state: 'SUCCESS'
+        }
+        failure {
+            setGitHubPullRequestStatus context: 'Cloud/ci-jenkins', message: 'Failed tests', state: 'FAILURE'
+        }
+    }    
 }
