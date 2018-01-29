@@ -37,6 +37,8 @@ launchpad.net
 p80.pool.sks-keyservers.net
 .packagecloud.io
 .pagerduty.com
+.pingidentity.com
+.pingone.com
 pkg.jenkins.io
 .python.org
 releases.hashicorp.com
