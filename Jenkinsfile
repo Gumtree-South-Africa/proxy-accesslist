@@ -7,7 +7,8 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                slackSend color: 'good', message: 'Running whitelist test'
+                slackSend color: 'good', message: 'Running whitelist test', teamDomain: 'ebayclassifiedsgroup', token: credentials('slack-token')
+                
                 sh 'sudo yum install squid -y'
                 checkout scm
                    sh 'sudo yum install squid -y'
