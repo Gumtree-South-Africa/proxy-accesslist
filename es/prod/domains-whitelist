@@ -6,6 +6,7 @@ apt.dockerproject.org
 apt.postgresql.org
 apt.puppetlabs.com
 archive.cloudera.com
+.cloudfront.net
 deb.nodesource.com
 deb.theforeman.org
 debian.datastax.com
@@ -21,7 +22,7 @@ downloads-distro.mongodb.org
 downloads.linux.hpe.com
 downloads.sourceforge.net
 erepo.saltstack.com
-gcr.io
+.gcr.io
 linux.dell.com
 mirror.fuel-infra.org
 nginx.org
