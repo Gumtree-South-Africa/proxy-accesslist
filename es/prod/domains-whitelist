@@ -13,13 +13,15 @@ debian.saltstack.com
 developer.download.nvidia.com
 dl.bintray.com
 dl.google.com
+.docker.com
+.docker.io
 download.ceph.com
-download.docker.com
 download.gluster.org
 downloads-distro.mongodb.org
 downloads.linux.hpe.com
 downloads.sourceforge.net
 erepo.saltstack.com
+gcr.io
 linux.dell.com
 mirror.fuel-infra.org
 nginx.org
