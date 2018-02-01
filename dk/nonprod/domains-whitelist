@@ -35,3 +35,7 @@ download.oracle.com
 archive.apache.org
 dl.google.com
 www.python.org
+
+# TensorFlow releases download
+storage.googleapis.com
+
