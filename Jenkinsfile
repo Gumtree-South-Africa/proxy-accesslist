@@ -12,6 +12,7 @@ pipeline {
                 
                 sh 'sudo yum install squid -y'
                 sh 'git status'
+                sh 'git log -p | head -n 30' 
                 sh '''CONFIG=$(mktemp)
 
                     # Generate a simple configuration sourcing only the files in this directory
