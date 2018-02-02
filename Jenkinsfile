@@ -12,10 +12,8 @@ pipeline {
                 slackSend color: 'good', message: 'Starting whitelist test', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
                 
                 sh 'sudo yum install squid -y'
-                checkout scm
-                   sh 'sudo yum install squid -y'
-                   sh 'git status'
-                   sh '''CONFIG=$(mktemp)
+                sh 'git status'
+                sh '''CONFIG=$(mktemp)
 
                     # Generate a simple configuration sourcing only the files in this directory
                     find $PWD -type f -name "domains-whitelist" -printf 'acl %P dstdomain "%p"\n' > $CONFIG
