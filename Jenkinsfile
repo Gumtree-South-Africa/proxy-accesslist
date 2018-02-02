@@ -10,7 +10,7 @@ pipeline {
             SLACK_TOKEN = credentials('slack-token')
         }
              steps {
-                slackSend color: 'good', message: 'Running whitelist test', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+                slackSend color: 'good', message: 'Starting whitelist test', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
                 
                 sh 'sudo yum install squid -y'
                 checkout scm
@@ -37,5 +37,15 @@ pipeline {
             }
         }   
     }
-   
+    post {
+        success {
+          slackSend color: 'good', message: 'Whitelist test passed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+        }
+        failure {
+          slackSend color: 'bad', message: 'Whitelist test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+        }
+        unstable {
+          slackSend color: 'bad', message: 'Whitelist test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+        }
+    }
 }
