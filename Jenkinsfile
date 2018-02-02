@@ -2,13 +2,12 @@
 
 pipeline {
     agent { label 'Slaves' }
+    environment {
+        SLACK_TOKEN = credentials('slack-token')
+    }
    
-
     stages {
         stage('Checkout') {
-        environment {
-            SLACK_TOKEN = credentials('slack-token')
-        }
              steps {
                 slackSend color: 'good', message: 'Starting whitelist test', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
                 
