@@ -5,7 +5,6 @@ pipeline {
     environment {
         SLACK_TOKEN = credentials('slack-token')
     }
-   
     stages {
         stage('Checkout') {
              steps {
@@ -30,7 +29,6 @@ pipeline {
                     rm -f $CONFIG
                     # Return the exit code (0=OK, 1=ERROR)
                     exit $ERROR'''
-                
             }
         }   
     }
