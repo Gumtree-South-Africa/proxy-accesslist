@@ -42,6 +42,7 @@ pipeline {
                     sh 'git fetch origin master'
                 }
                 // Test master is ok
+                sh 'git checkout master'
                 sh 'sudo bash /tmp/squidtest.sh'
             }
         }
