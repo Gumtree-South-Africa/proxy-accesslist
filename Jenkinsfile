@@ -35,9 +35,13 @@ pipeline {
         stage('Build Master') {
             steps {
                 slackSend color: 'good', message: 'PROXY :: Running whitelist test against MASTER', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
-
-                sh 'git status'
-                sh 'git log -p | head -n 30'
+                
+                // Fetch master branch
+                sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
+                    sh 'git fetch -a -v'
+                    sh 'git fetch origin master'
+                }
+                // Test master is ok
                 sh 'sudo bash /tmp/squidtest.sh'
             }
         }
@@ -49,10 +53,12 @@ pipeline {
             }
             steps {
                 slackSend color: 'good', message: "PROXY :: Starting whitelist test on ${env.ghprbPullLink} ", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
-                sh 'echo  "${ghprbActualCommit}"'
-                sh 'git checkout -f "${ghprbActualCommit}"'
-                sh 'git status'
-                sh 'git log -p | head -n 30'
+                // Fetch pull request
+                sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
+                    sh "git fetch origin pull/${ghprbPullId}/head:pull-request-${ghprbPullId}"                  
+                }
+                sh "git checkout pull-request-${ghprbPullId}"
+                sh "git show ${ghprbActualCommit}"   
                 sh 'sudo bash /tmp/squidtest.sh'
             }
         }
