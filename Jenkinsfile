@@ -62,6 +62,12 @@ pipeline {
                 sh 'sudo bash /tmp/squidtest.sh'
             }
         }
+        // Clean up folder
+        stage('Clean up workspace') {
+            steps {
+                cleanWs()
+            }
+        }
     }
     post {
         success {
