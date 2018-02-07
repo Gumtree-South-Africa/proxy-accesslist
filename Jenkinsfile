@@ -59,6 +59,7 @@ pipeline {
                     sh "git fetch origin pull/${ghprbPullId}/head:pull-request-${ghprbPullId}"                  
                 }
                 sh "git checkout pull-request-${ghprbPullId}"
+                sh "git diff master..pull-request-${ghprbPullId}"
                 sh "git show ${ghprbActualCommit}"   
                 sh 'sudo bash /tmp/squidtest.sh'
             }
