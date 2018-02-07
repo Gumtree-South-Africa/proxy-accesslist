@@ -24,6 +24,7 @@ downloads.linux.hpe.com
 downloads.sourceforge.net
 erepo.saltstack.com
 .gcr.io
+.launchpad.net
 linux.dell.com
 mirror.fuel-infra.org
 nginx.org
@@ -42,7 +43,6 @@ packages.pagerduty.com
 pkg.jenkins-ci.org
 pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
-ppa.launchpad.net
 repo.aptly.info
 repo.mongodb.org
 repo.percona.com
@@ -53,6 +53,7 @@ repo.yandex.ru
 repos.mesosphere.com
 sensu.global.ssl.fastly.net
 spritelink.github.io
+static.nvd.nist.gov
 ubuntu-cloud.archive.canonical.com
 www.rabbitmq.com
 pkg.ci.collectd.org
