@@ -29,7 +29,7 @@ pipeline {
                     # Return the exit code (0=OK, 1=ERROR)
                     exit $ERROR'''
                 
-                slackSend color: 'good', message: "PROXY :: Running whitelist test (<${env.BUILD_URL}|Open>)", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+                slackSend color: 'good', message: "PROXY :: Running whitelist test (<${env.BUILD_URL}/console|Link>)", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
 
             }
         }
