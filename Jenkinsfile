@@ -28,6 +28,9 @@ pipeline {
                     rm -f $CONFIG
                     # Return the exit code (0=OK, 1=ERROR)
                     exit $ERROR'''
+                
+                slackSend color: 'good', message: "PROXY :: Running whitelist test (<${env.BUILD_URL}|Open>)", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+
             }
         }
 
@@ -53,7 +56,7 @@ pipeline {
                 expression { env.ghprbActualCommit != null }
             }
             steps {
-                slackSend color: 'good', message: "PROXY :: Starting whitelist test on ${env.ghprbPullLink} ", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+                slackSend color: 'good', message: "PROXY :: Starting whitelist test on (<${env.ghprbPullLink}|#${ghprbPullId}>) ", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
                 // Fetch pull request
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
                     sh "git fetch origin pull/${ghprbPullId}/head:pull-request-${ghprbPullId}"                  
