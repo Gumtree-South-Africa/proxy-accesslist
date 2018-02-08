@@ -47,6 +47,7 @@ pipeline {
                 // Test master is ok
                 sh 'git checkout master'
                 sh 'sudo bash /tmp/squidtest.sh'
+                sh './folder_test.py'
             }
         }
 
@@ -65,6 +66,7 @@ pipeline {
                 sh "git diff master..pull-request-${ghprbPullId}"
                 sh "git show ${ghprbActualCommit}"   
                 sh 'sudo bash /tmp/squidtest.sh'
+                sh './folder_test.py'
             }
         }
         // Clean up folder
