@@ -10,6 +10,7 @@ github.com
 .cloudfront.net
 .hashicorp.com
 .hosting.dk.ecg.so
+rubygems.org
 
 # Notification services
 .slack.com
