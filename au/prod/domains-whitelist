@@ -115,3 +115,5 @@ gumtree-au.upload.botify.com
 ebay-beta-api-gw.tract-staging.com
 
 gumtreeapi.carrecord.com.au # SO-53487
+
+h-api.online-metrix.net # ThreatMetrix - their own generic domain, not our custom one.
