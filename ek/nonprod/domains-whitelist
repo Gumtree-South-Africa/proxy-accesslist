@@ -88,7 +88,6 @@ apt.dockerproject.org
 # bower.corp.mobile.de # DUPLICATE
 bower.herokuapp.com
 bower.io
-# chromedriver.storage.googleapis.com # DUPLICATE
 conda-forge.org
 ebay01.detroncloud.nl
 developer.jasig.org
@@ -125,3 +124,5 @@ packages.confluent.io
 .aptly.info
 .pagerduty.com
 .ebay-kleinazneigen.de
+dl.k8s.io
+.gcr.io
