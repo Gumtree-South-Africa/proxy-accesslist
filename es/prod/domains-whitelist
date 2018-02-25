@@ -43,6 +43,7 @@ packages.pagerduty.com
 pkg.jenkins-ci.org
 pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
+quay.io
 repo.aptly.info
 repo.mongodb.org
 repo.percona.com
