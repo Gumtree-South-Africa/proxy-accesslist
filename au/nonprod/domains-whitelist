@@ -88,6 +88,8 @@ ftp.glassguide.com.au
 
 # facebook
 graph.facebook.com
+# needed for selenium grid running in our QA tenants, oauth calls to login as facebook user
+www.facebook.com
 
 # GTAU-10533
 api.yesmail.com
