@@ -25,7 +25,6 @@ mirror.dkd.de
 .docker.com # taken over from ST proxy whitelist
 .docker.io # taken over from ST proxy whitelist
 .dockerproject.org # taken over from ST proxy whitelist
-.dockerproject.org
 .ebayclassifiedsgroup.com # taken over from ST proxy whitelist
 i.ebayimg.com
 nocgraphite.ecg.so # taken over from ST proxy whitelist
