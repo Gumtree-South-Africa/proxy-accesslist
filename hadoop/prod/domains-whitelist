@@ -22,10 +22,10 @@ dell.com # taken over from ST proxy whitelist
 ftp.dell.com # taken over from ST proxy whitelist
 linux.dell.com # taken over from ST proxy whitelist
 mirror.dkd.de
-download.docker.com # taken over from ST proxy whitelist
-docker.io # taken over from ST proxy whitelist
-apt.dockerproject.org # taken over from ST proxy whitelist
-yum.dockerproject.org
+.docker.com # taken over from ST proxy whitelist
+.docker.io # taken over from ST proxy whitelist
+.dockerproject.org # taken over from ST proxy whitelist
+.dockerproject.org
 .ebayclassifiedsgroup.com # taken over from ST proxy whitelist
 i.ebayimg.com
 nocgraphite.ecg.so # taken over from ST proxy whitelist
