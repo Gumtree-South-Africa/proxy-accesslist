@@ -1,4 +1,5 @@
 .alpinelinux.org
+.alpinelinux.org
 .amazonaws.com
 .analytics.freespee.com
 .apache.org
@@ -59,7 +60,6 @@ golang.org
 .redis.io
 .rubygems.org
 .s.adroll.com
-# .s3.amazonaws.com # DUPLICATE
 .s3-cdn.invisionapp.com
 .salesforce.com
 .scala-sbt.org
@@ -84,12 +84,8 @@ golang.org
 api.runscope.com
 apt.dockerproject.org
 .ubuntu.com
-# auth.corp.mobile.de # DUPLICATE
-# aws-eu-cache01.rubygems.org # DUPLICATE
-# bower.corp.mobile.de # DUPLICATE
 bower.herokuapp.com
 bower.io
-# chromedriver.storage.googleapis.com # DUPLICATE
 conda-forge.org
 ebay01.detroncloud.nl
 developer.jasig.org
@@ -110,7 +106,6 @@ p80.pool.sks-keyservers.net
 pki.corp.ebay.com
 projectlombok.org
 pyx4j.com
-# registry.npmjs.org # DUPLICATE
 releases.hashicorp.com
 repo.terracotta.org
 repo.typesafe.com
@@ -125,11 +120,11 @@ packages.confluent.io
 .elastic.co
 .aptly.info
 .pagerduty.com
+.cypress.io
 .digitalelement.com
 update.sonarsource.org
 sonarqube.org
 sonarplugins.com
-# k8s:
 .k8s.io
 gcr.io
 quay.io
