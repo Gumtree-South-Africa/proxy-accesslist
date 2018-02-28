@@ -124,5 +124,7 @@ packages.confluent.io
 .aptly.info
 .pagerduty.com
 .ebay-kleinazneigen.de
-dl.k8s.io
-.gcr.io
+# k8s:
+.k8s.io
+gcr.io
+quay.io

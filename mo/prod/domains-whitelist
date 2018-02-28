@@ -24,3 +24,7 @@ maps.googleapis.com
 .pingone.com
 .analytics.freespee.com
 .slack.com
+# k8s:
+.k8s.io
+gcr.io
+quay.io

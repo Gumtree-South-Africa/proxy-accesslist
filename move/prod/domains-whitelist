@@ -11,3 +11,7 @@ maps.googleapis.com
 .slack.com
 .grafana.com
 .cloudfront.net
+# k8s:
+.k8s.io
+gcr.io
+quay.io

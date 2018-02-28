@@ -23,3 +23,7 @@ maps.googleapis.com
 .analytics.freespee.com
 .slack.com
 .ebay-kleinanzeigen.de
+# k8s:
+.k8s.io
+gcr.io
+quay.io

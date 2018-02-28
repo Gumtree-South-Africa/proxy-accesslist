@@ -56,7 +56,6 @@ golang.org
 .percona.com
 .pm2.io
 .pypi.python.org
-.quay.io
 .redis.io
 .rubygems.org
 .s.adroll.com
@@ -130,3 +129,7 @@ packages.confluent.io
 update.sonarsource.org
 sonarqube.org
 sonarplugins.com
+# k8s:
+.k8s.io
+gcr.io
+quay.io
