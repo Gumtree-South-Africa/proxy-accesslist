@@ -20,8 +20,14 @@ mirror.xmission.com
 # Docker to pull base images
 .docker.io
 .cloudfront.net
-# Publish build event from jenkins to slack
+# Publish build event from jenkins to slack and icasbot
 .slack.com
+.slack-msgs.com
+.slack-files.com
+.slack-imgs.com
+.slack-edge.com
+.slack-core.com
+.slack-redir.net
 # Cloning from github.com
 github.com
 # Python PIP

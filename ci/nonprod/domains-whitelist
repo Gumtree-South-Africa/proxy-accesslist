@@ -15,8 +15,14 @@ mirror.xmission.com
 # Docker to pull base images
 .docker.io
 .cloudfront.net
-# Publish build event from jenkins to slack
+# Publish build event from jenkins to slack and icasbot
 .slack.com
+.slack-msgs.com
+.slack-files.com
+.slack-imgs.com
+.slack-edge.com
+.slack-core.com
+.slack-redir.net
 # Cloning from github.com
 github.com
 # L&P
@@ -42,3 +48,6 @@ marktplaatszakelijk.nl
 # grafana dashboards import
 grafana.net
 .alpinelinux.org
+# pagerduty integration (icasbot)
+events.pagerduty.com
+api.pagerduty.com
