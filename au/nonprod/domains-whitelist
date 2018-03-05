@@ -60,8 +60,10 @@ ssl-gumtree.classistatic.com
 # Catalyst Integration
 ebay-beta-api-gw.tract-staging.com
 
-# EPS
+# EPS - downloads
 i.ebayimg.com
+# EPS - uploads
+lfnapi.ebay.com
 
 dataconnect.carsales.com.au
 

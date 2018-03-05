@@ -63,7 +63,8 @@ github-cloud.s3.amazonaws.com
 go.googlecode.com
 grafanarel.s3.amazonaws.com
 graph.facebook.com                                 # Facebook robot access
-i.ebayimg.com                                      # SO-52885
+i.ebayimg.com                                      # SO-52885 EPS downloads
+lfnapi.ebay.com                                    # SO-53557 EPS Uploads
 idauth.ebay.com                                    # SO-52963
 leadtracker.ahg.com.au                             # SO-43510, SO-47701, SO-50117
 mirror.cogentco.com 
