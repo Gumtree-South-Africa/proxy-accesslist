@@ -44,6 +44,11 @@ www.python.org
 
 # Puppet
 .puppetlabs.com
+forge.puppet.com
+
+#apt
+keyserver.ubuntu.com
+.launchpad.net
 
 # TensorFlow releases download
 storage.googleapis.com
