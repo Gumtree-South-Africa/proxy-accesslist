@@ -101,6 +101,8 @@ www.paypal.com                                    # NO TICKET
 .qa7.gumtree.com.au
 .qa8.gumtree.com.au
 
+www.gumtree.com.au  # Needed by CI to test/warm-up Canary instance
+
 pilot-payflowlink.paypal.com # PayFlowPro Sandbox, for CI
 
 # Hosts used by backend servers
