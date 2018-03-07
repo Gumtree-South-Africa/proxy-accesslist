@@ -42,6 +42,9 @@ archive.apache.org
 dl.google.com
 www.python.org
 
+# Puppet
+.puppetlabs.com
+
 # TensorFlow releases download
 storage.googleapis.com
 
