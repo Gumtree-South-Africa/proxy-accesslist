@@ -123,8 +123,8 @@ packages.confluent.io
 .elastic.co
 .aptly.info
 .pagerduty.com
-.ebay-kleinazneigen.de
+.ebay-kleinanzeigen.de
 # k8s:
 .k8s.io
-gcr.io
+.gcr.io
 quay.io
