@@ -11,6 +11,7 @@
 # 2. GTAU-9036
 .google.com
 .googleapis.com
+.gstatic.com # Specifically for selenium tests in QA mesos env
 
 # Freshclam updates
 .local.clamav.net
@@ -92,6 +93,7 @@ ftp.glassguide.com.au
 graph.facebook.com
 # needed for selenium grid running in our QA tenants, oauth calls to login as facebook user
 www.facebook.com
+.fbcdn.net
 
 # GTAU-10533
 api.yesmail.com
