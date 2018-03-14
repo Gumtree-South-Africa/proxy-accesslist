@@ -35,6 +35,8 @@ api.ziprecruiter.com
 .point2.com
 .pndsn.com
 .responsys.net
+.rubyforge.org
+.rubygems.org
 .salesforce.com
 .sandbox.ebay.com
 .sonatype.org
@@ -63,7 +65,6 @@ auto.cdemo.com
 autodatadirect.com
 autopricecanada.com
 autovaluehyundai.com
-aws-eu-cache01.rubygems.org
 barriehonda.com
 beclientsrv.qa.ebay.com
 bibit.com
@@ -111,7 +112,6 @@ forms.smartdealer.ca
 ftp.de.debian.org
 ftp.nl.debian.org
 gateway.sandbox.push.apple.com
-gems.rubyforge.org
 georgetownkia.com
 github.corp.ebay.com
 github-stg.corp.ebay.com
@@ -186,7 +186,6 @@ pic.cdemo.com
 pictures.dealer.com
 ppa.launchpad.net
 prefsvc.qa.ebay.com
-production.s3.rubygems.org
 ps1.cdnmedia.autotrader.ca
 pypi.python.org
 rbsworldpay.com
@@ -203,7 +202,6 @@ repository.primefaces.org
 rover.qa.ebay.com
 rsvp.com.au
 rsync.opencsw.org:873
-rubygems.org
 scougallmotors.com
 search.maven.org
 searchingforcars.com
