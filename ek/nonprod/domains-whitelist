@@ -128,3 +128,4 @@ packages.confluent.io
 .k8s.io
 .gcr.io
 quay.io
+.dynect.net
