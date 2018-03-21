@@ -16,6 +16,7 @@ github.com
 .rubygems.org
 alpinelinux.org
 npmjs.com
+gcr.io
 
 # Notification services
 .slack.com
