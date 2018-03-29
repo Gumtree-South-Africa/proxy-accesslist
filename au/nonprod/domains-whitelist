@@ -120,6 +120,7 @@ atom.boomi.com
 
 # Slack
 .slack.com
+.slack-msgs.com # Slack Realtime Messaging API
 
 #Paypal QA sandbox
 # pilot-payflowpro.paypal.com # DUPLICATE
