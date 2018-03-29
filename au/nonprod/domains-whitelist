@@ -13,6 +13,9 @@
 .googleapis.com
 .gstatic.com # Specifically for selenium tests in QA mesos env
 
+# For QA Bot
+.api.cognitive.microsoft.com
+
 # Freshclam updates
 .local.clamav.net
 database.clamav.net
