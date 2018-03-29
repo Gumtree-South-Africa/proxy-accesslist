@@ -1,5 +1,4 @@
 .alpinelinux.org
-.alpinelinux.org
 .amazonaws.com
 .analytics.freespee.com
 .apache.org
@@ -10,6 +9,7 @@
 .bintray.com
 .bitbucket.org
 .broadmail.de
+.canonical.com
 .cdn.optimizely.com
 .cdn.segment.io
 .clojars.org
@@ -57,6 +57,7 @@ golang.org
 .percona.com
 .pm2.io
 .pypi.python.org
+.redhat.com
 .redis.io
 .rubygems.org
 .s.adroll.com
@@ -96,7 +97,6 @@ ftp-stud.fht-esslingen.de
 gems.rubyforge.org
 gitlab.camao.de
 jenkins.mirror.isppower.de
-maven.repository.redhat.com
 .centos.org
 nexus.kjdev.ca
 nexus.openqa.org
