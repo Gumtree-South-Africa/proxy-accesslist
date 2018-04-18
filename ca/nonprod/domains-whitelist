@@ -37,6 +37,7 @@ api.ziprecruiter.com
 .petfinder.com
 .point2.com
 .pndsn.com
+.pythonhosted.org
 .qa.ebay.com
 .responsys.net
 .rubyforge.org
@@ -192,7 +193,6 @@ pilot-payflowpro.paypal.com
 ppa.launchpad.net
 # prefsvc.qa.ebay.com # DUPLICATE
 ps1.cdnmedia.autotrader.ca
-pythonhosted.org
 pypi.org
 pypi.python.org
 rbsworldpay.com
