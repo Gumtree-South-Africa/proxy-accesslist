@@ -2,6 +2,7 @@
 .bintray.com
 .cloudfront.net
 .docker.io
+.docker.com
 .github.com
 .googleapis.com
 .jenkins-ci.org

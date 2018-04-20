@@ -1,6 +1,5 @@
 events.pagerduty.com
 api.pagerduty.com
-.docker.io
 .cloudfront.net
 answerhub.corp.ebay.com
 # Jenkins plugin/update mirrors
@@ -19,6 +18,7 @@ mirror.xmission.com
 .osuosl.org
 # Docker to pull base images
 .docker.io
+.docker.com
 .cloudfront.net
 # Publish build event from jenkins to slack and icasbot
 .slack.com
