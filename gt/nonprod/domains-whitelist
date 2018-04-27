@@ -73,7 +73,9 @@ packages.confluent.io
 .pagerduty.com
 pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
-pypi.python.org
+.pypi.org
+.python.org
+.pythonhosted.org
 qa2-gumtreeforbusiness.cs83.force.com
 registry.npmjs.org
 releases.hashicorp.com
