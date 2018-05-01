@@ -122,7 +122,6 @@ www.ecb.europa.eu
 www.eviware.com
 repos.azulsystems.com
 packages.confluent.io
-.elastic.co
 .aptly.info
 .pagerduty.com
 .ebay-kleinanzeigen.de
@@ -131,3 +130,4 @@ packages.confluent.io
 .gcr.io
 quay.io
 .dynect.net
+.elastic.co
