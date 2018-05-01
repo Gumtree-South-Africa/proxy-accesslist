@@ -28,6 +28,6 @@ files.pythonhosted.org
 h-api.online-metrix.net
 # k8s:
 .k8s.io
-gcr.io
+.gcr.io
 quay.io
 .dynect.net
