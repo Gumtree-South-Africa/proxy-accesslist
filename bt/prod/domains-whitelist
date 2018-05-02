@@ -81,7 +81,6 @@ aspiremckinneyranch.com
 bibit.com
 capi.myleasestar.com
 cdn.optimizely.com
-clients6.google.com
 cntr.kijiji.com
 database.clamav.net
 db.local.clamav.net
@@ -107,7 +106,6 @@ mirrors.ukfast.co.uk
 openexchangerates.org
 ord.keep.api.rackspacecloud.com
 pinterest.com
-plusone.google.com
 ppa.launchpad.net
 pub-repo.sematext.com
 registry.npmjs.com
@@ -143,7 +141,6 @@ www.buchananbayapts.com
 www.carringtonchasetucker.com
 www.corporatehousingbyowner.com
 www.countryclubvillasapartmenthomes.com
-www.google.com
 www.heightslasalle.com
 www.laurelspringsapt.com
 www.liveatgreenhaven.com
@@ -177,10 +174,12 @@ authenticator.pingone.com
 api.conekta.io
 sftp.fiqas.nl
 sfgext.acxiom.com
-gcr.io
+.gcr.io
 quay.io
 .k8s.io
 .snapcraft.io
 068ed04f23.site.internapcdn.net
 .jujucharms.com
 .kubernetes.io
+.docker.com
+.google.com
