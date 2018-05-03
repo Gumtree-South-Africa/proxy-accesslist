@@ -1,6 +1,5 @@
 events.pagerduty.com
 api.pagerduty.com
-.cloudfront.net
 answerhub.corp.ebay.com
 # Jenkins plugin/update mirrors
 .jenkins-ci.org

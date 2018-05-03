@@ -22,7 +22,6 @@ releases.hashicorp.com
 .dynect.net
 .docker.io
 .cloudfront.net
-.fastly.net
 .fastlylb.net
 .github.com
 .rubygems.org
