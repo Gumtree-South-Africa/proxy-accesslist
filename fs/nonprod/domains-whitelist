@@ -43,6 +43,7 @@ p80.pool.sks-keyservers.net
 .packagecloud.io
 .pagerduty.com
 pkg.jenkins.io
+.pypi.org
 .python.org
 releases.hashicorp.com
 repo1.maven.org
