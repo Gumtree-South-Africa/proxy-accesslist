@@ -2,6 +2,7 @@
 accounts.google.com
 akamai.bintray.com
 api-3t.sandbox.paypal.com
+api.appannie.com
 api.braintreegateway.com
 api.demo2.freespee.com
 api.ebaycommercenetwork.com
@@ -100,6 +101,7 @@ tinkerpop.com
 uat-api.hpicheck.com
 updates.jenkins-ci.org
 update.sonarsource.org
+www.anyvan.com
 www.bingapis.com
 www.bing.com
 www.exacttargetapis.com
@@ -110,4 +112,3 @@ www.nuget.org
 www.orientechnologies.com
 www.pyx4me.com
 www.terracotta.org
-www.anyvan.com
