@@ -1,5 +1,6 @@
 .alpinelinux.org
 .archive.ubuntu.com
+.bintray.com
 .debian.org
 .debian.net
 .elastic.co
@@ -14,7 +15,6 @@ deb.theforeman.org
 debian.datastax.com
 debian.saltstack.com
 developer.download.nvidia.com
-dl.bintray.com
 dl.google.com
 .docker.com
 .docker.io
