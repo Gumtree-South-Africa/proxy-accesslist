@@ -131,4 +131,5 @@ packages.confluent.io
 quay.io
 .dynect.net
 .elastic.co
+.opensource.zalan.do
 .api.letsencrypt.org
