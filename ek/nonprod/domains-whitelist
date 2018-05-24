@@ -1,5 +1,4 @@
 .alpinelinux.org
-.amazonaws.com
 .analytics.freespee.com
 .apache.org
 .apple.com
@@ -133,3 +132,4 @@ quay.io
 .elastic.co
 .opensource.zalan.do
 .api.letsencrypt.org
+.amazonaws.com
