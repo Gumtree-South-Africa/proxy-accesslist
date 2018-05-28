@@ -25,6 +25,11 @@ gcr.io
 # Services used for tests
 .ebayimg.com
 
+# Python & PIP
+www.python.org
+pypi.python.org
+bootstrap.pypa.io
+
 # Microsoft, Windows update and Visual Studio updates
 # - https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio-behind-a-firewall-or-proxy-server#
 # - https://technet.microsoft.com/en-us/library/bb693717.aspx#
@@ -41,8 +46,6 @@ aka.ms
 download.oracle.com
 archive.apache.org
 dl.google.com
-www.python.org
-pypi.python.org
 
 # Puppet
 .puppetlabs.com
