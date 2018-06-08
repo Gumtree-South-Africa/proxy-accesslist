@@ -95,6 +95,8 @@ graph.facebook.com
 # needed for selenium grid running in our QA tenants, oauth calls to login as facebook user
 www.facebook.com
 .fbcdn.net
+# Facebook lookaside #SO-53839
+platform-lookaside.fbsbx.com
 
 # GTAU-10533
 api.yesmail.com

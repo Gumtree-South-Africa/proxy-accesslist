@@ -75,6 +75,7 @@ mirrors.sonic.net
 oss.sonatype.org
 payflowpro.paypal.com                              # NO TICKET
 phantomjs.googlecode.com
+platform-lookaside.fbsbx.com                       # Facebook lookaside #SO-53839
 prdownloads.sourceforge.net
 # production.cf.rubygems.org # DUPLICATE
 projects.unbit.it
