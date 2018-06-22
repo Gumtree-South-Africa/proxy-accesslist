@@ -94,6 +94,12 @@ rhc.sonatype.com
 rubygems.global.ssl.fastly.net
 rubygems.org
 .slack.com
+.slack-msgs.com
+.slack-files.com
+.slack-imgs.com
+.slack-edge.com
+.slack-core.com
+.slack-redir.net
 sonarsource.bintray.com
 sonatype-download.global.ssl.fastly.net
 spring-roo-repository.springsource.org
