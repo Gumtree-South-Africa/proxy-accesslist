@@ -55,7 +55,7 @@ repository.primefaces.org
 repos.mesosphere.com
 repo.spray.io
 repo.varnish-cache.org
-rubygems.org
+.rubygems.org
 .scala-sbt.org
 .seville-jam.es
 .sonatype.com
