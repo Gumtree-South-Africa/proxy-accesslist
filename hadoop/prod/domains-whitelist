@@ -13,6 +13,7 @@
 .github.com
 .gradle.org # taken over from ST proxy whitelist
 .grafana.com
+.maas.io
 .microsoft.com # taken over from ST proxy whitelist
 .paloaltonetworks.com # taken over from ST proxy whitelist
 .puppetlabs.com # taken over from ST proxy whitelist
@@ -20,6 +21,7 @@
 .python.org
 .pythonhosted.org
 .slack.com # taken over from ST proxy whitelist
+.ubuntu.com
 .ubuntu.com # taken over from ST proxy whitelist
 .windowsupdate.com # taken over from ST proxy whitelist
 .zfsonlinux.org # taken over from ST proxy whitelist
