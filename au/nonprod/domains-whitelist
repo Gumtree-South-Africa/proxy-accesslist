@@ -10,6 +10,7 @@
 # 1. For google safebrowsing check
 # 2. GTAU-9036
 .google.com
+.google.ca   # GTAU-25926
 .googleapis.com
 .gstatic.com # Specifically for selenium tests in QA mesos env
 
