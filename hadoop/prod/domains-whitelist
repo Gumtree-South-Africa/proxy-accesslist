@@ -1,6 +1,7 @@
 # corppki # taken over from ST proxy whitelist ?
 # sorted by tld
 .amazonaws.com
+.anaconda.com 
 .anaconda.org # taken over from ST proxy whitelist
 .bintray.com
 .centos.org # taken over from ST proxy whitelist
