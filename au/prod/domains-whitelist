@@ -13,6 +13,7 @@
 .githubusercontent.com
 .github-production-release-asset-2e65be.s3.amazonaws.com
 .keepalived.org
+.local.clamav.net                                  # JobsApp AV file scanning
 .maven.org
 .mongodb.org
 .nexus.codehaus.org
@@ -52,6 +53,7 @@ api.yesmail.com                                    # SO-52962
 atom.boomi.com                                     # GTAU-15651
 au-extapi.intern.gumtree.com.au                    # SO-50310
 bucardo.org
+database.clamav.net                                # JobsApp AV file scanning
 dataconnect.carsales.com.au
 download.elasticsearch.org
 download.redis.io
