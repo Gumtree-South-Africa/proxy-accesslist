@@ -169,6 +169,20 @@ afs.googleusercontent.com
 .doubleclick.net
 .rokt.com
 
+# Advertising Exchange
+.casalemedia.com
+
+# Used to store ad content and other related sources for Google AdSense and DoubleClick
+.googlesyndication.com
+
+# Prebid tests
+.prebid.districtm.ca
+.gads.pubmatic.com
+.ads.pubmatic.com
+.ib.adnxs.com
+.fastlane.rubiconproject.com
+.static.criteo.net
+
 # Mortage Verification Tests
 # GTAU-21645
 .ratecity.com.au
