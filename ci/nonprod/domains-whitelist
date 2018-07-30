@@ -29,6 +29,7 @@ github.com
 # Go repos
 gopkg.in
 golang.org
+go.googlesource.com
 # L&P
 .demo.qa-mp.so
 cas.qa.kijiji.ca
