@@ -26,6 +26,9 @@ mirror.xmission.com
 .slack-redir.net
 # Cloning from github.com
 github.com
+# Go repos
+gopkg.in
+golang.org
 # L&P
 .demo.qa-mp.so
 cas.qa.kijiji.ca
