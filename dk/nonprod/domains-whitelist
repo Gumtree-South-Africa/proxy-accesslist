@@ -2,7 +2,7 @@
 .ecgdk.io
 
 # Source locations
-.github.corp.ebay.com
+github.corp.ebay.com
 github.com
 
 # Build dependencies
