@@ -67,6 +67,7 @@ github-cloud.s3.amazonaws.com
 go.googlecode.com
 grafanarel.s3.amazonaws.com
 graph.facebook.com                                 # Facebook robot access
+hub-cloud.browserstack.com                         # SO-53998 Browserstack for bamboo
 i.ebayimg.com                                      # SO-52885 EPS downloads
 lfnapi.ebay.com                                    # SO-53557 EPS Uploads
 idauth.ebay.com                                    # SO-52963
