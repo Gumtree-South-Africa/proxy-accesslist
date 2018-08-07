@@ -52,6 +52,7 @@ api.yesmail.com                                    # SO-52962
 atom.boomi.com                                     # GTAU-15651
 au-extapi.intern.gumtree.com.au                    # SO-50310
 bucardo.org
+cella.dealersolutions.com.au                       # SO-53990 Image downloads for bulk uploaded feeds
 database.clamav.net                                # JobsApp AV file scanning
 dataconnect.carsales.com.au
 download.elasticsearch.org
@@ -90,6 +91,7 @@ semicomplete.com
 svcs.ebay.com                                     # SO-52963
 tools.google.com                                  # GTAU-9036
 www.ecb.europa.eu                                 # SO-52847
+www.fastrackdealernet.com.au                      # SO-53990 Image downloads for bulk uploaded feeds
 www.googleapis.com                                # GTAU-9036
 www.paypal.com                                    # NO TICKET
 
