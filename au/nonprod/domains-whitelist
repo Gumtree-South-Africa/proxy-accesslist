@@ -168,6 +168,8 @@ afs.googleusercontent.com
 .google-analytics.com
 .doubleclick.net
 .rokt.com
+# GTAU-25361 enable new rokt script
+roktcdn1.akamaized.net
 
 # Advertising Exchange
 .casalemedia.com
@@ -193,3 +195,4 @@ gumtreeapi.carrecord.com.au # SO-53487
 
 # GTAU-24082
 api.chucknorris.io
+
