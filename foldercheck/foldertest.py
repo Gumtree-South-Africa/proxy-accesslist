@@ -9,6 +9,7 @@ from collections import Counter
 logging.basicConfig(format='%(asctime)s %(message)s', level=logging.DEBUG)
 logger = logging.getLogger()
 
+
 class squidcheck():
     def __init__(self, folder="."):
         self.folder = folder
@@ -21,7 +22,7 @@ class squidcheck():
             for x in p.iterdir():
                 if x.is_dir():
                     # ignore the these folders
-                    if x.name in ['.git', 'test_data','.pytest_cache','__pycache__','foldercheck']:
+                    if x.name in ['.git', 'test_data', '.pytest_cache', '__pycache__', 'foldercheck', '.idea']:
                         pass
                     else:
                         logger.info(f'Checking : {x}')
@@ -34,7 +35,6 @@ class squidcheck():
                                 for j in np.iterdir():
                                     if j.name in['domains-whitelist', 'ips-whitelist']:
                                         self.checkdups(x,i,j)
-                                        #pass
                                     else:
                                         logger.error(f'File {j} is invalid')
                                         raise FileExistsError
@@ -43,9 +43,16 @@ class squidcheck():
                                 # If its not in the list, raise an error
                                 logger.error(f'Folder {i} is invalid')
                                 raise FileExistsError
-        except FileExistsError as e:
+        except FileExistsError:
             exit(1)
 
+    @staticmethod
+    def check_blacklist(value):
+        # Add values to the list that should not go via the proxy
+        blacklist = ['169.254.169.254']
+        if value in blacklist:
+            logger.error(f'{value} is blacklisted')
+            raise ValueError(f'{value} found in blacklist {blacklist}')
 
     def checkdups(self, platform, folder, fh):
         logger.info(f'checking for duplicates in {platform} {folder.name} {fh.name}')
@@ -56,10 +63,9 @@ class squidcheck():
                 if line.startswith('#') or line == '\n':
                     pass
                 else:
-            #print(line.strip())
-                    cnt[line.strip()] +=1
+                    self.check_blacklist(line.strip())
+                    cnt[line.strip()] += 1
         
-        #print(cnt)
         for item in cnt.items():
             name, value = item
             if value > 1:
