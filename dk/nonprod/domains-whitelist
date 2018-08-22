@@ -49,6 +49,15 @@ download.oracle.com
 archive.apache.org
 dl.google.com
 
+# Missing, clean Windows server requests
+.msecnd.net
+.vsassets.io
+.msocsp.com
+
+# OPS
+.digicert.com
+.amazontrust.com
+
 # Puppet
 .puppetlabs.com
 .puppet.com
