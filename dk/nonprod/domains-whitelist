@@ -5,6 +5,9 @@
 github.corp.ebay.com
 .github.com
 
+# Elasticsearch danish hunspell dictionaries
+.stavekontrolden.dk
+
 # Build dependencies
 .nuget.org
 .elastic.co
