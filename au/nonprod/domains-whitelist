@@ -73,6 +73,7 @@ dataconnect.carsales.com.au
 
 # ThreatMetrix
 h-api.online-metrix.net
+tm.gumtree.com.au   # Threatmetrix : our endpoint. GTAU-26631 - SAME FOR QA AND PROD...
 
 # Tor project
 check.torproject.org
