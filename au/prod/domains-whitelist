@@ -48,6 +48,7 @@ api.ebay.com                                       # SO-52963
 api.indeed.com                                     # SO-47671
 api.pagerduty.com
 api.paypal.com                                     # NO TICKET
+api.uat.vehicleid.com.au # Motorweb microservice - SO-54239 , GTAU-26705
 api.yesmail.com                                    # SO-52962
 atom.boomi.com                                     # GTAU-15651
 au-extapi.intern.gumtree.com.au                    # SO-50310
@@ -87,6 +88,7 @@ repo.scala-sbt.org
 repo.typesafe.com
 repository.cloudera.com
 repository.springsource.com
+robot.motorweb.com.au   # Motorweb microservice - SO-54239 , GTAU-26705
 semicomplete.com
 svcs.ebay.com                                     # SO-52963
 tools.google.com                                  # GTAU-9036

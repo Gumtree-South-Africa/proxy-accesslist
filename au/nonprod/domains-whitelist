@@ -197,3 +197,5 @@ gumtreeapi.carrecord.com.au # SO-53487
 # GTAU-24082
 api.chucknorris.io
 
+robot.motorweb.com.au   # Motorweb microservice - SO-54239 , GTAU-26705
+api.uat.vehicleid.com.au # Motorweb microservice - SO-54239 , GTAU-26705
