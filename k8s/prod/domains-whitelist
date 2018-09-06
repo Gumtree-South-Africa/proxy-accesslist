@@ -17,3 +17,7 @@ repo.maven.apache.org
 www.datanucleus.org
 conjars.org
 .alpinelinux.org
+repo1.maven.org
+repo.scala-sbt.org
+repo.typesafe.com
+dl.bintray.com
