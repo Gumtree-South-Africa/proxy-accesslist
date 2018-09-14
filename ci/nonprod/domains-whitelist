@@ -30,6 +30,7 @@ github.com
 gopkg.in
 golang.org
 go.googlesource.com
+dl.google.com
 # L&P
 .demo.qa-mp.so
 cas.qa.kijiji.ca

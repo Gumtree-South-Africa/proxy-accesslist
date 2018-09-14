@@ -42,3 +42,5 @@ authenticator.pingone.com
 graphite.ix5.ops.prod.icas.ecg.so
 graphite.esh.ops.prod.icas.ecg.so
 .alpinelinux.org
+# Go repos
+dl.google.com
