@@ -280,7 +280,6 @@ repo.jenkins-ci.org
 move-external-seller-api.service.move-nonprod.ams1.cloud
 # SLACK START
 slack.com
-slack-msgs.com
-lb.slack-msgs.com
+.lb.slack-msgs.com
 # SLACK END
 codacy.corp.ebay.com
