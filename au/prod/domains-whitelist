@@ -76,6 +76,7 @@ idauth.ebay.com                                    # SO-52963
 leadtracker.ahg.com.au                             # SO-43510, SO-47701, SO-50117
 mirror.cogentco.com 
 mirrors.sonic.net
+nvd.nist.gov                                       # SO-54260
 oss.sonatype.org
 payflowpro.paypal.com                              # NO TICKET
 phantomjs.googlecode.com
