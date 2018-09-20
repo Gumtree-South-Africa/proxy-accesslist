@@ -28,9 +28,11 @@ mirror.xmission.com
 github.com
 # Go repos
 gopkg.in
-golang.org
+.golang.org
 go.googlesource.com
 dl.google.com
+labix.org
+git.apache.org
 # L&P
 .demo.qa-mp.so
 cas.qa.kijiji.ca
