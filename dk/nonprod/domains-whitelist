@@ -80,3 +80,6 @@ storage.googleapis.com
 # Braze web
 .braze.eu
 .braze.com
+
+# QA environments
+.dk-qa.ecg.so
