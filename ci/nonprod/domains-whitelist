@@ -61,3 +61,4 @@ grafana.net
 # pagerduty integration (icasbot)
 events.pagerduty.com
 api.pagerduty.com
+updates.maxmind.com
