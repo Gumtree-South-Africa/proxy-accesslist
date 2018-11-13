@@ -282,6 +282,7 @@ sftp.fiqas.nl
 jcenter.bintray.com
 repo.jenkins-ci.org
 move-external-seller-api.service.move-nonprod.ams1.cloud
+move-listing-guardian.service.move-nonprod.ams1.cloud
 # SLACK START
 slack.com
 .lb.slack-msgs.com
