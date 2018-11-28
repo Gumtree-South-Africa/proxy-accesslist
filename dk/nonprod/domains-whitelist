@@ -24,6 +24,7 @@ npmjs.com
 .maxmind.com
 sonarsource.com
 .s3.amazonaws.com
+repos.influxdata.com
 
 # Notification services
 .slack.com
