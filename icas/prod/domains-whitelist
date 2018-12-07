@@ -41,3 +41,6 @@ releases.hashicorp.com
 .slack.com
 mock.icas-qa.dus1.cloud
 .maxmind.com
+# hadoop mirrors
+mirrors.ukfast.co.uk
+mirror.ox.ac.uk
