@@ -45,3 +45,6 @@ graphite.esh.ops.prod.icas.ecg.so
 # Go repos
 dl.google.com
 .maxmind.com
+# hadoop mirrors
+mirrors.ukfast.co.uk
+mirror.ox.ac.uk

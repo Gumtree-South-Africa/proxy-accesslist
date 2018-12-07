@@ -62,3 +62,6 @@ grafana.net
 events.pagerduty.com
 api.pagerduty.com
 updates.maxmind.com
+# hadoop mirrors
+mirrors.ukfast.co.uk
+mirror.ox.ac.uk
