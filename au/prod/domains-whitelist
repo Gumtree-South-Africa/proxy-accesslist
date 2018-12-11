@@ -5,6 +5,7 @@
 .bintray.com
 .cloudfront.net
 .docker.io
+.elastic.co                                        # AUSO-170
 .erlang.org
 .fastly.net
 .fastlylb.net
