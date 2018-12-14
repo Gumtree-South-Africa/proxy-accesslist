@@ -98,6 +98,7 @@ svcs.ebay.com                                     # SO-52963
 tools.google.com                                  # GTAU-9036
 www.ecb.europa.eu                                 # SO-52847
 www.fastrackdealernet.com.au                      # SO-53990 Image downloads for bulk uploaded feeds
+www.assetintel.com.au                             # SO-53990 - another hostname for images for Fastrack partner
 www.googleapis.com                                # GTAU-9036
 www.paypal.com                                    # NO TICKET
 
