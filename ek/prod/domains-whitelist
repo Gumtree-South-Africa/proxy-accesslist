@@ -20,6 +20,7 @@ files.pythonhosted.org
 .rubygems.org
 .docker.com
 .docker.io
+.ubuntu.com
 .cloudfront.net
 .motortalk.biz
 .pagerduty.com
@@ -30,6 +31,7 @@ files.pythonhosted.org
 .ebay-kleinanzeigen.de
 h-api.online-metrix.net
 # k8s:
+.kubernetes.io
 .k8s.io
 .gcr.io
 quay.io
@@ -42,4 +44,9 @@ quay.io
 .nosnch.in
 registry.npmjs.org
 .detroncloud.nl
-
+# BEGIN rancher domains
+.rancher.com
+.rancher.io
+bitnami.com
+.twimg.com
+# END rancher domains
