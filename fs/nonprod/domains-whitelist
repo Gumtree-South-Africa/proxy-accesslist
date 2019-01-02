@@ -21,7 +21,6 @@ download.oracle.com
 edelivery.oracle.com
 .ebay-kleinanzeigen.de
 .elastic.co
-entropy.ubuntu.com
 .esuni.jp
 .fastly.net
 .github.com
@@ -40,7 +39,6 @@ github.corp.ebay.com
 .honnef.co
 .isppower.de
 .jenkins-ci.org
-keyserver.ubuntu.com
 .kijiji.ca
 launchpadlibrarian.net
 .launchpad.net
@@ -67,4 +65,5 @@ repo.varnish-cache.org
 .sonatype.org
 .twh-prod-microservices.ams1.cloud
 .typesafe.com
+.ubuntu.com
 .xmission.com
