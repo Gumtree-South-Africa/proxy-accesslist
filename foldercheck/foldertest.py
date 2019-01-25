@@ -14,6 +14,10 @@ class squidcheck():
     def __init__(self, folder="."):
         self.folder = folder
         
+        # Read in the blacklist file, shove it into a list
+        self.blfile = open('blacklist', 'r')
+        self.blacklist = self.blfile.read().lower().splitlines()
+
     def check(self):
         logger.info('Checking folders')
         p = Path(self.folder)
@@ -46,18 +50,15 @@ class squidcheck():
         except FileExistsError:
             exit(1)
 
-    @staticmethod
-    def check_blacklist(value):
-        # Add values to the list that should not go via the proxy
-        blacklist = ['169.254.169.254']
-        if value in blacklist:
+    def check_blacklist(self, value):
+        if value.lower() in self.blacklist:
             logger.error(f'{value} is blacklisted')
-            raise ValueError(f'{value} found in blacklist {blacklist}')
+            raise ValueError(f'{value} found in blacklist file')
 
     def checkdups(self, platform, folder, fh):
         logger.info(f'checking for duplicates in {platform} {folder.name} {fh.name}')
         cnt = Counter()
-    
+
         with fh.open() as f:
             for line in f:
                 if line.startswith('#') or line == '\n':
