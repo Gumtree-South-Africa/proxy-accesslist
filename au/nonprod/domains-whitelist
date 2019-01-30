@@ -16,7 +16,7 @@
 .gstatic.com # Specifically for selenium tests in QA mesos env
 
 # For QA Bot
-aubot.azurewebsites.net
+api.wit.ai
 
 # Freshclam updates
 .local.clamav.net
