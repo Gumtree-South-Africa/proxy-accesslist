@@ -143,4 +143,5 @@ quay.io
 packages.cloud.google.com
 .kubernetes.io
 .golang.org
+.googlesource.com
 
