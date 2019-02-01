@@ -5,6 +5,7 @@
 .anaconda.org # taken over from ST proxy whitelist
 .bintray.com
 .centos.org # taken over from ST proxy whitelist
+.cloudera.com # taken over from ST proxy whitelist
 .cloudfront.net
 .docker.com # taken over from ST proxy whitelist
 .docker.io # taken over from ST proxy whitelist
@@ -38,8 +39,6 @@ authenticator.pingone.com
 cdp1.public-trust.com # taken over from ST proxy whitelist
 ceph.com # taken over from ST proxy whitelist
 cloud.r-project.org
-cloudera.com # taken over from ST proxy whitelist
-cops.cloudera.com # taken over from ST proxy whitelist
 crl.usertrust.com # taken over from ST proxy whitelist
 deb.nodesource.com # taken over from ST proxy whitelist
 deb.theforeman.org # taken over from ST proxy whitelist
