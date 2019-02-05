@@ -55,7 +55,6 @@ rubygems.global.ssl.fastly.net
 .scala-sbt.org
 .typesafe.com
 .maven.org
-repository.corp.ebay.com
 .artifactoryonline.com
 .autoxy.it
 www.sissa.it
@@ -81,3 +80,4 @@ ftp.fau.de
 .demo2.freespee.com
 .mysql.com
 .adoptopenjdk.net
+.ebay.com
