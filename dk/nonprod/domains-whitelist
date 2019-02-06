@@ -25,6 +25,7 @@ npmjs.com
 sonarsource.com
 .s3.amazonaws.com
 repos.influxdata.com
+pkgs.dev.azure.com
 
 # Notification services
 .slack.com
