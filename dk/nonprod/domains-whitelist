@@ -78,7 +78,8 @@ apt.puppetexplorer.io
 apt.postgresql.org
 
 # TensorFlow releases download
-storage.googleapis.com
+# Selenium web driver download
+.googleapis.com
 
 # Braze web
 .braze.eu
