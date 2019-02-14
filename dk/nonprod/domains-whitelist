@@ -33,6 +33,7 @@ pkgs.dev.azure.com
 
 # Services used for tests
 .ebayimg.com
+dawa.aws.dk
 
 # Python & PIP
 .python.org
