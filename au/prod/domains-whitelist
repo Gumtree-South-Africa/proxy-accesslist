@@ -52,6 +52,7 @@ api.paypal.com                                     # NO TICKET
 api.uat.vehicleid.com.au                           # Motorweb microservice - SO-54239 , GTAU-26705
 api.vehicleid.com.au                               # SO-54274
 api.yesmail.com                                    # SO-52962
+apis.google.com                                    # AUSO-635
 atom.boomi.com                                     # GTAU-15651
 au-extapi.intern.gumtree.com.au                    # SO-50310
 binaries.sonarsource.com                           # SO-54307

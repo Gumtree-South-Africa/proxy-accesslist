@@ -9,6 +9,8 @@
 # 0. Google webmaster tools
 # 1. For google safebrowsing check
 # 2. GTAU-9036
+# ### FIXME THIS SHOULD NOT BE .google.com ... it causes issues with discrepancies between QA and prod
+# ### AUSO-636
 .google.com
 .google.ca   # GTAU-25926
 .google.com.au #SO-53942 For horizon automation test
