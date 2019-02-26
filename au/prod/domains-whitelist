@@ -81,6 +81,7 @@ leadtracker.ahg.com.au                             # SO-43510, SO-47701, SO-5011
 mirror.cogentco.com 
 mirrors.sonic.net
 nvd.nist.gov                                       # SO-54260
+oauth2.googleapis.com                                  # AUSO-635
 oss.sonatype.org
 payflowpro.paypal.com                              # NO TICKET
 phantomjs.googlecode.com
