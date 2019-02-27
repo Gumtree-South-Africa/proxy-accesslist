@@ -285,6 +285,7 @@ repo.jenkins-ci.org
 move-external-seller-api.service.move-nonprod.ams1.cloud
 move-listing-guardian.service.move-nonprod.ams1.cloud
 move-keycloak.service.move-nonprod.ams1.cloud
+move-listing-promotion.service.move-nonprod.ams1.cloud
 # SLACK START
 slack.com
 .lb.slack-msgs.com
