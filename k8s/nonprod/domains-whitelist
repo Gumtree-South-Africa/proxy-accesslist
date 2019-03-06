@@ -7,6 +7,9 @@
 .slack-core.com
 .slack-redir.ne
 
+# Pagerduty Integrations
+.pagerduty.com
+
 # Required by applications
 ebay.bebysodexo.com
 .ebay-kleinanzeigen.de
