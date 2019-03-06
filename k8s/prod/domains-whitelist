@@ -29,3 +29,7 @@ strimzi.io
 .core-os.net
 .docker.io
 .slack.com
+
+
+# Pagerduty Integrations
+.pagerduty.com
