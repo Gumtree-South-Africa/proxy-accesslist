@@ -47,9 +47,14 @@ mock.icas-qa.dus1.cloud
 mirrors.ukfast.co.uk
 mirror.ox.ac.uk
 # admarkt
-admarkt.marktplaats.nl
-cas.kijiji.ca
-admarkt.2dehands.be
-admarkt.xp.2dehands.com
 admarkt.demo.qa-mp.so
+admarkt.marktplaats.nl
 cas.qa.kijiji.ca
+cas.kijiji.ca
+admarkt.kijiji.ca
+admarkt.xp.2dehands.com
+admarkt.2dehands.be
+admarkt.demo-2dehands.qa-mp.so
+admarkt.demo-2ememain.qa-mp.so
+admarkt.2dehandspreview.be
+admarkt.2ememainpreview.be
