@@ -1,12 +1,6 @@
-.amazonaws.com
 .cloudfront.net
-.cloud.qa1.gumtree.com.au
-.cloud.qa2.gumtree.com.au
-.cloud.qa3.gumtree.com.au
-.cloud.qa6.gumtree.com.au
-.cloud.qa7.gumtree.com.au
-.cloud.qa8.gumtree.com.au
 .dockerproject.org
+.docker.com
 .docker.io
 .debian.org
 .elastic.co
