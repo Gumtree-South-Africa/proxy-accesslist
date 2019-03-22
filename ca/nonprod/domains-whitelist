@@ -24,7 +24,6 @@
 .googlesyndication.com
 .googletagmanager.com
 .gstatic.com
-api.ziprecruiter.com
 .kijiji.ca
 .kijiji.limpsys.com
 .kijiji.net
@@ -64,9 +63,11 @@ alpha.ecgmove.com
 api-meta.classistatic.com
 api.classistatic.com
 api.ebay.com
+api.neuvoo.com
 api.sandbox.paypal.com
 api.stubhub.com
 api.test13.stage.paypal.com
+api.ziprecruiter.com
 apt.postgresql.org
 apt.puppetlabs.com
 authenticator.pingone.com
