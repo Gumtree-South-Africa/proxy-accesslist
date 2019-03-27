@@ -204,3 +204,11 @@ api.uat.vehicleid.com.au # Motorweb microservice - SO-54239 , GTAU-26705
 
 www.fastrackdealernet.com.au                      # SO-53990 Image downloads for bulk uploaded feeds
 www.assetintel.com.au                             # SO-53990 - another hostname for images for Fastrack partner
+
+# Liberty au service
+advertising-config-service-gtau.nonprod.k8s.ecg-liberty.cloud
+liberty-web-service-gtau.nonprod.k8s.ecg-liberty.cloud
+
+# Horizon robot tests
+bamboo.au.ecg.so
+github.corp.ebay.com
