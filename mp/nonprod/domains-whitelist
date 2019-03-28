@@ -42,8 +42,6 @@ secure-test.worldpay.com
 .packagist.org
 downloads.wordpress.org
 plugins.svn.wordpress.org
-aanbieding.cloud.demo.qa-mp.so
-admarkt.demo.qa-mp.so
 acc-services.rdc.nl
 publicsuffix.org
 .services.mozilla.com
@@ -63,3 +61,4 @@ eu2-api.tractbilling.com
 ifconfig.co
 .algolianet.com
 .algolianet.net
+.demo.qa-mp.so
