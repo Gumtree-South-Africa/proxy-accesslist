@@ -70,6 +70,7 @@ ebayapi.billing.nl                                 # GTAU-15651
 ebayapiuat.billing.nl                              # GTAU-15651
 eu2-api.tractbilling.com                           # billing partner - proseller-metrics
 events.pagerduty.com
+fcm.googleapis.com                                 # New endpoint for push notifications
 files.pythonhosted.org
 github-cloud.s3.amazonaws.com
 go.googlecode.com
