@@ -102,6 +102,7 @@ www.facebook.com
 .fbcdn.net
 # Facebook lookaside #SO-53839
 platform-lookaside.fbsbx.com
+connect.facebook.net # Facebook Login - AUSO-720
 
 # GTAU-10533
 api.yesmail.com
