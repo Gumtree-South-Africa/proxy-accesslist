@@ -27,6 +27,7 @@ erepo.saltstack.com
 .gcr.io
 github.com
 hooks.slack.com
+.iovisor.org
 .launchpad.net
 linux.dell.com
 mirror.fuel-infra.org
