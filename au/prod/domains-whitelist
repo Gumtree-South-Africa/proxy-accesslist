@@ -40,6 +40,12 @@
 .storage.googleapis.com
 .clojars.org  # SO-53273
 
+# Google Cloud Registray to push/pull images into gcp.
+asia.gcr.io
+eu.gcr.io
+gcr.io
+us.gcr.io
+
 accounts.google.com                                # GTAU-9036
 apache.mirror.digitalpacific.com.au
 api-3t.paypal.com                                  #
