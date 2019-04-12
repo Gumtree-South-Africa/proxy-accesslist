@@ -1,5 +1,4 @@
 #
-.android.googleapis.com                            # SO-45188
 .apache.org
 .atlassian.com
 .bintray.com
@@ -37,8 +36,23 @@
 .slack-msgs.com
 .speedcurve.com                                   # SO-53371
 .sonatype.com
-.storage.googleapis.com
 .clojars.org  # SO-53273
+
+# google.com
+accounts.google.com                                # GTAU-9036
+apis.google.com                                    # AUSO-635
+dl.google.com
+tools.google.com                                   # GTAU-9036
+www.google.com
+
+# Google apis
+.android.googleapis.com                            # SO-45188
+.storage.googleapis.com
+cloudresourcemanager.googleapis.com
+fcm.googleapis.com                                 # New endpoint for push 
+oauth2.googleapis.com                              # AUSO-635
+safebrowsing.googleapis.com                        # AUSO-700
+www.googleapis.com                                 # GTAU-9036
 
 # Google Cloud Registray to push/pull images into gcp.
 asia.gcr.io
@@ -46,7 +60,6 @@ eu.gcr.io
 gcr.io
 us.gcr.io
 
-accounts.google.com                                # GTAU-9036
 apache.mirror.digitalpacific.com.au
 api-3t.paypal.com                                  #
 api-verify.recaptcha.net
@@ -58,7 +71,7 @@ api.paypal.com                                     # NO TICKET
 api.uat.vehicleid.com.au                           # Motorweb microservice - SO-54239 , GTAU-26705
 api.vehicleid.com.au                               # SO-54274
 api.yesmail.com                                    # SO-52962
-apis.google.com                                    # AUSO-635
+
 atom.boomi.com                                     # GTAU-15651
 au-extapi.intern.gumtree.com.au                    # SO-50310
 binaries.sonarsource.com                           # SO-54307
@@ -76,7 +89,7 @@ ebayapi.billing.nl                                 # GTAU-15651
 ebayapiuat.billing.nl                              # GTAU-15651
 eu2-api.tractbilling.com                           # billing partner - proseller-metrics
 events.pagerduty.com
-fcm.googleapis.com                                 # New endpoint for push notifications
+notifications
 files.pythonhosted.org
 github-cloud.s3.amazonaws.com
 go.googlecode.com
@@ -91,7 +104,6 @@ lfnapi.ebay.com                                    # SO-53557 EPS Uploads
 mirror.cogentco.com 
 mirrors.sonic.net
 nvd.nist.gov                                       # SO-54260
-oauth2.googleapis.com                              # AUSO-635
 open.ebayapi.com                                   # AUSO-700
 oss.sonatype.org
 payflowpro.paypal.com                              # NO TICKET
@@ -107,17 +119,13 @@ repo.typesafe.com
 repository.cloudera.com
 repository.springsource.com
 robot.motorweb.com.au   # Motorweb microservice - SO-54239 , GTAU-26705
-safebrowsing.googleapis.com                       # AUSO-700
 semicomplete.com
 ssl-gumtree.classistatic.com                      # FIXME - workaround for silly sitemap xml workflow - See GTAU-18427 for reason. AUSO-700
 svcs.ebay.com                                     # SO-52963
-tools.google.com                                  # GTAU-9036
 www.assetex.com.au                                # SO-53990 , AUSO-700
 www.assetintel.com.au                             # SO-53990 - another hostname for images for Fastrack partner
 www.ecb.europa.eu                                 # SO-52847
 www.fastrackdealernet.com.au                      # SO-53990 Image downloads for bulk uploaded feeds
-www.google.com
-www.googleapis.com                                # GTAU-9036
 www.paypal.com                                    # NO TICKET
 
 # CI needs to talk to QA envs via their public endpoints.
