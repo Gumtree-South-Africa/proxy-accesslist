@@ -214,3 +214,6 @@ liberty-web-service-gtau.nonprod.k8s.ecg-liberty.cloud
 # Horizon robot tests
 bamboo.au.ecg.so
 github.corp.ebay.com
+
+# Move sandbox
+sandbox.ecgmove.com
