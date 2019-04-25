@@ -54,3 +54,5 @@ bitnami.com
 # END rancher domains
 .golang.org
 .googlesource.com
+# https://jira.corp.ebay.com/browse/KOPS-2149
+ecg-mkt-prod1-1.campaign.adobe.com
