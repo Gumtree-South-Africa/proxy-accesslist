@@ -1,3 +1,71 @@
+.akamai.com
+.alpinelinux.org
+.anaconda.com
+.anaconda.org
+.apache.org
+.binstar.org
+.bintray.com
+.bitbucket.org
+bower.herokuapp.com
+bower.io
+.browserstack.com
+.canonical.com
+.cloudfront.net
+.debian.net
+.debian.org
+.docker.com
+.docker.io
+.ebayimg.com
+# Required by applications
+ebay.bebysodexo.com
+.ebay-kleinanzeigen.de
+.ecgmove.net
+.fabric.io
+gems.rubyforge.org
+.github.com
+.github.io
+.githubusercontent.com
+.golang.org
+.google-analytics.com
+.googleapis.com
+.google.com
+.googlesource.com
+.googletagmanager.com
+.gopkg.in
+.gradle-dn.com
+.gradle.org
+.invisionapp-users.firebaseio.com
+.java.net
+.jboss.org
+.jenkins-ci.org
+.jenkins.io
+.jfrog.org
+.jitpack.io
+.juniper.net
+.k8s.io
+.launchpad.net
+.maven.org
+.mongodb.org
+.mysql.com
+nodejs.org
+.nodesecurity.io
+.nodesource.com
+.npmjs.com
+.npmjs.org
+.nuget.org
+# Pagerduty Integrations
+.pagerduty.com
+.pypi.org
+.pypi.python.org
+.pythonhosted.org
+.redhat.com
+repos.azulsystems.com
+repo.typesafe.com
+rubygems.global.ssl.fastly.net
+.rubygems.org
+.sandbox.ebay.com
+.scala-sbt.org
+.sourceforge.net
 # Slack Integrations
 .slack.com
 .slack-msgs.com
@@ -6,10 +74,12 @@
 .slack-edge.com
 .slack-core.com
 .slack-redir.ne
+.spring.io
+.springsource.com
+.springsource.org
+.strimzi.io
+.trackjs.com
+.ubuntu.com
+.yarnpkg.com
 
-# Pagerduty Integrations
-.pagerduty.com
 
-# Required by applications
-ebay.bebysodexo.com
-.ebay-kleinanzeigen.de
