@@ -55,6 +55,7 @@ download.postgresql.org # taken over from ST proxy whitelist
 downloads.linux.hp.com # taken over from ST proxy whitelist
 downloads.linux.hpe.com # taken over from ST proxy whitelist
 downloads.mesosphere.com
+ebay11.detroncloud.nl
 events.pagerduty.com # taken over from ST proxy whitelist
 fedorapeople.org # taken over from ST proxy whitelist
 ftp-chi.osuosl.org # taken over from ST proxy whitelist
