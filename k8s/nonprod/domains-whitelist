@@ -55,6 +55,8 @@ nodejs.org
 .npmjs.com
 .npmjs.org
 .nuget.org
+# ThreatMetrix APIs for TnS
+.online-metrix.net
 # Pagerduty Integrations
 .pagerduty.com
 .pypi.org
