@@ -25,7 +25,8 @@ downloads.linux.hpe.com
 downloads.sourceforge.net
 erepo.saltstack.com
 .gcr.io
-github.com
+.github.com
+grafana.com
 hooks.slack.com
 .iovisor.org
 .launchpad.net
@@ -58,6 +59,7 @@ repo.saltstack.com
 repo.varnish-cache.org
 repo.yandex.ru
 repos.mesosphere.com
+.s3.amazonaws.com
 sensu.global.ssl.fastly.net
 spritelink.github.io
 .strimzi.io
