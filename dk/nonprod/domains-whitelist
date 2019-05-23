@@ -11,6 +11,7 @@ github.corp.ebay.com
 # Build dependencies
 .nuget.org
 .elastic.co
+.nodesource.com
 .elasticsearch.org
 .docker.com
 .docker.io
