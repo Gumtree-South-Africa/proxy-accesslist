@@ -56,3 +56,4 @@ bitnami.com
 .googlesource.com
 # https://jira.corp.ebay.com/browse/KOPS-2149
 ecg-mkt-prod1-1.campaign.adobe.com
+ecg-mkt-stage1-1.campaign.adobe.com
