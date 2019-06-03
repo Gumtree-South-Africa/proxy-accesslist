@@ -37,6 +37,7 @@ pkgs.dev.azure.com
 dawa.aws.dk
 qa01-accounts.ecgh.dk
 sendoghent.dk
+www3.almappen.dk
 
 # Python & PIP
 .python.org
