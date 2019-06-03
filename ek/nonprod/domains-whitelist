@@ -127,6 +127,7 @@ packages.confluent.io
 .aptly.info
 .pagerduty.com
 .ebay-kleinanzeigen.de
+.ebay-kleinanzeigen-user-content.de
 # k8s:
 .k8s.io
 .gcr.io
