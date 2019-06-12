@@ -29,7 +29,6 @@ maps.googleapis.com
 .pagerduty.com
 .pingidentity.com
 .pingone.com
-.analytics.freespee.com
 .slack.com
 .nextbankingapi.com
 # k8s:
@@ -37,3 +36,4 @@ maps.googleapis.com
 gcr.io
 quay.io
 .calendarlabs.com
+.freespee.com
