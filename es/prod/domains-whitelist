@@ -59,6 +59,7 @@ repo.saltstack.com
 repo.varnish-cache.org
 repo.yandex.ru
 repos.mesosphere.com
+.r-project.org
 .s3.amazonaws.com
 sensu.global.ssl.fastly.net
 spritelink.github.io
