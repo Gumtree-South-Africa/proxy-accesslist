@@ -147,3 +147,5 @@ packages.cloud.google.com
 .golang.org
 .googlesource.com
 .campaign.adobe.com
+database.clamav.net
+db.local.clamav.net
