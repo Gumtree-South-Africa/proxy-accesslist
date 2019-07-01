@@ -143,6 +143,7 @@ repo.saltstack.com
 .rancher.com
 .rancher.io
 packages.cloud.google.com
+.rook.io
 .kubernetes.io
 .golang.org
 .googlesource.com
