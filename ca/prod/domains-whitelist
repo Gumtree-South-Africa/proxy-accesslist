@@ -63,7 +63,6 @@ api-meta.classistatic.com
 api.classistatic.com
 api.ebay.com
 api.ecgmove.com
-api.neuvoo.com
 api.paypal.com
 api.ziprecruiter.com
 apt.postgresql.org
@@ -174,6 +173,7 @@ mirrors.ibiblio.org
 mirrors.jenkins-ci.org
 move-listing-promotion.service.move-prod.ams1.cloud
 myfamilyhonda.com
+neuvoo.ca
 neuvoo.com
 nightlies.spray.io
 nl.archive.ubuntu.com
