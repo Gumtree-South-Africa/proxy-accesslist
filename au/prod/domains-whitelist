@@ -163,3 +163,5 @@ gumtreeau-mkt-stage1.campaign.adobe.com                    # SFTP UAT env SO-533
 gumtreeau-mkt-prod1-2.campaign.adobe.com    # Alternative endpooint provided by Adobe while having performance issues
 
 ecg-api.gumtree.com.au  # For running CAPI smoke tests in Bamboo
+
+dl-cdn.alpinelinux.org # AUSO-852
