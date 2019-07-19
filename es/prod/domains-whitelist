@@ -3,6 +3,7 @@ adoptopenjdk.jfrog.io
 .archive.ubuntu.com
 .bintray.com
 .debian.org
+.fastly.net
 .debian.net
 .elastic.co
 .nodejs.org
@@ -38,8 +39,6 @@ nginx.org
 oss-binaries.phusionpassenger.com
 packagecloud.io
 packagecloud-repositories.s3.dualstack.us-west-1.amazonaws.com
-packagecloud-oss.global.ssl.fastly.net
-packagecloud-prod.global.ssl.fastly.net
 packages.cloud.google.com
 packages.confluent.io
 packages.elasticsearch.org
@@ -62,7 +61,6 @@ repo.yandex.ru
 repos.mesosphere.com
 .r-project.org
 .s3.amazonaws.com
-sensu.global.ssl.fastly.net
 spritelink.github.io
 .strimzi.io
 .nvd.nist.gov
