@@ -221,3 +221,6 @@ github.corp.ebay.com
 # Move sandbox
 sandbox.ecgmove.com
 .dev.gcp.ecgmove.cloud # AUSO-868
+
+# Horizon autoamtion test
+getadblock.com
