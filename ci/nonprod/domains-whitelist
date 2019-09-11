@@ -10,6 +10,7 @@ ftp.icm.edu.pl
 mirror.yandex.ru
 mirrors.clinkerhq.com
 mirror.xmission.com
+.npmjs.org
 # archives.jenkins-ci.org # DUPLICATE
 .osuosl.org
 # Docker to pull base images
