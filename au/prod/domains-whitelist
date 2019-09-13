@@ -165,3 +165,5 @@ gumtreeau-mkt-prod1-2.campaign.adobe.com    # Alternative endpooint provided by 
 ecg-api.gumtree.com.au  # For running CAPI smoke tests in Bamboo
 
 dl-cdn.alpinelinux.org # AUSO-852
+
+api-uat.macquarie.com.au # AUSO-938
