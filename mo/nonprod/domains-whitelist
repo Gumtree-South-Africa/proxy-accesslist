@@ -17,7 +17,7 @@
 .broadmail.de
 .calendarlabs.com
 .canonical.com
-.cdn.optimizely.com
+.optimizely.com
 .cdn.segment.io
 .centos.org
 .charts.keel.sh
@@ -174,7 +174,6 @@ smartbearsoftware.com
 soapui.org
 sonarplugins.com
 sonarqube.org
-stats.g.doubleclick.net
 update.sonarsource.org
 www.datanucleus.org
 www.ecb.europa.eu
@@ -191,3 +190,18 @@ bitbucket.cprime.io
 # data team:
 api.nexta.io
 .nextbankingapi.com
+# ONLY INTEGRA - www.mobile.de + suchen.mobile.de:
+bat.bing.com
+browser-update.org
+script.ioam.de
+.agkn.com
+.criteo.com
+.criteo.net
+.doubleclick.net
+.facebook.com
+.facebook.net
+.google.de
+.googletagservices.com
+.gstatic.com
+.jsdelivr.net
+.theadex.com
