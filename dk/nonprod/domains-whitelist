@@ -9,6 +9,7 @@ github.com
 .stavekontrolden.dk
 
 # Build dependencies
+azurecr.io
 .nuget.org
 .elastic.co
 .nodesource.com
