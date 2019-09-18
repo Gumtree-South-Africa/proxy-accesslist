@@ -8,14 +8,13 @@ github.com
 # Elasticsearch danish hunspell dictionaries
 .stavekontrolden.dk
 
-# Build dependencies
+# Container registries
 azurecr.io
+
+# Build dependencies
 .nuget.org
-.elastic.co
 .nodesource.com
 .elasticsearch.org
-.docker.com
-.docker.io
 .cloudfront.net
 .hashicorp.com
 .hosting.dk.ecg.so
