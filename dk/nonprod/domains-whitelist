@@ -56,6 +56,7 @@ vendorlist.consensu.org
 # - https://technet.microsoft.com/en-us/library/bb693717.aspx#
 # - https://docs.microsoft.com/en-us/azure/azure-monitor/platform/log-analytics-agent#network-firewall-requirements
 # - https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-monitoringandmanagement#azure-monitor-logs
+# - https://github.com/microsoft/OMS-Agent-for-Linux/blob/master/docs/Troubleshooting.md#im-unable-to-connect-through-my-proxy-to-oms
 # Microsoft controlled domains
 aka.ms
 .xamarin.com
@@ -75,6 +76,7 @@ dl.google.com
 .loganalytics.io
 .windowsazure.com
 .applicationinsights.us
+.systemcenteradvisor.com
 
 # Missing, clean Windows server requests
 .msecnd.net
