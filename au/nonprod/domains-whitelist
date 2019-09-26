@@ -231,3 +231,7 @@ proxy-qa.treebay.cloud
 treebay.ebayclassifiedsgroup.com
 
 api-uat.macquarie.com.au # AUSO-938
+
+# Algolia AUSO-946
+.algolia.net
+.algolianet.com

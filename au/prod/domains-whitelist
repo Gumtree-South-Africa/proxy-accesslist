@@ -167,3 +167,7 @@ ecg-api.gumtree.com.au  # For running CAPI smoke tests in Bamboo
 dl-cdn.alpinelinux.org # AUSO-852
 
 api-uat.macquarie.com.au # AUSO-938
+
+# Algolia AUSO-946
+.algolia.net
+.algolianet.com
