@@ -1,5 +1,5 @@
 # eCG DK web tools API domain (e.g. release notes)
-ecgdk.io
+.ecgdk.io
 
 # Source locations
 github.corp.ebay.com
@@ -7,31 +7,32 @@ raw.githubusercontent.com
 github.com
 
 # Elasticsearch danish hunspell dictionaries
-stavekontrolden.dk
+.stavekontrolden.dk
 
 # Container registries
 azurecr.io
 
 # Build dependencies
-nuget.org
-nodesource.com
-elasticsearch.org
-cloudfront.net
-hashicorp.com
-hosting.dk.ecg.so
-rubygems.org
-alpinelinux.org
+.nuget.org
+.nodesource.com
+.elasticsearch.org
+.cloudfront.net
+.hashicorp.com
+.hosting.dk.ecg.so
+.rubygems.org
+.alpinelinux.org
 npmjs.com
 npmjs.org
-maxmind.com
+.gcr.io
+.maxmind.com
 sonarsource.com
-s3.amazonaws.com
+.s3.amazonaws.com
 repos.influxdata.com
-azure.com
+pkgs.dev.azure.com
 
 # Notification services
-slack.com
-pagerduty.com
+.slack.com
+.pagerduty.com
 
 # Services used for tests
 .ebayimg.com
@@ -40,7 +41,7 @@ qa01-accounts.ecgh.dk
 sendoghent.dk
 www3.almappen.dk
 secure.preprod.scb.nu
-coolrunner.dk
+.coolrunner.dk
 gjensidige.bytetest.dk
 distribution.virk.dk
 ebaydk.bbvms.com
@@ -48,44 +49,43 @@ vendorlist.consensu.org
 .tinglysning.dk
 
 # Python & PIP
-python.org
-pypa.io
+.python.org
+.pypa.io
 
 # Microsoft, Windows update and Visual Studio updates
 # - https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio-behind-a-firewall-or-proxy-server#
 # - https://technet.microsoft.com/en-us/library/bb693717.aspx#
 # Microsoft controlled domains
 aka.ms
-xamarin.com
-microsoft.com
-microsoftonline.com
-visualstudio.com
-windows.net
-windows.com
-windowsupdate.com
-live.com
+.xamarin.com
+.microsoft.com
+.microsoftonline.com
+.visualstudio.com
+.windows.net
+.windows.com
+.windowsupdate.com
+.live.com
 # Non-Microsoft domains
 download.oracle.com
 archive.apache.org
 dl.google.com
-azure-automation.net
 
 # Missing, clean Windows server requests
-msecnd.net
-vsassets.io
-msocsp.com
+.msecnd.net
+.vsassets.io
+.msocsp.com
 
 # OPS
-digicert.com
-amazontrust.com
+.digicert.com
+.amazontrust.com
 
 # Puppet
-puppetlabs.com
-puppet.com
+.puppetlabs.com
+.puppet.com
 
 # apt
-ubuntu.com
-launchpad.net
+.ubuntu.com
+.launchpad.net
 packages.erlang-solutions.com
 dl.bintray.com
 apt.puppetexplorer.io
