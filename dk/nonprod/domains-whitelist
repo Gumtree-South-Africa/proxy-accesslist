@@ -10,7 +10,8 @@ github.com
 .stavekontrolden.dk
 
 # Container registries
-azurecr.io
+.azurecr.io
+.gcr.io
 
 # Build dependencies
 .nuget.org
@@ -23,12 +24,10 @@ azurecr.io
 .alpinelinux.org
 npmjs.com
 npmjs.org
-.gcr.io
 .maxmind.com
 sonarsource.com
 .s3.amazonaws.com
 repos.influxdata.com
-pkgs.dev.azure.com
 
 # Notification services
 .slack.com
@@ -52,9 +51,11 @@ vendorlist.consensu.org
 .python.org
 .pypa.io
 
-# Microsoft, Windows update and Visual Studio updates
+# Microsoft, Windows update, Azure OMS and Visual Studio updates
 # - https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio-behind-a-firewall-or-proxy-server#
 # - https://technet.microsoft.com/en-us/library/bb693717.aspx#
+# - https://docs.microsoft.com/en-us/azure/azure-monitor/platform/log-analytics-agent#network-firewall-requirements
+# - https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-monitoringandmanagement#azure-monitor-logs
 # Microsoft controlled domains
 aka.ms
 .xamarin.com
@@ -69,6 +70,11 @@ aka.ms
 download.oracle.com
 archive.apache.org
 dl.google.com
+.azure-automation.net
+.azure.com
+.loganalytics.io
+.windowsazure.com
+.applicationinsights.us
 
 # Missing, clean Windows server requests
 .msecnd.net
