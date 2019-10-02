@@ -105,6 +105,7 @@ www.facebook.com
 platform-lookaside.fbsbx.com
 connect.facebook.net # Facebook Login - AUSO-720
 staticxx.facebook.com  # AUSO-721
+web.facebook.com # Facebook Login
 
 # GTAU-10533
 api.yesmail.com
