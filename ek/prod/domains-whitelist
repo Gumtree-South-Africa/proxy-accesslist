@@ -57,8 +57,7 @@ bitnami.com
 .golang.org
 .googlesource.com
 # https://jira.corp.ebay.com/browse/KOPS-2149
-ecg-mkt-prod1-1.campaign.adobe.com
-ecg-mkt-stage1-1.campaign.adobe.com
+.campaign.adobe.com
 database.clamav.net
 db.local.clamav.net
 treebay.ebayclassifiedsgroup.com
