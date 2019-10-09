@@ -171,3 +171,6 @@ api-uat.macquarie.com.au # AUSO-938
 # Algolia AUSO-946
 .algolia.net
 .algolianet.com
+
+# ecgmove AUSO-954
+api.ecgmove.com
