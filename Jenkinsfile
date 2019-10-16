@@ -1,5 +1,11 @@
 #!groovy
 
+if (env.JENKINS_URL.contains("es.dus1.cloud") || env.JENKINS_URL.contains("es.ams1.cloud")) {
+  currentBuild.result = 'ABORTED'
+  currentBuild.description = 'This pipeline is not configured for ' + env.JENKINS_URL
+  return
+}
+
 pipeline {
     agent { label 'Slaves' }
     environment {
