@@ -237,3 +237,7 @@ api-uat.macquarie.com.au # AUSO-938
 # Algolia AUSO-946
 .algolia.net
 .algolianet.com
+
+# Avanser - External phone call tracker provider
+webapi-sandbox.avanser.com
+tapi-sandbox.avanser.com
