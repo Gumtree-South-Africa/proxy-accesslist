@@ -174,3 +174,5 @@ api-uat.macquarie.com.au # AUSO-938
 
 # ecgmove AUSO-954
 api.ecgmove.com
+# Move Sandbox , for use from bamboo which is a prod tenant
+sandbox.ecgmove.com
