@@ -53,6 +53,7 @@ fcm.googleapis.com                                 # New endpoint for push
 oauth2.googleapis.com                              # AUSO-635
 safebrowsing.googleapis.com                        # AUSO-700
 www.googleapis.com                                 # GTAU-9036
+iid.googleapis.com                                 # GTAU-31026
 
 # Google Cloud Registray to push/pull images into gcp.
 asia.gcr.io
