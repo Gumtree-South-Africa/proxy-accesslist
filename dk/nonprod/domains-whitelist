@@ -26,7 +26,7 @@ npmjs.com
 npmjs.org
 .maxmind.com
 sonarsource.com
-.s3.amazonaws.com
+.amazonaws.com
 repos.influxdata.com
 
 # Notification services
