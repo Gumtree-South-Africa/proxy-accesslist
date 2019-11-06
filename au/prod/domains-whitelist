@@ -177,3 +177,7 @@ api-uat.macquarie.com.au # AUSO-938
 api.ecgmove.com
 # Move Sandbox , for use from bamboo which is a prod tenant
 sandbox.ecgmove.com
+
+#  Avanser - External phone call tracker provider
+api.avanser.com
+tapi.avanser.com
