@@ -55,6 +55,7 @@ quay.io
 .redhat.com
 repo.aptly.info
 repo.mongodb.org
+repo.mysql.com
 repo.percona.com
 repo.powerdns.com
 repo.saltstack.com
