@@ -108,5 +108,8 @@ download.docker.com
 .braze.eu
 .braze.com
 
+# Odin Pre Prod
+api.cd-odin-pre-prod.ams1.cloud
+
 # QA environments
 .dk-qa.ecg.so
