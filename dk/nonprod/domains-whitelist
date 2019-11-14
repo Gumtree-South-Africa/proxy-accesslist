@@ -29,6 +29,7 @@ sonarsource.com
 .amazonaws.com
 repos.influxdata.com
 packages.chef.io
+galaxy.ansible.com
 
 # Notification services
 .slack.com
