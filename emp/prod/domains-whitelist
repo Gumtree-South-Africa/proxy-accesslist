@@ -18,7 +18,6 @@ downloads-distro.mongodb.org
 .pypi.org
 .pythonhosted.org
 .push.apple.com
-.ebay.com
 .ebayimg.com
 maps.googleapis.com
 .rubygems.org
@@ -38,15 +37,15 @@ maps.googleapis.com
 gcr.io
 quay.io
 .calendarlabs.com
-.freespee.com
 .jenkins.io
 .jenkins-ci.org
 .osuosl.org
 # data team:
 api.nexta.io
 # EMP
-#.ebay.com
+.ebay.com
 .gumtree.com
 .salesforce.com
-#.freespee.com
+.freespee.com
 .hpicheck.com
+.azurewebsites.net

@@ -32,14 +32,12 @@
 .debian.net
 .debian.org
 .digitalelement.com
-.dlmanager.corp.ebay.com
 .docker.com
 .docker.io
 .ebayimg.com
 .eclipse.org
 .elastic.co
 .fabric.io
-.freespee.com
 .gcr.io
 .github.com
 .github.io
@@ -102,8 +100,6 @@
 .rubygems.org
 .s.adroll.com
 .s3-cdn.invisionapp.com
-.salesforce.com
-.sandbox.ebay.com
 .scala-sbt.org
 .serverion.com
 .shuosc.org
@@ -159,7 +155,6 @@ nodejs.org
 nvd.nist.gov
 p80.pool.sks-keyservers.net
 packages.confluent.io
-pki.corp.ebay.com
 projectlombok.org
 publicsuffix.org
 pyx4j.com
@@ -250,8 +245,9 @@ x.bidswitch.net
 .xactag.com
 .yahoo.com
 # EMP
-#.ebay.com
+.ebay.com
 .gumtree.com
-#.salesforce.com
-#.freespee.com
+.salesforce.com
+.freespee.com
 .hpicheck.com
+.azurewebsites.net
