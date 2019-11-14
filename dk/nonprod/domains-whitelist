@@ -28,6 +28,7 @@ npmjs.org
 sonarsource.com
 .amazonaws.com
 repos.influxdata.com
+packages.chef.io
 
 # Notification services
 .slack.com
