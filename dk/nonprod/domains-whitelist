@@ -115,3 +115,7 @@ api.cd-odin-pre-prod.ams1.cloud
 
 # QA environments
 .dk-qa.ecg.so
+
+# Mulesoft / Catalyst integration tests
+anypoint.mulesoft.com
+ssoqa.corp.ebay.com
