@@ -242,3 +242,7 @@ api-uat.macquarie.com.au # AUSO-938
 webapi-sandbox.avanser.com
 tapi-sandbox.avanser.com
 api-sandbox.avanser.com
+
+# WISR - AUSO-1026
+test-identity.wisr.tech
+test-api-gumtree.wisr.tech
