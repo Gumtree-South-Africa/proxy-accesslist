@@ -80,7 +80,7 @@ bucardo.org
 buy.itunes.apple.com                               # AUSO-700
 check.torproject.org                               # Check TOR IP address, AUSO-700
 database.clamav.net                                # JobsApp AV file scanning
-dataconnect.carsales.com.au
+dataconnect.carsales.com.au                        # Autogate
 download.elasticsearch.org
 download.redis.io
 download.strongswan.org

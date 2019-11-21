@@ -72,7 +72,8 @@ ebay-beta-api-gw.tract-staging.com
 # EPS - downloads
 i.ebayimg.com
 
-dataconnect.carsales.com.au
+# Autogate
+testdataconnect.carsales.com.au
 
 # ThreatMetrix
 h-api.online-metrix.net
