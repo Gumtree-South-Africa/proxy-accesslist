@@ -12,6 +12,7 @@ apt.postgresql.org
 apt.puppetlabs.com
 archive.cloudera.com
 .cloudfront.net
+cdn.amazonlinux.com
 deb.nodesource.com
 deb.theforeman.org
 debian.datastax.com
