@@ -10,6 +10,7 @@ acme-v02.api.letsencrypt.org
 api.statuspage.io
 bower.herokuapp.com
 bower.io
+broker.snyk.io
 .browserstack.com
 .canonical.com
 .cloudfront.net
