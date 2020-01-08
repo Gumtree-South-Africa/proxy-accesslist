@@ -24,6 +24,7 @@ downloads-distro.mongodb.org
 .ebay.com
 .ebayimg.com
 maps.googleapis.com
+storage.googleapis.com
 .rubygems.org
 .docker.io
 .docker.com
@@ -42,6 +43,8 @@ gcr.io
 quay.io
 .calendarlabs.com
 .freespee.com
+.paypal.com
+.adyen.com
 .jenkins.io
 .jenkins-ci.org
 .osuosl.org
@@ -52,7 +55,6 @@ repo.continuum.io
 #.ebay.com
 .gumtree.com
 .salesforce.com
-#.freespee.com
 .hpicheck.com
 ebay11.detroncloud.nl
 sftp.motors.co.uk
