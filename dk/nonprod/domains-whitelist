@@ -38,6 +38,7 @@ galaxy.ansible.com
 
 # Services used for tests
 .ebayimg.com
+sandbox.ebay.com
 dawa.aws.dk
 qa01-accounts.ecgh.dk
 .sendoghent.dk
