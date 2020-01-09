@@ -142,10 +142,9 @@ apt.dockerproject.org
 bower.herokuapp.com
 bower.io
 bvg.de
-checkout-test.adyen.com
-checkoutshopper-test.adyen.com
-api.sandbox.paypal.com
+.adyen.com
 .paypalobjects.com
+.paypal.com
 conda-forge.org
 developer.jasig.org
 devimages.apple.com.edgekey.net
