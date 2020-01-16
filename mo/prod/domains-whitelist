@@ -61,3 +61,5 @@ ebay11.detroncloud.nl
 sftp.motors.co.uk
 # analytics
 .google-analytics.com
+# allow s3 buckets for downloads of github release tgzs
+.s3.amazonaws.com
