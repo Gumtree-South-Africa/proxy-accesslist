@@ -53,7 +53,9 @@ packages.erlang-solutions.com
 pkg.jenkins-ci.org
 pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
-pypi.python.org
+.pypi.org
+.pypi.python.org
+.pythonhosted.org
 quay.io
 .redhat.com
 repo.aptly.info
