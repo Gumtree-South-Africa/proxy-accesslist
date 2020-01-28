@@ -1,5 +1,6 @@
 adoptopenjdk.jfrog.io
 .alpinelinux.org
+.apache.org
 .archive.ubuntu.com
 .bintray.com
 .debian.org
@@ -101,7 +102,6 @@ developer.jasig.org
 el4.elca-services.ch
 repo.jenkins-ci.org
 .couchbase.com
-repository.apache.org
 repo.spring.io
 clojars.org
 repo.akka.io
