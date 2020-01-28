@@ -152,3 +152,5 @@ database.clamav.net
 db.local.clamav.net
 api.sandbox.ebay.com
 .sandbox.paypal.com
+apiconnect-nonprod-ext.corp.ebay.com
+ssoqa.corp.ebay.com
