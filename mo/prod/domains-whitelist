@@ -37,6 +37,7 @@ storage.googleapis.com
 .nextbankingapi.com
 .campaign.adobe.com
 .cdn.optimizely.com
+.logx.optimizely.com
 .cdn.prismic.io
 # k8s:
 .k8s.io
