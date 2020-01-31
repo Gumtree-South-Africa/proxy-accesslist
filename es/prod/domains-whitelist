@@ -8,6 +8,7 @@ adoptopenjdk.jfrog.io
 .debian.net
 .elastic.co
 .nodejs.org
+.maven.org
 apt.dockerproject.org
 apt.postgresql.org
 apt.puppetlabs.com
