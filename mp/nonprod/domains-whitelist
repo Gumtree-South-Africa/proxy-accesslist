@@ -67,3 +67,4 @@ gcr.io
 apiconnect-nonprod-ext.corp.ebay.com
 ssoqa.corp.ebay.com
 ebay-lb-non-prod.lb.anypointdns.net
+binaries.cockroachdb.com
