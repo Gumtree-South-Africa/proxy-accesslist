@@ -39,6 +39,8 @@ storage.googleapis.com
 .cdn.optimizely.com
 .logx.optimizely.com
 .cdn.prismic.io
+www.bvfk.de
+www.kfzgewerbe.de
 # k8s:
 .k8s.io
 gcr.io
