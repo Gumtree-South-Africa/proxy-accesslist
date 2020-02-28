@@ -114,6 +114,7 @@ download.docker.com
 
 # Odin Pre Prod
 api.cd-odin-pre-prod.ams1.cloud
+api.cd-mim-pre-prod.ams1.cloud
 
 # QA environments
 .dk-qa.ecg.so
