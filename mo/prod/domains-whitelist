@@ -35,8 +35,7 @@ downloads-distro.mongodb.org
 .slack.com
 .nextbankingapi.com
 .campaign.adobe.com
-.cdn.optimizely.com
-.logx.optimizely.com
+.optimizely.com
 .cdn.prismic.io
 www.bvfk.de
 www.kfzgewerbe.de
@@ -70,3 +69,6 @@ sftp.motors.co.uk
 .s3.amazonaws.com
 # SFTP migration
 proxy30.webhop.me
+# DWH
+m.autoscout24.de
+m.truckscout24.de
