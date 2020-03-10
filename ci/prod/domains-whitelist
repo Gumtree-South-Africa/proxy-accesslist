@@ -27,6 +27,7 @@ mirror.xmission.com
 .slack-edge.com
 .slack-core.com
 .slack-redir.net
+storage.googleapis.com
 # Cloning from github.com
 github.com
 # Python PIP
