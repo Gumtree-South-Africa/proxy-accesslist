@@ -135,3 +135,8 @@ deploy.corp.prod.cargigi.com
 # 3rd party
 # AIA
 .stage.autotec.com
+
+# for Navision -> Salesforce migration (Ecgdk.Sho.Customer.Write)
+legacycrm-read.ecgh.dk
+customer-read.ecgh.dk
+accounts.ecgh.dk
