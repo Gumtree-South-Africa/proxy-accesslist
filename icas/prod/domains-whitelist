@@ -42,6 +42,7 @@ releases.hashicorp.com
 .slack-msgs.com
 .slack.com
 .googleapis.com
+.cloud.google.com
 mock.icas-qa.dus1.cloud
 mock.icas-pre-prod.dus1.cloud
 mock.icas-prod.dus1.cloud
