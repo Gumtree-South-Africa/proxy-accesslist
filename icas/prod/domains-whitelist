@@ -4,7 +4,6 @@ answerhub.corp.ebay.com
 .apache.org
 .bintray.com
 .cloudfront.net
-dl.google.com
 .docker.io
 .docker.com
 .elastic.co
@@ -42,7 +41,7 @@ releases.hashicorp.com
 .slack-msgs.com
 .slack.com
 .googleapis.com
-.cloud.google.com
+.google.com
 mock.icas-qa.dus1.cloud
 mock.icas-pre-prod.dus1.cloud
 mock.icas-prod.dus1.cloud
