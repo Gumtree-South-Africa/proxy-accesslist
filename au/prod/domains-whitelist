@@ -189,3 +189,6 @@ api.ratesetter.com.au
 # WISR GTAU-33959
 identity.wisr.tech
 api-gumtreebff.wisr.tech
+
+# Sign in With Apple - AUSO-1129
+appleid.apple.com

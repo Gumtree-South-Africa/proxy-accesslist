@@ -254,3 +254,6 @@ api.ratesetter.com.au
 #Braintree sandbox                                  #GTAU-34265 - Whitelist proxy for Braintree sandbox
 api.sandbox.braintreegateway.com
 auth.sandbox.venmo.com
+
+# Sign in With Apple - AUSO-1129
+appleid.apple.com
