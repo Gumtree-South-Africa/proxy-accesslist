@@ -47,6 +47,8 @@ downloads-distro.mongodb.org
 www.bvfk.de
 www.kfzgewerbe.de
 api.tiles.mapbox.com
+.cognitiveservices.azure.com
+.microsofttranslator.com
 # k8s:
 .k8s.io
 gcr.io
