@@ -16,6 +16,7 @@
 .github.com
 .gradle.org
 .gradle-dn.com
+.grafana.com
 .halifax.rwth-aachen.de
 .hashicorp.com
 .influxdata.com
@@ -79,7 +80,6 @@ fastdl.mongodb.org
 ftp.gwdg.de
 ftp.mozilla.org
 get.helm.sh
-grafana.com
 hooks.slack.com
 jitpack.io
 kubernetesjsonschema.dev
