@@ -110,5 +110,5 @@ ebay-lb-prod.lb.anypointdns.net
 sso.corp.ebay.com
 binaries.cockroachdb.com
 appleid.apple.com
-benelux-web.firebaseio.com
+.firebaseio.com
 ebay11.detroncloud.nl
