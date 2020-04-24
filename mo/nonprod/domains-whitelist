@@ -58,6 +58,7 @@
 .gopkg.in
 .gradle.org
 .gradle-dn.com
+.hashicorp.com
 .hockeyapp.net
 .influxdata.com
 .invisionapp-users.firebaseio.com
@@ -176,7 +177,6 @@ projectlombok.org
 publicsuffix.org
 pyx4j.com
 quay.io
-releases.hashicorp.com
 repo.terracotta.org
 repo.typesafe.com
 repos.azulsystems.com
