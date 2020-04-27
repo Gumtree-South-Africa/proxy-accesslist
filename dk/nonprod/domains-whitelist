@@ -143,3 +143,6 @@ accounts.ecgh.dk
 apiconnect-nonprod-ext.corp.ebay.com
 anypoint.mulesoft.com
 ssoqa.corp.ebay.com
+
+# Python package manager
+.pypi.org
