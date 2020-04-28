@@ -131,7 +131,7 @@ packages.confluent.io
 # k8s:
 .k8s.io
 .gcr.io
-quay.io
+.quay.io
 .dynect.net
 .elastic.co
 .opensource.zalan.do
