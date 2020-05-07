@@ -149,3 +149,6 @@ ssoqa.corp.ebay.com
 
 # try adding sonarqube.es.ecg.tools
 sonarqube.es.ecg.tools
+
+# logs
+log.ecgh.dk
