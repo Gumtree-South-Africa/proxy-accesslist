@@ -33,7 +33,7 @@ packages.chef.io
 galaxy.ansible.com
 
 # Helm
-helm.sh
+get.helm.sh
 
 # Notification services
 .slack.com
