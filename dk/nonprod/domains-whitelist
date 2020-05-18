@@ -32,6 +32,9 @@ repos.influxdata.com
 packages.chef.io
 galaxy.ansible.com
 
+# Helm
+helm.sh
+
 # Notification services
 .slack.com
 .pagerduty.com
