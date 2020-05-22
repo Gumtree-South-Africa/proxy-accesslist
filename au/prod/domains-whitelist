@@ -198,4 +198,4 @@ api.sandbox.braintreegateway.com
 auth.sandbox.venmo.com
 
 # td-agent deb package for fluentd
-packages.treasuredata.com
+packages.treasuredata.com.s3.amazonaws.com
