@@ -196,3 +196,6 @@ appleid.apple.com
 #Braintree sandbox    #GTAU-34265 - Whitelist proxy for Braintree sandbox - will be removed once we have Prod access to Braintree.
 api.sandbox.braintreegateway.com
 auth.sandbox.venmo.com
+
+# td-agent deb package for fluentd
+packages.treasuredata.com
