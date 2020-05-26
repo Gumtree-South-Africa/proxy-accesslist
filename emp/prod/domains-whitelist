@@ -33,6 +33,7 @@ maps.googleapis.com
 .campaign.adobe.com
 .cdn.optimizely.com
 .logx.optimizely.com
+repo.saltstack.com
 # k8s:
 .k8s.io
 gcr.io
