@@ -35,6 +35,7 @@ galaxy.ansible.com
 
 # Helm
 get.helm.sh
+helm.elastic.co
 charts.bitnami.com
 
 # Notification services
