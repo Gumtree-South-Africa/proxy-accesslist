@@ -33,6 +33,11 @@ repos.influxdata.com
 packages.chef.io
 galaxy.ansible.com
 
+# PowerShell Gallery
+# https://github.com/PowerShell/PowerShellGet/issues/76
+psg-prod-eastus.azureedge.net
+#devopsgallerystorage.blob.core.windows.net // 'devopsgallerystorage.blob.core.windows.net' is a subdomain of '.windows.net'
+
 # Helm
 get.helm.sh
 helm.elastic.co
