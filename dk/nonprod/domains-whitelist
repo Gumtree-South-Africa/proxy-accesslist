@@ -144,6 +144,9 @@ deploy.corp.prod.cargigi.com
 .stage.autotec.com
 # Raptor
 api.raptorsmartadvisor.com
+t.raptorsmartadvisor.com
+# Adform
+track.adform.net
 
 # For tests of Navision -> Salesforce migration (Ecgdk.Sho.Customer.Write)
 legacycrm-read.ecgh.dk
