@@ -50,3 +50,5 @@ bootstrap.pypa.io
 .hashicorp.com
 .terraform.io
 .ams1.cloud.ecg.so
+labs-api.pre-prod.cdata.ecg.tools
+labs-api.prod.cdata.ecg.tools
