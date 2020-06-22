@@ -12,6 +12,7 @@ raw.githubusercontent.com
 # Container registries
 .azurecr.io
 .gcr.io
+quay.io
 
 # Build dependencies
 .nuget.org
