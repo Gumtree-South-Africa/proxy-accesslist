@@ -11,6 +11,7 @@ ftp.s7.exacttarget.com
 grafana.com
 gumtreejobs-webservice.madgexjb.com
 members.exacttarget.com
+netcraft-logupload.s3.amazonaws.com
 .nr-data.net
 .pagerduty.com
 sqs.eu-west-1.amazonaws.com
