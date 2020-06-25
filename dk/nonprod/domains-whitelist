@@ -13,6 +13,7 @@ raw.githubusercontent.com
 .azurecr.io
 .gcr.io
 .quay.io
+.docker.io
 
 # Build dependencies
 .nuget.org
