@@ -14,6 +14,7 @@ raw.githubusercontent.com
 .gcr.io
 .quay.io
 .docker.io
+.docker.com
 
 # Build dependencies
 .nuget.org
@@ -115,7 +116,6 @@ packages.erlang-solutions.com
 dl.bintray.com
 apt.puppetexplorer.io
 apt.postgresql.org
-download.docker.com
 
 # TensorFlow releases download
 # Selenium web driver download
