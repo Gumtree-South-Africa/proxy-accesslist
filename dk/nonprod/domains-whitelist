@@ -9,6 +9,14 @@ raw.githubusercontent.com
 # Elasticsearch danish hunspell dictionaries
 .stavekontrolden.dk
 
+# 1Password
+.1password.com
+.1password.eu
+
+# Terraform
+.terraform.io
+.hashicorp.com
+
 # Container registries
 .azurecr.io
 .gcr.io
@@ -21,7 +29,6 @@ raw.githubusercontent.com
 .nodesource.com
 .elasticsearch.org
 .cloudfront.net
-.hashicorp.com
 nodejs.org
 .hosting.dk.ecg.so
 .rubygems.org
