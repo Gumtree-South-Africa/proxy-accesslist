@@ -68,6 +68,7 @@ vendorlist.consensu.org
 # Python & PIP
 .python.org
 .pypa.io
+.pythonhosted.org
 
 # Microsoft, Windows update, Azure OMS and Visual Studio updates
 # - https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio-behind-a-firewall-or-proxy-server#
