@@ -10,9 +10,16 @@ raw.githubusercontent.com
 .stavekontrolden.dk
 
 # 1Password
+# https://support.1password.com/ports-domains/
 .1password.com
-.1password.eu
 .agilebits.com
+.1passwordservices.com
+.1passwordusercontent.com
+.1password.eu
+.1passwordusercontent.eu
+.1password.ca
+.1passwordusercontent.ca
+.pwnedpasswords.com
 
 # Terraform
 .terraform.io
