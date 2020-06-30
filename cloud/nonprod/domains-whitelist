@@ -21,9 +21,11 @@
 .slack.com
 .statuspage.io
 .theforeman.org
+api.dynect.net
 cloud-images.ubuntu.com
 code.google.com
 dialogflow.googleapis.com
+eu.gcr.io
 jenkins.mirror.isppower.de
 mirror.ratiokontakt.de
 mirrors.jenkins.io
@@ -32,4 +34,3 @@ stable.release.core-os.net
 storage.googleapis.com
 updates.jenkins.io
 www.google.com
-eu.gcr.io
