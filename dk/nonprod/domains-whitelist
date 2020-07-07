@@ -31,7 +31,7 @@ raw.githubusercontent.com
 .quay.io
 .docker.io
 .docker.com
-docker.elastic.co
+.elastic.co
 
 # Build dependencies
 .nuget.org
@@ -60,7 +60,7 @@ psg-prod-eastus.azureedge.net
 
 # Helm
 get.helm.sh
-helm.elastic.co
+#helm.elastic.co - Already covered in the container registries
 charts.bitnami.com
 
 # Notification services
