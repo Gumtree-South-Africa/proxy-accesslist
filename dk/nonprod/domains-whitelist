@@ -156,6 +156,9 @@ api.cd-mim-pre-prod.ams1.cloud
 
 api.demo2.freespee.com
 
+# Reepay
+api.reepay.com
+
 # USV
 # Octopus
 deploy.corp.prod.cargigi.com
