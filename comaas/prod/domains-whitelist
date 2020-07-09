@@ -50,3 +50,5 @@ sum.golang.org
 packages.confluent.io
 .pypi.org
 .pythonhosted.org
+.google.com
+.gcr.io
