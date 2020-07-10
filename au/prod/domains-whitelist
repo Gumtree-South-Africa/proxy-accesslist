@@ -197,5 +197,11 @@ appleid.apple.com
 api.sandbox.braintreegateway.com
 auth.sandbox.venmo.com
 
+# Braintree production - GTAU-37197
+api.braintreegateway.com
+www.braintreegateway.com
+gstatic.braintreegateway.com
+payments.braintree-api.com
+
 # td-agent deb package for fluentd
 packages.treasuredata.com.s3.amazonaws.com
