@@ -35,7 +35,7 @@ pipeline {
                     # Return the exit code (0=OK, 1=ERROR)
                     exit $ERROR'''
                 
-                slackSend color: 'good', message: "PROXY :: Running whitelist test (<${env.BUILD_URL}/console|Link>)", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+                slackSend color: 'good', message: "PROXY :: Running Proxy ACL test (<${env.BUILD_URL}/console|Link>)", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
 
             }
         }
@@ -43,7 +43,7 @@ pipeline {
         // Always build master to ensure its passing before the pull request
         stage('Build Master') {
             steps {
-                slackSend color: 'good', message: 'PROXY :: Running whitelist test against MASTER', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+                slackSend color: 'good', message: 'PROXY :: Running Proxy ACL test against MASTER', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
                 
                 // Fetch master branch
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
@@ -63,7 +63,7 @@ pipeline {
                 expression { env.ghprbActualCommit != null }
             }
             steps {
-                slackSend color: 'good', message: "PROXY :: Starting whitelist test on (<${env.ghprbPullLink}|#${ghprbPullId}>) ", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+                slackSend color: 'good', message: "PROXY :: Starting Proxy ACL test on (<${env.ghprbPullLink}|#${ghprbPullId}>) ", teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
                 // Fetch pull request
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
                     sh "git fetch origin pull/${ghprbPullId}/head:pull-request-${ghprbPullId}"                  
@@ -84,13 +84,13 @@ pipeline {
     }
     post {
         success {
-          slackSend color: 'good', message: 'Whitelist test passed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+          slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
         }
         failure {
-          slackSend color: 'bad', message: 'Whitelist test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
         }
         unstable {
-          slackSend color: 'bad', message: 'Whitelist test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
         }
     }
 }
