@@ -259,5 +259,8 @@ payments.sandbox.braintree-api.com
 origin-analytics-sand.sandbox.braintree-api.com
 assets.braintreegateway.com
 
+# ZipRecruiter
+api.ziprecruiter.com
+
 # Sign in With Apple - AUSO-1129
 appleid.apple.com
