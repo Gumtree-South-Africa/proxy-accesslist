@@ -297,3 +297,5 @@ ecg-rt-stage2.campaign.adobe.com
 checkout-test.adyen.com
 out.adyen.com
 pal-test.adyen.com
+# MoVe nonprod services in GCP
+.nonprod.gcp.ecgmove.cloud
