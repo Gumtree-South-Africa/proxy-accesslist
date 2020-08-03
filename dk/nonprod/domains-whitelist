@@ -159,6 +159,7 @@ api.demo2.freespee.com
 # Reepay
 api.reepay.com
 card.reepay.com
+checkout-api.reepay.com
 
 # USV
 # Octopus
