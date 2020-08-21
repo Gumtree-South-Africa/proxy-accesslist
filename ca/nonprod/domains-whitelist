@@ -299,3 +299,5 @@ out.adyen.com
 pal-test.adyen.com
 # MoVe nonprod services in GCP
 .nonprod.gcp.ecgmove.cloud
+ab8f128150d32b76-Marktplaats-pal-live.adyenpayments.com
+ab8f128150d32b76-Marktplaats-checkout-live.adyenpayments.com
