@@ -41,6 +41,7 @@
 .springsource.org
 .strimzi.io
 .taobao.org
+.jenkins.io
 adoptopenjdk.jfrog.io
 apt.dockerproject.org
 apt.postgresql.org
@@ -81,7 +82,6 @@ fastdl.mongodb.org
 ftp.gwdg.de
 ftp.mozilla.org
 get.helm.sh
-get.jenkins.io
 hooks.slack.com
 jitpack.io
 kubernetesjsonschema.dev
@@ -107,7 +107,6 @@ packages.elasticsearch.org
 packages.erlang-solutions.com
 pkg.ci.collectd.org
 pkg.jenkins-ci.org
-pkg.jenkins.io
 prodjenkinsreleases.blob.core.windows.net
 projectlombok.org
 pyx4j.com
