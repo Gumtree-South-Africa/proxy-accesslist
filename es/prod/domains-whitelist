@@ -119,6 +119,7 @@ repo.aptly.info
 repo.continuum.io
 repo.fusesource.com
 repo.jenkins-ci.org
+archives.jenkins-ci.org
 repo.mongodb.org
 repo.mysql.com
 repo.percona.com
