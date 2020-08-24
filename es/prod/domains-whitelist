@@ -4,6 +4,7 @@
 .archive.ubuntu.com
 .atlassian.com
 .bintray.com
+.bitbucket.org
 .cloudfront.net
 .couchbase.com
 .conjars.org
@@ -49,7 +50,6 @@ apt.puppetlabs.com
 archive.cloudera.com
 binaries.sonarsource.com
 bitbucket.cprime.io
-bitbucket.org
 bower.herokuapp.com
 build.shibboleth.net
 cdn.amazonlinux.com
@@ -111,6 +111,7 @@ prodjenkinsreleases.blob.core.windows.net
 projectlombok.org
 pyx4j.com
 quay.io
+raw.githubusercontent.com
 registry.bower.io
 registry.npmjs.org
 releases.mozilla.org
