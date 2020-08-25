@@ -16,6 +16,15 @@
 .fastly.net
 .gcr.io
 .github.com
+.google-analytics.com
+.google.com
+.google.de
+.googleapis.com
+.googlesource.com
+.googlesyndication.com
+.googletagmanager.com
+.googletagservices.com
+.googleusercontent.com
 .gradle.org
 .gradle-dn.com
 .grafana.com
@@ -54,7 +63,6 @@ bower.herokuapp.com
 build.shibboleth.net
 cdn.amazonlinux.com
 cdn.cypress.io
-chromedriver.storage.googleapis.com
 clojars.org
 datanucleus.org
 deb.nodesource.com
@@ -66,7 +74,6 @@ developer.download.nvidia.com
 developer.jasig.org
 devimages-cdn.apple.com
 devimages.apple.com.edgekey.net
-dl.google.com
 dl.min.io
 download.ceph.com
 download.crashlytics.com
@@ -87,7 +94,6 @@ jitpack.io
 kubernetesjsonschema.dev
 linux.dell.com
 maven.fabric.io
-maven.google.com
 maven.ow2.org
 maven.twttr.com
 mirror.cogentco.com
@@ -101,7 +107,6 @@ oss.jfrog.org
 oss.sonatype.org
 packagecloud-repositories.s3.dualstack.us-west-1.amazonaws.com
 packagecloud.io
-packages.cloud.google.com
 packages.confluent.io
 packages.elasticsearch.org
 packages.erlang-solutions.com
@@ -142,7 +147,6 @@ rubygems.org
 smartbearsoftware.com
 soapui.org
 spritelink.github.io
-storage.googleapis.com
 ubuntu-cloud.archive.canonical.com
 update.release.core-os.net
 vesta.informatik.rwth-aachen.de
