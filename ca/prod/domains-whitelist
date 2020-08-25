@@ -16,6 +16,7 @@
 .dynect.net
 .fastly.net
 .github.com
+.google.com
 .googleadservices.com
 .googleapis.com
 .googlecode.com
@@ -129,7 +130,6 @@ georgetownkia.com
 github.corp.ebay.com
 github-stg.corp.ebay.com
 github.scm.corp.ebay.com
-google.com
 google.nl
 gslchevcity.com
 gumtree.co.nz
@@ -264,7 +264,6 @@ www.creditguys.ca
 www.dealer-site.com
 www.edealer.ca
 www.google-analytics.com
-www.google.com
 www.googletagservices.com
 www.harvardauto.com
 www.hintondodge.ca
