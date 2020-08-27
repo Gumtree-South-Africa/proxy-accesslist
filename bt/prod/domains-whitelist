@@ -70,6 +70,7 @@
 .newrelic.com
 .docker.io
 .cloudfront.net
+.jenkins.io
 akamai.bintray.com
 api-3t.paypal.com
 api-int.phx.ops.pp.po.ecg.so
@@ -112,7 +113,6 @@ linux.dell.com
 maven.restlet.org
 maven.restlet.talend.com
 mirror.cogentco.com
-mirrors.jenkins.io
 mirror.us.leaseweb.net
 mirrors.ukfast.co.uk
 nodejs.org
