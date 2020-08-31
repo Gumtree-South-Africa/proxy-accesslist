@@ -45,3 +45,6 @@ releases.hashicorp.com
 quay.io
 .googleapis.com
 mirror.gruenehoelle.nl
+eu.gcr.io
+gcr.io
+apis.google.com
