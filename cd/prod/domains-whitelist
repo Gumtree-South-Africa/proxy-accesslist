@@ -6,6 +6,7 @@
 .github.com
 .googleapis.com
 .jenkins-ci.org
+.jenkins.io
 .osuosl.org
 .python.map.fastly.net
 .python.org
@@ -19,13 +20,15 @@ ftp.icm.edu.pl
 ftp.nluug.nl
 ftp.tsukuba.wide.ad.jp
 ftp.yz.yamagata-u.ac.jp
-gcr.io
+mirrors.tuna.tsinghua.edu.cn
 jenkins.mirror.isppower.de
 mirror.esuni.jp
 mirror.xmission.com
 mirror.yandex.ru
 mirrors.clinkerhq.com
 mirrors.seville-jam.es
+mirror.gruenehoelle.nl
+gcr.io
 repo.scala-sbt.org
 repo.typesafe.com
 repo1.maven.org
