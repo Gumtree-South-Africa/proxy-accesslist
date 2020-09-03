@@ -119,8 +119,9 @@ repo.scala-sbt.org
 repo.typesafe.com
 repository.cloudera.com
 repository.springsource.com
-robot.motorweb.com.au   # Motorweb microservice - SO-54239 , GTAU-26705
+robot.motorweb.com.au                             # Motorweb microservice - SO-54239 , GTAU-26705
 semicomplete.com
+sfapi.gumtree.com.au                              # Syncing proxy list from ix5
 ssl-gumtree.classistatic.com                      # FIXME - workaround for silly sitemap xml workflow - See GTAU-18427 for reason. AUSO-700
 svcs.ebay.com                                     # SO-52963
 www.assetex.com.au                                # SO-53990 , AUSO-700
