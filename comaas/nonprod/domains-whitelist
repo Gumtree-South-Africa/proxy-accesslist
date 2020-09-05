@@ -47,3 +47,4 @@ packages.confluent.io
 .google.com
 .gcr.io
 mirror.gruenehoelle.nl
+.letsencrypt.org
