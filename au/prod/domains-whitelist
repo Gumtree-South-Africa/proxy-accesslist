@@ -204,6 +204,9 @@ www.braintreegateway.com
 gstatic.braintreegateway.com
 payments.braintree-api.com
 
+# ZipRecruiter
+api.ziprecruiter.com
+
 # td-agent deb package for fluentd
 packages.treasuredata.com.s3.amazonaws.com
 
