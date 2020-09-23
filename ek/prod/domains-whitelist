@@ -54,6 +54,7 @@ repo.saltstack.com
 bitnami.com
 .twimg.com
 .hashicorp.com
+.terraform.io
 # END rancher domains
 .golang.org
 .googlesource.com
