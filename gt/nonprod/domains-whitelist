@@ -15,6 +15,7 @@ bsapi-test.brsrvr.com
 .cardinalcommerce.com
 cdimage.debian.org
 .clamav.net
+charts.jetstack.io
 collector.newrelic.com
 conjars.org
 cukes.info
@@ -98,6 +99,7 @@ prodjenkinsreleases.blob.core.windows.net
 qa2-gumtreeforbusiness.cs83.force.com
 registry.npmjs.org
 releases.hashicorp.com
+releases.rancher.com
 repo1.maven.org
 repo.aptly.info
 repo.boundlessgeo.com
