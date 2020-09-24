@@ -113,3 +113,5 @@ www.1000ps.at
 ifconfig.io
 # mdpjenkins conda build
 repo.anaconda.com
+# for dealer-leasing-webapp:
+price-data.vehiculum.de
