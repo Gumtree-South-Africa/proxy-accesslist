@@ -1,7 +1,11 @@
 .dell.com
 .github.com
 .github.corp.ebay.com
+.google.com
+.googleapis.com
+.googlesource.com
 .hashicorp.com
+.letsencrypt.org
 .rubygems.org
 .slack-core.com
 .slack-edge.com
@@ -19,6 +23,3 @@ files.pythonhosted.org
 idpxnyl3m.pingidentity.com
 pypi.org
 pypi.python.org
-.google.com
-.googleapis.com
-.googlesource.com
