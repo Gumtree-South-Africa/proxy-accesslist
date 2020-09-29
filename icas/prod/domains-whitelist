@@ -45,6 +45,7 @@ releases.hashicorp.com
 mock.icas-qa.dus1.cloud
 mock.icas-pre-prod.dus1.cloud
 mock.icas-prod.dus1.cloud
+.npmjs.org
 .maxmind.com
 .tractbilling.com
 # hadoop mirrors
