@@ -80,6 +80,8 @@ files.pythonhosted.org
 sdkman.nyc3.digitaloceanspaces.com
 nexus.es.ecg.tools
 proxy.golang.org
+sum.golang.org 
+index.golang.org 
 git.apache.org
 golang.org
 gopkg.in
