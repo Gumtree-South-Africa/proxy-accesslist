@@ -87,3 +87,4 @@ golang.org
 gopkg.in
 .crates.io
 .sourceforge.net
+node-precompiled-binaries.grpc.io
