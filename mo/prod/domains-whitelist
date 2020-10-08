@@ -116,3 +116,6 @@ ifconfig.io
 repo.anaconda.com
 # for dealer-leasing-webapp:
 price-data.vehiculum.de
+# GCP-310 VeDaH for maps, api general webservice, comm syi legacy
+.vedah-nonprod.classifiedscloud.io
+.vedah-prod.classifiedscloud.io
