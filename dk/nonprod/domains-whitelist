@@ -192,3 +192,9 @@ sonarqube.es.ecg.tools
 
 # logs
 log.ecgh.dk
+
+# dba-login
+qa01-login.dba.dk
+
+# dibs payment
+payment.architrade.com
