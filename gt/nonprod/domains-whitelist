@@ -16,6 +16,7 @@ bsapi-test.brsrvr.com
 cdimage.debian.org
 .clamav.net
 charts.jetstack.io
+cdn.cookielaw.org
 collector.newrelic.com
 conjars.org
 cukes.info
@@ -47,6 +48,7 @@ ftp.tsukuba.wide.ad.jp
 ftp.yz.yamagata-u.ac.jp
 gemmei.acc.umu.se
 gensho.acc.umu.se
+geolocation.onetrust.com
 .github.com
 .golang.org
 .google.com
@@ -92,6 +94,7 @@ oss.sonatype.org
 packages.confluent.io
 .pagerduty.com
 pkg.jenkins.io
+privacyportal-de.onetrust.com
 prodjenkinsreleases.blob.core.windows.net
 .pypi.org
 .python.org
