@@ -82,7 +82,7 @@ nexus.es.ecg.tools
 proxy.golang.org
 sum.golang.org 
 index.golang.org 
-git.apache.org
+.apache.org
 golang.org
 gopkg.in
 .crates.io
