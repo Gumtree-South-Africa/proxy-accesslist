@@ -213,3 +213,6 @@ packages.treasuredata.com.s3.amazonaws.com
 # Internal tools deployed in GCP (e.g Jenkins / vault)
 .gke-ops.nonprod.gtau.net
 .gke-ops.prod.gtau.net
+
+treebay.ebay.com
+
