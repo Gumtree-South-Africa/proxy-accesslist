@@ -41,12 +41,7 @@ git.apache.org
 cas.qa.kijiji.ca
 .qa10.kjdev.ca
 admarkt.xp.2dehands.com
-.mp.pre-prod.icas.io
-.kjca.pre-prod.icas.io
-.twhbe.pre-prod.icas.io
-.twhbe-nl.pre-prod.icas.io
-.twhbe-fr.pre-prod.icas.io
-.ebayk.pre-prod.icas.io
+.pre-prod.icas.io
 # PROD
 admarkt.marktplaats.nl
 cas.kijiji.ca
