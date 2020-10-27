@@ -1,41 +1,60 @@
-# SB: I wonder if this list wouldn't be easier to handle if sorted alphabetically? :-)
-.elastic.co
-# us:
-.classistatic.de
-#
-api.dynect.net
-apache.mirrors.tds.net
+.adyen.com
 .apache.org
+.api.autoscout24.com
 .autobiz.com
-.exacttargetapis.com
-.exacttarget.com
-.google.com
-.github.com
-.hashicorp.com
-.influxdata.com
-mirror.netcologne.de
+.beeswax.com
+.bff-online.de
+.calendarlabs.com
+.campaign.adobe.com
+.cdn.prismic.io
 .centos.org
-yum.puppetlabs.com
-nginx.org
-.motor-talk.de
-.motortalk.net
-.mobile.de
-downloads-distro.mongodb.org
-.pypi.python.org
-.pypi.org
-.pythonhosted.org
-.push.apple.com
+.ch.capita-europe.com
+.classistatic.de
+.cloudfront.net
+.cognitiveservices.azure.com
+.dat.de
+.datgroup.com
+.docker.com
+.docker.io
 .ebay.com
 .ebayimg.com
+.ecb.europa.eu
+.elastic.co
+.emgdealercentre.co.uk
+.exacttarget.com
+.exacttargetapis.com
+.freespee.com
+.github.com
+.google-analytics.com
+.google.com
 .googleapis.com
-.rubygems.org
-.docker.io
-.docker.com
-.cloudfront.net
+.gumtree.com
+.hashicorp.com
+.hpicheck.com
+.influxdata.com
+.jenkins-ci.org
+.jenkins.io
+.k8s.io
+.microsofttranslator.com
+.mobile.de
+.motor-talk.de
 .motortalk.biz
+.motortalk.net
+.ndgit.com
+.nextbankingapi.com
+.optimizely.com
+.osuosl.org
 .pagerduty.com
+.paypal.com
 .pingidentity.com
 .pingone.com
+.push.apple.com
+.pypi.org
+.pypi.python.org
+.pythonhosted.org
+.rubygems.org
+.s3.amazonaws.com
+.salesforce.com
 .slack-core.com
 .slack-edge.com
 .slack-files.com
@@ -43,59 +62,16 @@ downloads-distro.mongodb.org
 .slack-msgs.com
 .slack-redir.net
 .slack.com
-.nextbankingapi.com
-.ndgit.com
-.campaign.adobe.com
-.optimizely.com
-.cdn.prismic.io
-www.bvfk.de
-www.kfzgewerbe.de
-api.tiles.mapbox.com
-.cognitiveservices.azure.com
-.microsofttranslator.com
-mobile-de.live.exozet.com
-# k8s:
-.k8s.io
-gcr.io
-quay.io
-.calendarlabs.com
-.freespee.com
-.paypal.com
-.adyen.com
-.jenkins.io
-.jenkins-ci.org
-.osuosl.org
-.ecb.europa.eu
-# data team:
-api.nexta.io
-gateway.app.nexta.io
-repo.continuum.io
-# EMP
-#.ebay.com
-.gumtree.com
-.salesforce.com
-.hpicheck.com
-ebay11.detroncloud.nl
-sftp.motors.co.uk
-.emgdealercentre.co.uk
-# analytics
-.google-analytics.com
-# allow s3 buckets for downloads of github release tgzs
-.s3.amazonaws.com
-# SFTP migration
-proxy30.webhop.me
-# DWH
-m.autoscout24.de
-m.truckscout24.de
-grafana.com
-# DMH
-.beeswax.com
 .theadex.com
-# BSI
-.ch.capita-europe.com
-.bff-online.de
-# RXTX - SFTP
+.vedah-nonprod.classifiedscloud.io
+.vedah-prod.classifiedscloud.io
+apache.mirrors.tds.net
+api.dynect.net
+api.nexta.io
+api.tiles.mapbox.com
 autoactsftp.linemedia.com
+downloads-distro.mongodb.org
+ebay11.detroncloud.nl
 ftp.cars-importer.de
 ftp.classicdriver.com
 ftp.fahrzeuglister.de
@@ -106,22 +82,27 @@ ftp.truckscout24.com
 ftp.webmobil24.com
 ftp1.gedak.de
 ftpserver.auto24.de
+gateway.app.nexta.io
+gcr.io
+grafana.com
+h-api.online-metrix.net
+ifconfig.io
 import.cargate360.de
+lead-api.smava.de
+m.autoscout24.de
+m.truckscout24.de
+mirror.netcologne.de
+mobile-de.live.exozet.com
+nginx.org
+price-data.vehiculum.de
+proxy30.webhop.me
+quay.io
+repo.anaconda.com
+repo.continuum.io
+sftp.motors.co.uk
 sftp.pkw.de
 ssl.deltakonzept.de
 www.1000ps.at
-lead-api.smava.de
-# test
-ifconfig.io
-# mdpjenkins conda build
-repo.anaconda.com
-# for dealer-leasing-webapp:
-price-data.vehiculum.de
-# GCP-310 VeDaH for maps, api general webservice, comm syi legacy
-.vedah-nonprod.classifiedscloud.io
-.vedah-prod.classifiedscloud.io
-# GBT-259
-.api.autoscout24.com
-# VIN
-.dat.de
-.datgroup.com
+www.bvfk.de
+www.kfzgewerbe.de
+yum.puppetlabs.com
