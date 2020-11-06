@@ -67,4 +67,6 @@ repo.varnish-cache.org
 .sonatype.org
 .typesafe.com
 .twh-prod-microservices.ams1.cloud
+.vedah-nonprod.classifiedscloud.io
+.vedah-prod.classifiedscloud.io
 .xmission.com

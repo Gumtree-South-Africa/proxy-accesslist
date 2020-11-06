@@ -79,4 +79,6 @@ repo.varnish-cache.org
 .twh-prod-microservices.ams1.cloud
 .typesafe.com
 .ubuntu.com
+.vedah-nonprod.classifiedscloud.io
+.vedah-prod.classifiedscloud.io
 .xmission.com
