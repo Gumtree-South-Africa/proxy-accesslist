@@ -70,3 +70,5 @@ archive.ubuntu.com
 security.ubuntu.com
 get.sdkman.io
 api.sdkman.io
+registry.terraform.io
+releases.hashicorp.com
