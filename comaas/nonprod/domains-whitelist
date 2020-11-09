@@ -48,3 +48,4 @@ packages.confluent.io
 .gcr.io
 mirror.gruenehoelle.nl
 .letsencrypt.org
+.amazonaws.com
