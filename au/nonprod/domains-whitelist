@@ -63,6 +63,7 @@ ecg-api.gumtree.com.au
 # Static feeds site
 gumtree.classistatic.com
 ssl-gumtree.classistatic.com
+static.gumtree.com.au
 
 # Salesforce (plain and SSL)
 .salesforce.com
