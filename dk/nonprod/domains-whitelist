@@ -187,9 +187,6 @@ ssoqa.corp.ebay.com
 # Python package manager
 .pypi.org
 
-# try adding sonarqube.es.ecg.tools
-sonarqube.es.ecg.tools
-
 # logs
 log.ecgh.dk
 
