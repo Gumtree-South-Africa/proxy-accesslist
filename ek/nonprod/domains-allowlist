@@ -129,6 +129,8 @@ packages.confluent.io
 .ebay-kleinanzeigen.de
 .ebay-kleinanzeigen-user-content.de
 .google-analytics.com
+# kapi
+lfnapi.ebay.com
 # k8s:
 .k8s.io
 .gcr.io
