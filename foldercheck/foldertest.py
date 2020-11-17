@@ -14,9 +14,9 @@ class squidcheck():
     def __init__(self, folder="."):
         self.folder = folder
         
-        # Read in the blacklist file, shove it into a list
-        self.blfile = open('blacklist', 'r')
-        self.blacklist = self.blfile.read().lower().splitlines()
+        # Read in the denylist file, shove it into a list
+        self.dlfile = open('denylist', 'r')
+        self.denylist = self.dlfile.read().lower().splitlines()
 
     def check(self):
         logger.info('Checking folders')
@@ -37,7 +37,7 @@ class squidcheck():
                                 # Check the files in the folder
                                 np = Path(f'./{i}')
                                 for j in np.iterdir():
-                                    if j.name in['domains-whitelist', 'ips-whitelist']:
+                                    if j.name in['domains-allowlist', 'ips-allowlist']:
                                         self.checkdups(x,i,j)
                                     else:
                                         logger.error(f'File {j} is invalid')
@@ -50,10 +50,10 @@ class squidcheck():
         except FileExistsError:
             exit(1)
 
-    def check_blacklist(self, value):
-        if value.lower() in self.blacklist:
-            logger.error(f'{value} is blacklisted')
-            raise ValueError(f'{value} found in blacklist file')
+    def check_denylist(self, value):
+        if value.lower() in self.denylist:
+            logger.error(f'{value} is not allowed')
+            raise ValueError(f'{value} found in denylist file')
 
     def checkdups(self, platform, folder, fh):
         logger.info(f'checking for duplicates in {platform} {folder.name} {fh.name}')
@@ -64,7 +64,7 @@ class squidcheck():
                 if line.startswith('#') or line == '\n':
                     pass
                 else:
-                    self.check_blacklist(line.strip())
+                    self.check_denylist(line.strip())
                     cnt[line.strip()] += 1
         
         for item in cnt.items():

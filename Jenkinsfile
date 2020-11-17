@@ -20,8 +20,8 @@ pipeline {
                 writeFile file: '/tmp/squidtest.sh', text: '''#!/bin/bash
                     CONFIG=$(mktemp)
                     # Generate a simple configuration sourcing only the files in this directory
-                    find $PWD -type f -name "domains-whitelist" -printf 'acl %P dstdomain "%p"\n' > $CONFIG
-                    find $PWD -type f -name "ips-whitelist" -printf 'acl %P dst "%p"\n' >> $CONFIG
+                    find $PWD -type f -name "domains-allowlist" -printf 'acl %P dstdomain "%p"\n' > $CONFIG
+                    find $PWD -type f -name "ips-allowlist" -printf 'acl %P dst "%p"\n' >> $CONFIG
                     # Run squid to test the config
                     if sudo /usr/sbin/squid -f $CONFIG -k parse 2>&1 |egrep "(WARNING|ERROR|CRITICAL|FATAL)"; then
                       ERROR=1
