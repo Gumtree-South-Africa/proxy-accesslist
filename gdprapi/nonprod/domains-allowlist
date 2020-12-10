@@ -6,7 +6,6 @@ answerhub.corp.ebay.com
 .cloudfront.net
 .docker.io
 .docker.com
-downloads.gradle-cdn.com
 .elastic.co
 .fastly.net
 .fastlylb.net
@@ -19,6 +18,8 @@ ftp.yz.yamagata-u.ac.jp
 .github.io
 .google.com
 .googleapis.com
+.gradle.org
+.gradle-cdn.com
 .grafana.com
 .id-nonprod.ecg-id.net
 jenkins.mirror.isppower.de
@@ -37,7 +38,6 @@ mirrors.clinkerhq.com
 .python.org
 releases.hashicorp.com
 .rubygems.org
-services.gradle.org
 .slack-msgs.com
 .slack.com
 .atlassian.com
