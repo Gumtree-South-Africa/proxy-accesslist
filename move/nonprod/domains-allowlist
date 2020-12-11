@@ -52,3 +52,5 @@ bootstrap.pypa.io
 .ams1.cloud.ecg.so
 labs-api.pre-prod.cdata.ecg.tools
 labs-api.prod.cdata.ecg.tools
+vedah-move-api.vedah-nonprod.classifiedscloud.io
+vedah-move-api.vedah-prod.classifiedscloud.io
