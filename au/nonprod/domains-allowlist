@@ -271,3 +271,6 @@ appleid.apple.com
 # PPSR integration - GTAU-36303
 b2g-disc-alt.ppsr.gov.au
 b2g-disc.ppsr.gov.au
+
+# Central Identity Service
+.id-nonprod.ecg-id.net
