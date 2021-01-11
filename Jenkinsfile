@@ -84,13 +84,13 @@ pipeline {
     }
     post {
         success {
-          slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+          slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'eclassifiedsgroup', token: "${env.SLACK_TOKEN}"
         }
         failure {
-          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', token: "${env.SLACK_TOKEN}"
         }
         unstable {
-          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'ebayclassifiedsgroup', token: "${env.SLACK_TOKEN}"
+          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', token: "${env.SLACK_TOKEN}"
         }
     }
 }
