@@ -74,7 +74,7 @@ pipeline {
             }
         }
       stage('Update PR status'){
-        when {expression { env.GITHUB_PR_NUMBER != null}}
+        when {expression { env.GITHUB_PR_NUMBER != null}
           }
         if (currentBuild.currentResult == 'SUCCESS') {
           setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])
