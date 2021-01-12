@@ -77,10 +77,14 @@ pipeline {
         when {expression { env.GITHUB_PR_NUMBER != null}
           }
         if (currentBuild.currentResult == 'SUCCESS') {
+          steps {
           setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])
+            }
           }
         else {
+          steps {
           setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
+            }
           }
         }
 
