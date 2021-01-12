@@ -60,17 +60,17 @@ pipeline {
         stage('Checkout pull request') {
             // Build only if there is a pull request
             when {
-                expression { env.ghprbActualCommit != null }
+                expression { env.GITHUB_PR_NUMBER != null }
             }
             steps {
-                slackSend color: 'good', message: "PROXY :: Starting Proxy ACL test on (<${env.ghprbPullLink}|#${ghprbPullId}>) ", teamDomain: 'eclassifiedsgroup', tokenCredentialId: "${env.SLACK_TOKEN}", botUser: true
+                slackSend color: 'good', message: "PROXY :: Starting Proxy ACL test on (<${env.GITHUB_PR_URL}|#${env.GITHUB_PR_NUMBER}>) ", teamDomain: 'eclassifiedsgroup', tokenCredentialId: "${env.SLACK_TOKEN}", botUser: true
                 // Fetch pull request
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
-                    sh "git fetch origin pull/${ghprbPullId}/head:pull-request-${ghprbPullId}"                  
+                    sh "git fetch origin pull/${env.GITHUB_PR_NUMBER}/head:pull-request-${env.GITHUB_PR_NUMBER}"                  
                 }
-                sh "git checkout pull-request-${ghprbPullId}"
-                sh "git diff master..pull-request-${ghprbPullId}"
-                sh "git show ${ghprbActualCommit}"   
+                sh "git checkout pull-request-${env.GITHUB_PR_NUMBER}"
+                sh "git diff master..pull-request-${env.GITHUB_PR_NUMBER}"
+                sh "git show ${env.GITHUB_PR_HEAD_SHA}"   
                 sh 'sudo bash /tmp/squidtest.sh'
                 sh './folder_test.py'
             }
