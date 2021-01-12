@@ -73,6 +73,17 @@ pipeline {
                 sh './folder_test.py'
             }
         }
+      stage('Update PR status'){
+        when {expression { env.GITHUB_PR_NUMBER != null}}
+          }
+        if (currentBuild.currentResult == 'SUCCESS') {
+          setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])
+          }
+        else {
+          setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
+          }
+        }
+
         // Clean up folder
         stage('Clean up workspace') {
             steps {
@@ -82,15 +93,12 @@ pipeline {
     }
     post {
         success {
-          setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])
           slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
         }
         failure {
-          setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
           slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
         }
         unstable {
-          setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
           slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
         }
     }
