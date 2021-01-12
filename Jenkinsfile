@@ -74,18 +74,13 @@ pipeline {
             }
         }
       stage('Update PR status'){
-        when {expression { env.GITHUB_PR_NUMBER != null}
-          }
-        if (currentBuild.currentResult == 'SUCCESS') {
+        when {expression { env.GITHUB_PR_NUMBER != null} }
           steps {
-          setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])
-            }
-          }
-        else {
-          steps {
-          setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
-            }
-          }
+            script {
+              if (currentBuild.currentResult == 'SUCCESS') { setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])}
+              if (currentBuild.currentResult != 'SUCCESS') { setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])}
+                }
+            }           
         }
 
         // Clean up folder
