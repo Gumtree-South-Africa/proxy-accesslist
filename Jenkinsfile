@@ -60,6 +60,7 @@ pipeline {
                 expression { env.GITHUB_PR_NUMBER != null }
             }
             steps {
+                setGitHubPullRequestStatus([message: "Build Pending", state: "PENDING"])
                 slackSend color: 'good', message: "PROXY :: Starting Proxy ACL test on (<${env.GITHUB_PR_URL}|#${env.GITHUB_PR_NUMBER}>) ", teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
                 // Fetch pull request
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
@@ -81,12 +82,15 @@ pipeline {
     }
     post {
         success {
+          setGitHubPullRequestStatus([message: "Build Passed", state: "SUCCESS"])
           slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
         }
         failure {
+          setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
           slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
         }
         unstable {
+          setGitHubPullRequestStatus([message: "Build Failed", state: "FAILURE"])
           slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
         }
     }
