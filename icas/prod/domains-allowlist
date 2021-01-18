@@ -23,6 +23,7 @@ go.googlesource.com
 gopkg.in
 .grafana.com
 .debian.org
+.pypi.org
 repo.mysql.com
 jenkins.mirror.isppower.de
 .jenkins-ci.org
