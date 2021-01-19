@@ -129,6 +129,7 @@
 .npmjs.org
 .nuget.org
 .observium.org
+.online-metrix.net
 .openx.net
 .opinionlab.com
 .optimizely.com
@@ -241,7 +242,6 @@ gateway.app.nexta.io
 gems.rubyforge.org
 gitlab.camao.de
 grafana.com
-h-api.online-metrix.net
 identity.kijiji.ca
 identity.qa10.kjdev.ca
 idsync.rlcdn.com
