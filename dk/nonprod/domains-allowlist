@@ -33,7 +33,7 @@ raw.githubusercontent.com
 .docker.com
 .elastic.co
 docker.bintray.io
-proget.inedo.com
+inedo.com
 
 # Build dependencies
 .nuget.org
