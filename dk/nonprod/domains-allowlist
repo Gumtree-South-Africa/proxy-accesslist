@@ -32,6 +32,7 @@ raw.githubusercontent.com
 .docker.io
 .docker.com
 .elastic.co
+docker.bintray.io
 
 # Build dependencies
 .nuget.org
