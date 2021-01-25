@@ -53,6 +53,7 @@ sonarsource.com
 repos.influxdata.com
 packages.chef.io
 galaxy.ansible.com
+bintray.com
 
 # PowerShell Gallery
 # https://docs.microsoft.com/en-us/powershell/scripting/gallery/getting-started?view=powershell-7#network-access-to-the-powershell-gallery
@@ -135,7 +136,6 @@ dl.google.com
 .ubuntu.com
 .launchpad.net
 packages.erlang-solutions.com
-dl.bintray.com
 apt.puppetexplorer.io
 apt.postgresql.org
 
