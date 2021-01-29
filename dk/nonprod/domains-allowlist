@@ -59,6 +59,7 @@ bintray.com
 # https://docs.microsoft.com/en-us/powershell/scripting/gallery/getting-started?view=powershell-7#network-access-to-the-powershell-gallery
 psg-prod-eastus.azureedge.net
 onegetcdn.azureedge.net
+dockermsft.azureedge.net
 .powershellgallery.com
 #devopsgallerystorage.blob.core.windows.net // 'devopsgallerystorage.blob.core.windows.net' is a subdomain of '.windows.net'
 
