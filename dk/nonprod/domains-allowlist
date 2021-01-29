@@ -60,6 +60,7 @@ bintray.com
 psg-prod-eastus.azureedge.net
 onegetcdn.azureedge.net
 dockermsft.azureedge.net
+onecs-live.azureedge.net
 .powershellgallery.com
 #devopsgallerystorage.blob.core.windows.net // 'devopsgallerystorage.blob.core.windows.net' is a subdomain of '.windows.net'
 
@@ -103,6 +104,7 @@ api3.actito.com
 # Microsoft controlled domains
 aka.ms
 .xamarin.com
+.msftconnecttest.com
 .microsoft.com
 .microsoftonline.com
 .visualstudio.com
