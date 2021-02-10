@@ -204,7 +204,7 @@ qa01-login.dba.dk
 payment.architrade.com
 
 # bilbasen
-.bilbasen.dk
+qa01-api.bilbasen.dk
 
 # openstack dus2
 dus2-cloud.ecgh.dk
