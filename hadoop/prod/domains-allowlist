@@ -107,6 +107,7 @@ phtransfer.vmware.com # taken over from ST proxy whitelist
 pkg.jenkins.io # taken over from ST proxy whitelist
 ppa.launchpad.net # taken over from ST proxy whitelist
 raw.githubusercontent.com # taken over from ST proxy whitelist
+github-releases.githubusercontent.com
 releases.hashicorp.com # taken over from ST proxy whitelist
 repo.continuum.io
 repo.eclipse.org # taken over from ST proxy whitelist
