@@ -4,6 +4,7 @@
 # Source locations
 github.corp.ebay.com
 raw.githubusercontent.com
+github-releases.githubusercontent.com
 github.com
 
 # Elasticsearch danish hunspell dictionaries
