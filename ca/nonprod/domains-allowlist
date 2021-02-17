@@ -288,7 +288,7 @@ repo.jenkins-ci.org
 move-keycloak.service.move-nonprod.ams1.cloud
 move-seller-gateway.service.move-nonprod.ams1.cloud
 # SLACK START
-slack.com
+.slack.com
 .lb.slack-msgs.com
 # SLACK END
 codacy.corp.ebay.com
