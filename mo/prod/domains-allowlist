@@ -67,8 +67,9 @@
 .slack-redir.net
 .slack.com
 .theadex.com
-.vedah-nonprod.classifiedscloud.io
-.vedah-prod.classifiedscloud.io
+#.vedah-nonprod.classifiedscloud.io
+#.vedah-prod.classifiedscloud.io
+.classifiedscloud.io
 apache.mirrors.tds.net
 api.auctiongroup.eu
 api.dynect.net

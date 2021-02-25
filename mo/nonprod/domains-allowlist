@@ -185,8 +185,9 @@
 .theadex.com
 .trackjs.com
 .ubuntu.com
-.vedah-nonprod.classifiedscloud.io
-.vedah-prod.classifiedscloud.io
+#.vedah-nonprod.classifiedscloud.io
+#.vedah-prod.classifiedscloud.io
+.classifiedscloud.io
 .weborama.fr
 .xactag.com
 .xmission.com
