@@ -199,8 +199,12 @@ ssoqa.corp.ebay.com
 # logs
 log.ecgh.dk
 
-# dba-login
+# dba
 qa01-login.dba.dk
+qa01-api.dba.dk
+qa02-api.dba.dk
+qa03-api.dba.dk
+qa04-api.dba.dk
 
 # dibs payment
 payment.architrade.com
