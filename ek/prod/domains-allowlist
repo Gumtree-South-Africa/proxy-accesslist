@@ -42,6 +42,7 @@ lfnapi.ebay.com
 .k8s.io
 .gcr.io
 .quay.io
+.ghcr.io
 .dynect.net
 .elastic.co
 .opensource.zalan.do
