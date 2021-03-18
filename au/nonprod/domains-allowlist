@@ -274,3 +274,6 @@ b2g-disc.ppsr.gov.au
 
 # Central Identity Service
 .id-nonprod.ecg-id.net
+
+# Adding monolith api endpoint
+monolith-api-internal-qa6-monolith-syd.gke-apps.nonprod.gtau.net
