@@ -218,3 +218,6 @@ packages.treasuredata.com.s3.amazonaws.com
 
 treebay.ebay.com
 
+# CDATA services - GTAU-41003
+# GCP
+api.mim-prod.cdata.services

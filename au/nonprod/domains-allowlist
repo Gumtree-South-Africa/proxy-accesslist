@@ -277,3 +277,7 @@ b2g-disc.ppsr.gov.au
 
 # Adding monolith api endpoint
 monolith-api-internal-qa6-monolith-syd.gke-apps.nonprod.gtau.net
+
+# CDATA services - GTAU-41003
+# GCP
+api.mim-pre-prod.cdata.services
