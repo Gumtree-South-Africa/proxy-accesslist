@@ -112,3 +112,4 @@ i.sandbox.ebayimg.com
 .helm.sh
 .kind.sigs.k8s.io
 prometheus-community.github.io
+registry.terraform.io
