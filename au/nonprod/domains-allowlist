@@ -281,3 +281,5 @@ monolith-api-internal-qa6-monolith-syd.gke-apps.nonprod.gtau.net
 # CDATA services - GTAU-41003
 # GCP
 api.mim-pre-prod.cdata.services
+api.m1.prod.gtau.net
+www.m1.prod.gtau.net
