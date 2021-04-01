@@ -221,3 +221,6 @@ treebay.ebay.com
 # CDATA services - GTAU-41003
 # GCP
 api.mim-prod.cdata.services
+
+# Adding monolith api endpoint for GCP
+.t.prod.gtau.net
