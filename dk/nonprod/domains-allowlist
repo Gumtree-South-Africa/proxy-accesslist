@@ -55,6 +55,7 @@ repos.influxdata.com
 packages.chef.io
 galaxy.ansible.com
 bintray.com
+snapcraft.io
 
 # PowerShell Gallery
 # https://docs.microsoft.com/en-us/powershell/scripting/gallery/getting-started?view=powershell-7#network-access-to-the-powershell-gallery
