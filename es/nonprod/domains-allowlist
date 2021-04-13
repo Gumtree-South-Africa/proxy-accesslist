@@ -60,6 +60,7 @@
 .facebook.net
 .freespee.com
 .gcr.io
+.ghcr.io
 .github.com
 .github.io
 .githubusercontent.com
@@ -131,6 +132,7 @@
 .pypi.org
 .pypi.python.org
 .pythonhosted.org
+.quay.io
 .rancher.io
 .rancher.com
 .redhat.com
@@ -233,7 +235,6 @@ projectlombok.org
 publicsuffix.org
 px.adhigh.net
 pyx4j.com
-quay.io
 releases.hashicorp.com
 repo.terracotta.org
 repo.typesafe.com
