@@ -20,6 +20,7 @@
 .elastic.co
 .fastly.net
 .gcr.io
+.ghcr.io
 .github.com
 .google-analytics.com
 .google.com
@@ -50,6 +51,7 @@
 .pypi.org
 .pypi.python.org
 .pythonhosted.org
+.quay.io
 .r-project.org
 .redhat.com
 .s3.amazonaws.com
@@ -124,7 +126,6 @@ pkg.jenkins-ci.org
 prodjenkinsreleases.blob.core.windows.net
 projectlombok.org
 pyx4j.com
-quay.io
 raw.githubusercontent.com
 registry.bower.io
 registry.npmjs.org
