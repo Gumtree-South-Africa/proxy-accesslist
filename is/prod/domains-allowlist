@@ -10,10 +10,4 @@
 .jenkins.io
 ftp-chi.osuosl.org
 ftp-nyc.osuosl.org
-qualysguard.qg2.apps.qualys.eu
-qualysapi.qg2.apps.qualys.eu
-distribution.qg2.apps.qualys.eu
-monitoring.qg2.apps.qualys.eu
-qgadmin.qg2.apps.qualys.eu
-scanservice1.qg2.apps.qualys.eu
-qagpublic.qg2.apps.qualys.eu
+.qg2.apps.qualys.eu
