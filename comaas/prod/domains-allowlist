@@ -23,12 +23,10 @@ mirror.xmission.com
 .docker.com
 .cloudfront.net
 .github.com
-.githubusercontent.com
 .python.org
 .python.map.fastly.net
 idpxnyl3m.pingidentity.com
 authenticator.pingone.com
-.gtau.net
 .kijiji.it
 .grafana.com
 .googleapis.com
@@ -58,6 +56,4 @@ mirror.gruenehoelle.nl
 .letsencrypt.org
 .amazonaws.com
 .corechat-prod.classifiedscloud.io
-.github.io
-.helm.sh
-.pkg.dev
+.archive.ubuntu.com

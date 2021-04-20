@@ -14,7 +14,6 @@ mirrors.clinkerhq.com
 mirror.xmission.com
 ftp-chi.osuosl.org
 ftp-nyc.osuosl.org
-.gtau.net
 .slack.com
 # Autodeploy mobile.de artefacts
 .corp.mobile.de
@@ -27,7 +26,6 @@ svcs.ebay.com
 rubygems.org
 .python.org
 .github.com
-.githubusercontent.com
 .kijiji-qa.it
 .sandbox.comaas.ecg.so
 .grafana.com
@@ -52,6 +50,4 @@ mirror.gruenehoelle.nl
 .letsencrypt.org
 .amazonaws.com
 .corechat-nonprod.classifiedscloud.io
-.github.io
-.helm.sh
-.pkg.dev
+.archive.ubuntu.com
