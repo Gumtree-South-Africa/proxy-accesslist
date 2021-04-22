@@ -118,3 +118,6 @@ eu.gcr.io
 www.haproxy.org
 .nodesource.com
 .snyk.io
+test-ev-rsa.ssl.com
+expired-rsa-dv.ssl.com
+test-wrong.ssl.com
