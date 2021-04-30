@@ -1,3 +1,4 @@
 35.201.80.138 # (image recognition) google cloud: mp-prod: mp-lb-dev1
 35.201.83.94  # (image recognition) google cloud: mp-prod: mp-lb-prod-http
 35.190.41.44  # (image recognition) google cloud: mp-prod: mp-lb-prod-tcp
+5.255.152.251 # ssl-exporter
