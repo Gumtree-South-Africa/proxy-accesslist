@@ -13,6 +13,7 @@ gumtreejobs-webservice.madgexjb.com
 gumtree.upload.botify.com
 members.exacttarget.com
 netcraft-logupload.s3.amazonaws.com
+netcraft-logupload.s3.eu-west-1.amazonaws.com
 .nr-data.net
 .pagerduty.com
 sqs.eu-west-1.amazonaws.com
