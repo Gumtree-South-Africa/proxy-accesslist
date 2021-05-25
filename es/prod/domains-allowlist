@@ -62,6 +62,7 @@
 .strimzi.io
 .taobao.org
 .jenkins.io
+.jetstack.io
 adoptopenjdk.jfrog.io
 apt.dockerproject.org
 apt.postgresql.org
