@@ -146,6 +146,7 @@ repo.mongodb.org
 repo.mysql.com
 repo.percona.com
 repo.powerdns.com
+repo.saltproject.io
 repo.saltstack.com
 repo.spray.io
 repo.spring.io
