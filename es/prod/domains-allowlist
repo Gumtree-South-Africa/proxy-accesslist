@@ -54,6 +54,7 @@
 .quay.io
 .r-project.org
 .redhat.com
+.repo.saltproject.io
 .s3.amazonaws.com
 .snyk.io
 .sonatype.com
@@ -96,7 +97,6 @@ downloads.sourceforge.net
 ebay.com
 ebay11.detroncloud.nl
 el4.elca-services.ch
-erepo.saltstack.com
 fastdl.mongodb.org
 ftp.gwdg.de
 ftp.mozilla.org
@@ -146,7 +146,6 @@ repo.mongodb.org
 repo.mysql.com
 repo.percona.com
 repo.powerdns.com
-repo.saltproject.io
 repo.saltstack.com
 repo.spray.io
 repo.spring.io
