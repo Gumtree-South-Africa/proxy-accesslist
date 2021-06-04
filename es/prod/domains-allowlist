@@ -1,7 +1,6 @@
 .aatkit.com
 .alpinelinux.org
 .apache.org
-.archive.ubuntu.com
 .atlassian.com
 .bintray.com
 .bitbucket.org
@@ -40,6 +39,8 @@
 .hashicorp.com
 .influxdata.com
 .iovisor.org
+.jenkins.io
+.jetstack.io
 .launchpad.net
 .letsencrypt.org
 .maven.org
@@ -63,8 +64,7 @@
 .springsource.org
 .strimzi.io
 .taobao.org
-.jenkins.io
-.jetstack.io
+.ubuntu.com
 adoptopenjdk.jfrog.io
 apt.dockerproject.org
 apt.postgresql.org
