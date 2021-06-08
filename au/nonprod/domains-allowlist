@@ -284,3 +284,6 @@ monolith-api-internal-qa6-monolith-syd.gke-apps.nonprod.gtau.net
 api.mim-pre-prod.cdata.services
 api.m1.prod.gtau.net
 www.m1.prod.gtau.net
+
+# new static endpoint
+.p.nonprod.gtau.net
