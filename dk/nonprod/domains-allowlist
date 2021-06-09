@@ -79,6 +79,7 @@ charts.bitnami.com
 # Services used for tests
 .ebayimg.com
 api.sandbox.ebay.com
+api.ebay.com
 dawa.aws.dk
 qa01-accounts.ecgh.dk
 .sendoghent.dk
