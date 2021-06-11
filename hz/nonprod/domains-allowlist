@@ -123,3 +123,6 @@ test-ev-rsa.ssl.com
 expired-rsa-dv.ssl.com
 test-wrong.ssl.com
 kiali.org
+pgp.mit.edu
+.pgp.com
+.sks-keyservers.net
