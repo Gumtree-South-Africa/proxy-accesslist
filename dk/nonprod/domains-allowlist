@@ -96,6 +96,7 @@ api3.actito.com
 graphql.umbraco.io
 .browserstack.com
 .sitemaps.org
+.apps.apple.com
 
 # Python & PIP
 .python.org
@@ -218,6 +219,7 @@ payment.architrade.com
 # bilbasen
 qa01-api.bilbasen.dk
 qa01-www.bilbasen.dk
+blog.bilbasen.dk
 
 # openstack dus2
 dus2-cloud.ecgh.dk
