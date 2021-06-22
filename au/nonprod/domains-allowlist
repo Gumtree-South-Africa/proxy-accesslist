@@ -287,3 +287,6 @@ www.m1.prod.gtau.net
 
 # new static endpoint
 .p.nonprod.gtau.net
+
+# nielsen endpoint - GTAU-42386
+.imrworldwide.com
