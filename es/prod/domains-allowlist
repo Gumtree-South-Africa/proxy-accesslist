@@ -65,6 +65,7 @@
 .strimzi.io
 .taobao.org
 .ubuntu.com
+.windows.net
 adoptopenjdk.jfrog.io
 apt.dockerproject.org
 apt.postgresql.org
@@ -126,7 +127,6 @@ packages.elasticsearch.org
 packages.erlang-solutions.com
 pkg.ci.collectd.org
 pkg.jenkins-ci.org
-prodjenkinsreleases.blob.core.windows.net
 projectlombok.org
 pyx4j.com
 raw.githubusercontent.com
