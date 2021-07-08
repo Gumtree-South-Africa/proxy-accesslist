@@ -22,6 +22,7 @@
 .gcr.io
 .ghcr.io
 .github.com
+.githubusercontent.com
 .google-analytics.com
 .google.com
 .google.de
@@ -129,8 +130,6 @@ pkg.ci.collectd.org
 pkg.jenkins-ci.org
 projectlombok.org
 pyx4j.com
-raw.githubusercontent.com
-pkg-containers.githubusercontent.com
 registry.bower.io
 registry.npmjs.org
 releases.mozilla.org
