@@ -4,6 +4,7 @@
 .atlassian.com
 .bintray.com
 .bitbucket.org
+.canonical.com
 .cargigi.com:8443
 .citrix.com
 .classifiedscloud.io
@@ -67,6 +68,7 @@
 .strimzi.io
 .taobao.org
 .ubuntu.com
+.vmware.com
 .windows.net
 adoptopenjdk.jfrog.io
 apt.dockerproject.org
@@ -167,7 +169,6 @@ smee.io
 soapui.org
 sonarqube.org
 spritelink.github.io
-ubuntu-cloud.archive.canonical.com
 update.release.core-os.net
 vesta.informatik.rwth-aachen.de
 www.datanucleus.org
