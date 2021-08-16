@@ -1,3 +1,5 @@
+#.vedah-nonprod.classifiedscloud.io
+#.vedah-prod.classifiedscloud.io
 .aatkit.com
 .adform.net
 .adition.com
@@ -35,6 +37,7 @@
 .cdn.segment.io
 .centos.org
 .charts.keel.sh
+.classifiedscloud.io
 .classistatic.de
 .clojars.org
 .cloudera.com
@@ -188,9 +191,6 @@
 .theadex.com
 .trackjs.com
 .ubuntu.com
-#.vedah-nonprod.classifiedscloud.io
-#.vedah-prod.classifiedscloud.io
-.classifiedscloud.io
 .weborama.fr
 .xactag.com
 .xmission.com
@@ -200,10 +200,11 @@
 ad.360yield.com
 ad.mail.ru
 ad.yieldlab.net
+angebot-api.smava.de
 apache.mirrors.tds.net
 apache.mivzakim.net
-api.auctiongroup.dk
 api.auctiongroup-dev.dk
+api.auctiongroup.dk
 api.nexta.io
 api.runscope.com
 api.tiles.mapbox.com
@@ -252,6 +253,7 @@ gateway.app.nexta.io
 gems.rubyforge.org
 gitlab.camao.de
 grafana.com
+hub.oneclick.services
 identity.kijiji.ca
 identity.qa10.kjdev.ca
 idsync.rlcdn.com
@@ -296,6 +298,7 @@ soapui.org
 sonarplugins.com
 sonarqube.org
 ssl.deltakonzept.de
+ssoqa.corp.ebay.com
 sync.ligadx.com
 sync.outbrain.com
 tg.socdm.com
@@ -312,6 +315,3 @@ www.eviware.com
 www.kfzgewerbe.de
 www.smava.de
 x.bidswitch.net
-hub.oneclick.services
-angebot-api.smava.de
-ssoqa.corp.ebay.com

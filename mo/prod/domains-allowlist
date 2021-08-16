@@ -1,3 +1,5 @@
+#.vedah-nonprod.classifiedscloud.io
+#.vedah-prod.classifiedscloud.io
 .adyen.com
 .adyenpayments.com
 .anaconda.org
@@ -13,6 +15,7 @@
 .cdn.prismic.io
 .centos.org
 .ch.capita-europe.com
+.classifiedscloud.io
 .classistatic.de
 .cloudfront.net
 .cognitiveservices.azure.com
@@ -29,6 +32,8 @@
 .exacttargetapis.com
 .freespee.com
 .github.com
+.github.io
+.githubusercontent.com
 .google-analytics.com
 .google.com
 .googleapis.com
@@ -71,10 +76,8 @@
 .slack.com
 .snyk.io
 .theadex.com
-#.vedah-nonprod.classifiedscloud.io
-#.vedah-prod.classifiedscloud.io
-.classifiedscloud.io
 ad.swiftcourt.com
+angebot-api.smava.de
 apache.mirrors.tds.net
 api.auctiongroup.dk
 api.auctiongroup.eu
@@ -98,18 +101,20 @@ ftp.truckscout24.com
 ftp.webmobil24.com
 ftp1.gedak.de
 ftpautomobile.imago.de
-ftpserver.auto24.de
 ftps.pixelconcept.de
+ftpserver.auto24.de
 gateway.app.nexta.io
 gcr.io
 grafana.com
 h-api.online-metrix.net
+hub.oneclick.services
 ifconfig.io
 import.cargate360.de
 import2.webauto.de
 lead-api.smava.de
 m.autoscout24.de
 m.truckscout24.de
+midway.ext.hpe.com
 mirror.netcologne.de
 mobile-de.live.exozet.com
 nginx.org
@@ -128,6 +133,3 @@ www.bvfk.de
 www.kfzgewerbe.de
 www.opensourceetl.net
 yum.puppetlabs.com
-midway.ext.hpe.com
-hub.oneclick.services
-angebot-api.smava.de
