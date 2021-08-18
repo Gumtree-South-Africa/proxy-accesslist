@@ -94,6 +94,7 @@
 .sonatype.org
 .sourceforge.net
 .springsource.com
+.terraform.io
 .test.io
 .ubuntu.com
 .xmission.com
@@ -113,6 +114,7 @@ ftp.halifax.rwth-aachen.de
 gems.rubyforge.org
 gitlab.camao.de
 h-api.online-metrix.net
+istio.io
 jenkins.mirror.isppower.de
 maven.repository.redhat.com
 mirror.centos.org
