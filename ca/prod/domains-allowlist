@@ -56,11 +56,8 @@
 .s3.amazonaws.com
 .wordpress.org
 .facebook.net
-10.254.128.41
-10.32.4.10
-195.78.85.201
 401dixiekia.com
-51degrees.com:443
+51degrees.com
 ad.turn.com
 albi.net
 albimazda.com
@@ -115,7 +112,7 @@ downloads.dell.com
 downloads.linux.hp.com
 easy-loader.com
 ebay.com
-ebayapiuat.billing.nl:25001
+ebayapiuat.billing.nl
 ebayclassified.com
 ebayclassifieds.com
 ebayimg.com
@@ -224,7 +221,7 @@ repository.jboss.org
 repository.primefaces.org
 rover.qa.ebay.com
 rsvp.com.au
-rsync.opencsw.org:873
+rsync.opencsw.org
 scougallmotors.com
 search.maven.org
 searchingforcars.com

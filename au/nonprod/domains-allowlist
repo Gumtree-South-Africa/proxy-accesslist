@@ -37,9 +37,6 @@ treebay.ebay.com
 
 # Paypal API ... all
 .paypal.com
-# api.test13.stage.paypal.com # DUPLICATE
-# Trying to see if this works
-api.test13.stage.paypal.com:11888
 
 # iTunes
 buy.itunes.apple.com

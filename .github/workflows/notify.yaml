@@ -1,0 +1,29 @@
+on:
+  workflow_run:
+    workflows: ["Build"]
+    types: [completed]
+
+jobs:
+  notify_failed:
+      runs-on: [ self-hosted ]
+      steps:
+      - name: Tests Failed
+        if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+        uses: actions/send-slack-message@v1
+        with:
+          webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
+          title: ProxyACL
+          channel: '#ecg-cloud-proxy'
+          messageText: "Tests failed <https://github.es.ecg.tools/ecg-cloud/proxy-accesslist/pulls|Link>"
+
+  notify_success:
+    runs-on: [ self-hosted ]
+    steps:
+      - name: Tests Passed
+        if: ${{ github.event.workflow_run.conclusion == 'success' }}
+        uses: actions/send-slack-message@v1
+        with:
+          webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
+          title: ProxyACL
+          channel: '#ecg-cloud-proxy'
+          messageText: "Tests passed <https://github.es.ecg.tools/ecg-cloud/proxy-accesslist/pulls|Link>"

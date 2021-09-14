@@ -8,7 +8,8 @@ find $PWD -type f -name "domains-allowlist" -printf 'acl %P dstdomain "%p"\n' > 
 find $PWD -type f -name "ips-allowlist" -printf 'acl %P dst "%p"\n' >> $CONFIG
 
 # Run squid to test the config
-if squid -f $CONFIG -k parse 2>&1 |egrep "(WARNING|ERROR|CRITICAL)"; then
+# BCP 177 violation == thrown when ipv6 is incorrectly setup, we ignore it for simple syntax checks
+if squid -f $CONFIG -k parse 2>&1 | grep -v 'BCP 177 violation' | egrep "(WARNING|ERROR|CRITICAL|FATAL)"; then
     ERROR=1
     echo "There were warnings or errors in the configuration"
 else

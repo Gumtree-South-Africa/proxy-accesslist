@@ -2,6 +2,7 @@
 
 from foldercheck import foldertest
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":  # pragma: no cover
     test = foldertest.squidcheck()
     test.check()

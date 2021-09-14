@@ -23,7 +23,6 @@
 .python.org
 .pythonhosted.org
 .slack.com # taken over from ST proxy whitelist
-.ubuntu.com
 .ubuntu.com # taken over from ST proxy whitelist
 .windowsupdate.com # taken over from ST proxy whitelist
 .zfsonlinux.org # taken over from ST proxy whitelist

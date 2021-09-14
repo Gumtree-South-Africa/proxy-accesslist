@@ -1,9 +1,3 @@
-# AAR-DMZ (DEV zone)
-10.238.64.0/23
-
-# Legacy Consul instance in DK-QA
-10.57.1.38
-
 # https://docs.microsoft.com/en-us/azure/azure-government/documentation-government-services-monitoringandmanagement#outgoing-ports
 23.97.4.113
 
