@@ -1,3 +1,5 @@
+name: notifications
+
 on:
   workflow_run:
     workflows: ["Build"]
