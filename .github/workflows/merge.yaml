@@ -49,7 +49,7 @@ jobs:
 
       - name: Validate changes
         run: |
-          poetry run python3 ./folder_test.py
+          poetry run python3 ./folder_test.py .
           sudo ./test.sh
 
       - name: Tests Failed
