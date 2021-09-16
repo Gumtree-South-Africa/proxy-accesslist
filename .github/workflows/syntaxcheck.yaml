@@ -63,7 +63,7 @@ jobs:
       - name: Validate changes
         run: |
           poetry run python3 ./folder_test.py target
-          sudo ./test.sh
+          cd target && sudo ../test.sh
 
       - name: Tests Failed
         if: failure()
