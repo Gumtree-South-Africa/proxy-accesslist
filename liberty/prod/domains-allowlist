@@ -73,7 +73,6 @@
 .pingidentity.com
 .pingone.com
 .pm2.io
-.productsup.io
 .rancher.io
 .redis.io
 .rubygems.org
@@ -147,3 +146,4 @@ www.eviware.com
 .nosnch.in
 repo.saltstack.com
 psm.otto.de
+transport.productsup.io
