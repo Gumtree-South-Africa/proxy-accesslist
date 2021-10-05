@@ -29,6 +29,9 @@ jobs:
 
       # Setup python env
       - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
 
       - name: Setup poetry
         run: |
