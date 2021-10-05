@@ -30,12 +30,12 @@ jobs:
       # Setup python env
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: '3.9.x'
 
 
       - name: Setup poetry
         run: |
-          curl --retry 5 -sSL https://raw.githubusercontent.com/python-poetry/poetry/b47de09d800b7f2e4ed7088c8657878aa5380714/install-poetry.py | POETRY_VERSION=1.1.7 python3
+          curl --retry 5 -sSL https://raw.githubusercontent.com/python-poetry/poetry/b47de09d800b7f2e4ed7088c8657878aa5380714/install-poetry.py | POETRY_VERSION=1.1.10 python3
           poetry install
 
       - name: Setup squid
