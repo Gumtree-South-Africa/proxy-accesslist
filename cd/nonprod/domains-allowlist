@@ -6,6 +6,7 @@ pypi.python.org
 bootstrap.pypa.io
 accounts.google.com
 .googleapis.com
+tunnel.cloudproxy.app
 .amazonaws.com
 updates.jenkins-ci.org
 mirrors.jenkins-ci.org
