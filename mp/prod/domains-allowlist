@@ -25,6 +25,7 @@ releases.hashicorp.com
 .cloudfront.net
 .fastlylb.net
 .github.com
+.githubusercontent.com
 .rubygems.org
 .fastly.net
 .alpinelinux.org
