@@ -41,6 +41,7 @@
 .gumtree.co.za
 .gumtree.ie
 .gumtree.pl
+.gumtree.sg
 .homenetiol.com
 .indeed.com
 .ix5.ops.prod.po.ecg.so
@@ -89,7 +90,6 @@ api.netbiscuits.com
 api.pagerduty.com
 api.twilio.com
 apiecgbolt.quickblox.com
-app.gumtree.sg
 apps.facebook.com
 apt.puppetlabs.com
 archive.cloudera.com
@@ -121,11 +121,9 @@ gdata.youtube.com
 graph.accountkit.com
 graph.facebook.com
 gtrmotor.com
-gumtree.sg
 h-api.online-metrix.net
 h.online-metrix.net
 identity.api.rackspacecloud.com
-info.gumtree.sg
 linux.dell.com
 nginx.org
 m.facebook.com
@@ -140,7 +138,6 @@ openexchangerates.org
 ord.keep.api.rackspacecloud.com
 pinterest.com
 ppa.launchpad.net
-profile.gumtree.sg
 pub-repo.sematext.com
 rd.clk.thribee.com
 registry.npmjs.com
@@ -230,9 +227,7 @@ restapi.fromdoppler.com
 .adyen.com
 .adyenpayments.com
 .bolt-prod.com
-help.gumtree.sg
 www.cpan.org
-www.gumtree.sg
 www.vivanuncios.us
 .ams1.cloud
 .dus1.cloud
