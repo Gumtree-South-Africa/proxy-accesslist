@@ -1,1 +1,8 @@
 64.39.96.0/20
+# Collibra Technical Lineage Servers
+18.198.89.106 # (techlin-aws-eu)
+54.242.194.190 # (techlin-aws-us)
+15.222.200.199 # (techlin-aws-ca)
+35.205.146.124 # (techlin-gcp-eu)
+34.73.33.120 # (techlin-gcp-us)
+35.197.182.41 # (techlin-gcp-au)
