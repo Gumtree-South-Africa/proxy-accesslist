@@ -63,6 +63,7 @@ pkg.jenkins.io
 .pythonhosted.org
 .python.org
 releases.hashicorp.com
+registry.terraform.io
 registry.npmjs.org
 repo1.maven.org
 repository.jboss.org
