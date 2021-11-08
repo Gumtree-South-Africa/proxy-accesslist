@@ -55,6 +55,7 @@ pkg.jenkins.io
 .python.org
 .pythonhosted.org
 releases.hashicorp.com
+registry.terraform.io
 repo1.maven.org
 repository.jboss.org
 repository.primefaces.org
