@@ -287,3 +287,6 @@ www.m1.prod.gtau.net
 
 # nielsen endpoint - GTAU-42386
 .imrworldwide.com
+
+# GCR Related
+.gcr.io
