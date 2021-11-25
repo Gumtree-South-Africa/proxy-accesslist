@@ -36,7 +36,7 @@ repository.jboss.org
 .gliderlabs.com
 .cloudfront.net
 developer.download.nvidia.com
-gcr.io
+.gcr.io
 .pypi.org
 files.pythonhosted.org
 .elastic.co

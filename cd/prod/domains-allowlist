@@ -30,7 +30,7 @@ mirror.yandex.ru
 mirrors.clinkerhq.com
 mirrors.seville-jam.es
 mirror.gruenehoelle.nl
-gcr.io
+.gcr.io
 repo.scala-sbt.org
 repo.typesafe.com
 repo1.maven.org
