@@ -18,6 +18,7 @@ cockpit.prod.ki.ecg.so
 dockerregistry.prod.ki.ecg.so
 .cloudfront.net
 .google.com
+archives.jenkins-ci.org
 mirrors.jenkins-ci.org
 updates.jenkins-ci.org
 .serverion.com
