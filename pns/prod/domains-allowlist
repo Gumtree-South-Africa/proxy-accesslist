@@ -44,3 +44,5 @@ gcr.io
 apis.google.com
 .letsencrypt.org
 .hashicorp.com
+.terraform.io
+.github.io
