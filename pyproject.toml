@@ -8,7 +8,7 @@ authors = ["gdelaney <gdelaney@ebay.com>"]
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
-black = "^21.8b0"
+black = "^22.1"
 flake8 = "^3.9.2"
 pytest = "^6.2.5"
 pytest-coverage = "^0.0"
