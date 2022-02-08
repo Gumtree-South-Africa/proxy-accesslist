@@ -5,7 +5,7 @@ Use icebot to merge this change:
   .merge <id>
 
 Note:
-- You have to wait for the tests to pass/fail.
+- Tests must pass, so you will needs to wait.
 - Your fork needs to be in sync/up to date with this repo (e.g.: git pull upstream master)
 
 If you have issues with a change, you can reach out to the cloud team:
