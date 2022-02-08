@@ -66,6 +66,13 @@
 .redhat.com
 .repo.saltproject.io
 .s3.amazonaws.com
+.slack-core.com
+.slack-edge.com
+.slack-files.com
+.slack-imgs.com
+.slack-msgs.com
+.slack-redir.net
+.slack.com
 .snyk.io
 .sonatype.com
 .springsource.com
@@ -113,7 +120,6 @@ fastdl.mongodb.org
 ftp.gwdg.de
 ftp.mozilla.org
 get.helm.sh
-hooks.slack.com
 jira.paypal.com
 jitpack.io
 kubernetesjsonschema.dev
