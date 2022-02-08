@@ -301,3 +301,5 @@ pal-test.adyen.com
 .nonprod.gcp.ecgmove.cloud
 ab8f128150d32b76-Marktplaats-pal-live.adyenpayments.com
 ab8f128150d32b76-Marktplaats-checkout-live.adyenpayments.com
+# IAM
+iam-ca.id-nonprod.ecg-id.net
