@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Build_master
+name: Build master branch
 
 # Controls when the action will run.
 on:
@@ -30,13 +30,14 @@ jobs:
       # Setup python env
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.9.x'
+          python-version: '3.10'
 
+      - uses: actions/gr1n_setup-poetry@v7
+        with:
+          poetry-version: 1.1.13
 
       - name: Setup poetry
-        run: |
-          curl --retry 5 -sSL https://raw.githubusercontent.com/python-poetry/poetry/b47de09d800b7f2e4ed7088c8657878aa5380714/install-poetry.py | POETRY_VERSION=1.1.12 python3
-          poetry install
+        run: poetry install
 
       - name: Setup squid
         run: |
