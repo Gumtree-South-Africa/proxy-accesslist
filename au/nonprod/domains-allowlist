@@ -290,3 +290,6 @@ www.m1.prod.gtau.net
 
 # GCR Related
 .gcr.io
+
+# GPNS
+api.pns.comm-nonprod.classifiedscloud.io
