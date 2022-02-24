@@ -224,3 +224,6 @@ api.mim-prod.cdata.services
 
 # Adding monolith api endpoint for GCP
 .t.prod.gtau.net
+
+# GPNS
+api.pns.comm-prod.classifiedscloud.io
