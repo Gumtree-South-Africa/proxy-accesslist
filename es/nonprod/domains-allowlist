@@ -76,7 +76,6 @@
 .gopkg.in
 .gradle-dn.com
 .gradle.org
-.gt-prod-ops.classifiedscloud.io
 .gstatic.com
 .gumtree.com
 .gumtree.io
@@ -232,6 +231,7 @@ nodejs.org
 nvd.nist.gov
 p80.pool.sks-keyservers.net
 packages.confluent.io
+pactbroker.gt-bots.europe-west4.gt-prod-ops.classifiedscloud.io
 pixel.advertising.com
 pixel.mathtag.com
 pki.corp.ebay.com
