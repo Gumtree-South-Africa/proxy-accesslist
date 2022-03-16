@@ -47,6 +47,8 @@
 .influxdata.com
 .jenkins-ci.org
 .jenkins.io
+# jenkins redirects to regional mirror
+.gruenehoelle.nl
 .k8s.io
 .maven.org
 .microsofttranslator.com
