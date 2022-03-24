@@ -69,6 +69,8 @@
 .redhat.com
 .repo.saltproject.io
 .s3.amazonaws.com
+.s3.eu-central-1.amazonaws.com
+.s3.eu-west-1.amazonaws.com
 .slack-core.com
 .slack-edge.com
 .slack-files.com
@@ -193,4 +195,3 @@ www.eviware.com
 www.nuget.org
 www.rabbitmq.com
 www.syntevo.com
-zalando-opensource-os-registry-eu-central-1.s3.eu-central-1.amazonaws.com
