@@ -68,9 +68,7 @@
 .r-project.org
 .redhat.com
 .repo.saltproject.io
-.s3.amazonaws.com
-.s3.eu-central-1.amazonaws.com
-.s3.eu-west-1.amazonaws.com
+.amazonaws.com
 .slack-core.com
 .slack-edge.com
 .slack-files.com
@@ -141,7 +139,6 @@ nginx.org
 oss-binaries.phusionpassenger.com
 oss.jfrog.org
 oss.sonatype.org
-packagecloud-repositories.s3.dualstack.us-west-1.amazonaws.com
 packagecloud.io
 packages.confluent.io
 packages.elasticsearch.org
