@@ -129,8 +129,9 @@ midway.ext.hpe.com
 mirror.netcologne.de
 mobile-de.live.exozet.com
 mobile.kredit.check24.de
-mpi-internal.okta.com
-mpi-internal-test.okta.com
+#mpi-internal.okta.com
+#mpi-internal-test.okta.com
+.okta.com
 nginx.org
 price-data.vehiculum.de
 proxy30.webhop.me
