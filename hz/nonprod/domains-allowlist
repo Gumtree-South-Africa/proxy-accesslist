@@ -4,6 +4,7 @@
 .centos.org
 .percona.com
 .amazonaws.com
+public.ecr.aws
 .herokuapp.com
 .bitbucket.org
 .typesafe.com
