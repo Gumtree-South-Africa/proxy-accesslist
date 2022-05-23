@@ -11,7 +11,7 @@ jobs:
       steps:
       - name: Tests Failed
         if: ${{ github.event.workflow_run.conclusion == 'failure' }}
-        uses: actions/send-slack-message@v1
+        uses: actions-internal/send-slack-message@v1
         with:
           webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
           title: ProxyACL
@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: Tests Passed
         if: ${{ github.event.workflow_run.conclusion == 'success' }}
-        uses: actions/send-slack-message@v1
+        uses: actions-internal/send-slack-message@v1
         with:
           webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
           title: ProxyACL
