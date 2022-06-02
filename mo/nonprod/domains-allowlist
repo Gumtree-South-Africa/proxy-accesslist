@@ -215,7 +215,6 @@ api.rlcdn.com
 api.runscope.com
 api.tiles.mapbox.com
 apt.dockerproject.org
-archives.jenkins.io
 asn.advolution.de
 autoactsftp.linemedia.com
 backend-gwboerse.kds-software.de
@@ -242,8 +241,6 @@ ebay01.detroncloud.nl
 ebay11.detroncloud.nl
 europe-west3-mo-data-lake-dev-77ry.cloudfunctions.net
 files.couchbase.com
-ftp-chi.osuosl.org
-ftp-nyc.osuosl.org
 ftp-stud.fht-esslingen.de
 ftp.cars-importer.de
 ftp.classicdriver.com
@@ -281,7 +278,6 @@ m.exactag.com
 m.truckscout24.de
 match.adsrvr.org
 mirror.gruenehoelle.nl
-mirror.xmission.com
 mirrors.tuna.tsinghua.edu.cn
 mobile-de.live.exozet.com
 nexus.kjdev.ca

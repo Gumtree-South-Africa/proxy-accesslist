@@ -95,7 +95,6 @@ api.ebay-kleinanzeigen.de
 api.nexta.io
 api.rlcdn.com
 api.tiles.mapbox.com
-archives.jenkins.io
 autoactsftp.linemedia.com
 backend-gwboerse.kds-software.de
 cdn.ampproject.org
@@ -103,8 +102,6 @@ downloads-distro.mongodb.org
 ebay11.detroncloud.nl
 ec.europa.eu
 europe-west3-mo-data-lake-prod-k4pi.cloudfunctions.net
-ftp-chi.osuosl.org
-ftp-nyc.osuosl.org
 ftp.cars-importer.de
 ftp.classicdriver.com
 ftp.fahrzeuglister.de
@@ -135,7 +132,6 @@ letsencrypt.org
 m.autoscout24.de
 m.truckscout24.de
 midway.ext.hpe.com
-mirror.gruenehoelle.nl
 mirror.netcologne.de
 mirror.xmission.com
 mirrors.tuna.tsinghua.edu.cn
