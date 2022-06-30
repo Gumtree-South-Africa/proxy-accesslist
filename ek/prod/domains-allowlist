@@ -73,6 +73,8 @@ apiconnect-ext.corp.ebay.com
 ebay-lb-prod.lb.anypointdns.net
 api.ebay.com
 idauth.ebay.com
+api.idealo.de
+marda.idealo.com
 .reblaze.io
 api-sandbox.onlinebetaalplatform.nl
 files-sandbox.onlinebetaalplatform.nl
