@@ -33,6 +33,7 @@
 .googlesyndication.com
 .googletagmanager.com
 .googletagservices.com
+.datadoghq.com
 .googleusercontent.com
 .gradle.org
 .gradle-dn.com
@@ -89,7 +90,6 @@
 .zerossl.com
 adoptopenjdk.jfrog.io
 apt.dockerproject.org
-apt.datadoghq.com
 apt.postgresql.org
 apt.puppetlabs.com
 archive.cloudera.com
