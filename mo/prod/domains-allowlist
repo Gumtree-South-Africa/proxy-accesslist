@@ -74,6 +74,8 @@
 .pythonhosted.org
 .rubygems.org
 .s3.amazonaws.com
+# Temporary PoC for AWS integration
+.eu-central-1.eks.amazonaws.com
 .salesforce.com
 .santander-fsl-test.de
 .slack-core.com
