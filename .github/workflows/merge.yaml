@@ -63,7 +63,7 @@ jobs:
         with:
           webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
           title: ProxyACL
-          channel: '#ecg-cloud-proxy'
+          channel: '#private-cloud-proxy-accesslist'
           messageText: "Test on master branch failed"
 
       - name: Tests Passed
@@ -72,5 +72,5 @@ jobs:
         with:
           webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
           title: ProxyACL
-          channel: '#ecg-cloud-proxy'
+          channel: '#private-cloud-proxy-accesslist'
           messageText: "Test on master branch passed"

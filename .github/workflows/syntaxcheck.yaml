@@ -67,7 +67,7 @@ jobs:
         with:
           webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
           title: ProxyACL
-          channel: '#ecg-cloud-proxy'
+          channel: '#private-cloud-proxy-accesslist'
           messageText: "Tests failed <https://github.es.ecg.tools/${{ github.repository }}/pull/${{ github.event.number }}|${{ github.event.number }}>"
 
       - name: Tests Passed
@@ -76,5 +76,5 @@ jobs:
         with:
           webhookUrl: ${{ secrets.SLACK_WEBHOOK }}
           title: ProxyACL
-          channel: '#ecg-cloud-proxy'
+          channel: '#private-cloud-proxy-accesslist'
           messageText: "Tests passed <https://github.es.ecg.tools/${{ github.repository }}/pull/${{ github.event.number }}|${{ github.event.number }}>"

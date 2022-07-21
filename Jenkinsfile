@@ -32,7 +32,7 @@ pipeline {
                     # Return the exit code (0=OK, 1=ERROR)
                     exit $ERROR'''
                 
-                slackSend color: 'good', message: "PROXY :: Running Proxy ACL test (<${env.BUILD_URL}/console|Link>)", teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
+                slackSend color: 'good', message: "PROXY :: Running Proxy ACL test (<${env.BUILD_URL}/console|Link>)", teamDomain: 'adevinta', tokenCredentialId: "slack-token", botUser: true, channel: '#private-cloud-proxy-accesslist'
 
             }
         }
@@ -40,7 +40,7 @@ pipeline {
         // Always build master to ensure its passing before the pull request
         stage('Build Master') {
             steps {
-                slackSend color: 'good', message: 'PROXY :: Running Proxy ACL test against MASTER', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
+                slackSend color: 'good', message: 'PROXY :: Running Proxy ACL test against MASTER', teamDomain: 'adevinta', tokenCredentialId: "slack-token", botUser: true, channel: '#private-cloud-proxy-accesslist'
                 
                 // Fetch master branch
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
@@ -61,7 +61,7 @@ pipeline {
             }
             steps {
                 setGitHubPullRequestStatus([message: "Build Pending", state: "PENDING"])
-                slackSend color: 'good', message: "PROXY :: Starting Proxy ACL test on (<${env.GITHUB_PR_URL}|#${env.GITHUB_PR_NUMBER}>) ", teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
+                slackSend color: 'good', message: "PROXY :: Starting Proxy ACL test on (<${env.GITHUB_PR_URL}|#${env.GITHUB_PR_NUMBER}>) ", teamDomain: 'adevinta', tokenCredentialId: "slack-token", botUser: true, channel: '#private-cloud-proxy-accesslist'
                 // Fetch pull request
                 sshagent(['e3205e49-3955-4abc-ba26-f5fe3367b9cb']) {
                     sh "git fetch origin pull/${env.GITHUB_PR_NUMBER}/head:pull-request-${env.GITHUB_PR_NUMBER}"                  
@@ -92,13 +92,13 @@ pipeline {
     }
     post {
         success {
-          slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
+          slackSend color: 'good', message: 'Proxy ACL test passed', teamDomain: 'adevinta', tokenCredentialId: "slack-token", botUser: true, channel: '#private-cloud-proxy-accesslist'
         }
         failure {
-          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
+          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'adevinta', tokenCredentialId: "slack-token", botUser: true, channel: '#private-cloud-proxy-accesslist'
         }
         unstable {
-          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'eclassifiedsgroup', tokenCredentialId: "slack-token", botUser: true, channel: '#ecg-cloud-proxy'
+          slackSend color: 'bad', message: 'Proxy ACL test failed', teamDomain: 'adevinta', tokenCredentialId: "slack-token", botUser: true, channel: '#private-cloud-proxy-accesslist'
         }
     }
 }
