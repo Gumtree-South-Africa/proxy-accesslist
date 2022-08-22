@@ -42,6 +42,7 @@
 .google.com
 .googleapis.com
 .googlesyndication.com
+.graph.microsoft.com
 .gruenehoelle.nl
 .gumtree.com
 .hashicorp.com
@@ -50,6 +51,7 @@
 .jenkins-ci.org
 .jenkins.io
 .k8s.io
+.login.microsoftonline.com
 .looker.com
 .lookercdn.com
 .maven.org
