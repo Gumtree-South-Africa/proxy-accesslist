@@ -35,6 +35,7 @@
 .googletagservices.com
 .datadoghq.com
 .googleusercontent.com
+.gradle.com
 .gradle.org
 .gradle-dn.com
 .grafana.com
@@ -162,7 +163,6 @@ archives.jenkins-ci.org
 mirror.gruenehoelle.nl
 registry.developers.crunchydata.com
 registry.opensource.zalan.do
-registry.gradle.com
 renovatebot.com
 repo.mongodb.org
 repo.mysql.com
