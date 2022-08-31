@@ -11,6 +11,7 @@ archives.jenkins-ci.org
 auth.exacttargetapis.com
 bintray.com
 .braintreegateway.com
+.browserstack.com
 bsapi-test.brsrvr.com
 .cardinalcommerce.com
 cdimage.debian.org
@@ -81,6 +82,7 @@ integration.gt-staging.ams1.cloud
 integration.gt-zoidberg.ams1.cloud
 jcenter.bintray.com
 jenkins.mirror.isppower.de
+.lambdatest.com
 links.sonatype.com
 m2.neo4j.org
 maven.atlassian.com
