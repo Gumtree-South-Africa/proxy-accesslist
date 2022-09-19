@@ -293,3 +293,6 @@ www.m1.prod.gtau.net
 
 # GPNS
 api.pns.comm-nonprod.classifiedscloud.io
+
+# Additional CDATA services - GTAU-47432
+api.cd-mim-pre-prod.classifiedscloud.io
