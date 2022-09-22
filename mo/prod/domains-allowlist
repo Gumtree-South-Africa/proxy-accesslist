@@ -81,6 +81,8 @@
 .s3.amazonaws.com
 # Temporary PoC for AWS integration
 .eu-central-1.eks.amazonaws.com
+# Temporary PoC for AWS integration
+prod-obs-inventory-docs.s3.eu-central-1.amazonaws.com
 .salesforce.com
 .santander-fsl-test.de
 .slack-core.com
