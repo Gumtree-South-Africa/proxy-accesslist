@@ -89,3 +89,9 @@ admarkt.ebay-kleinanzeigen.de
 .snyk.io
 .ubuntu.com
 ppa.launchpad.net
+# YAMS
+pre-prod.images.icas.io
+mp.images.icas.io
+kjca.images.icas.io
+twhbe.images.icas.io
+ebayk.images.icas.io

@@ -90,3 +90,9 @@ admarkt.ebay-kleinanzeigen.de
 .terraform.io
 .snyk.io
 .nexus.fs-ci.dus1.cloud
+# YAMS
+pre-prod.images.icas.io
+mp.images.icas.io
+kjca.images.icas.io
+twhbe.images.icas.io
+ebayk.images.icas.io
