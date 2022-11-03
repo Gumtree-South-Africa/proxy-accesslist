@@ -24,6 +24,7 @@ grafana.com
 graph.facebook.com
 .gt-abtesting-prd.classifiedscloud.io
 .gt-adcounters-prd.classifiedscloud.io
+.gt-domcat-prod.classifiedscloud.io
 gumtreejobs-edge-alb.madgexhosting.net
 gumtreejobs-webservice.madgexjb.com
 gumtree-lead-enqueue.emgdealercentre.co.uk

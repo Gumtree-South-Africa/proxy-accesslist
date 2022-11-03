@@ -63,6 +63,8 @@ grafana.com
 .gt-abtesting-stg.classifiedscloud.io
 .gt-adcounters-dev.classifiedscloud.io
 .gt-adcounters-stg.classifiedscloud.io
+.gt-domcat-dev.classifiedscloud.io
+.gt-domcat-stg.classifiedscloud.io
 .gumtree.com
 .gumtree.io
 gumtreejobs.madgexjbtest.com
