@@ -177,7 +177,6 @@ int.a0883.prd.hc.de
 .okta.com
 .oktapreview.com
 api.theadex.com
-mgmt-yams.mpi-internal.com
 .jetstack.io
 .bitnami.com
 cr.l5d.io
@@ -188,4 +187,4 @@ api.partner.ebay.com
 .schip.io
 api.pingdom.com
 .panda-pro.advgo.net
-.storage.mpi-internal.com
+.mpi-internal.com
