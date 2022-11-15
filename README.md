@@ -9,5 +9,5 @@ To propose a change to the accesslist, please first fork off to your own repo, c
 # Troubleshooting:
 Your fork needs to up to date with the repo.\
 Tests need to pass.\
-During office hours, the officer can assist via slack. Please use `.officer` in the #ecg-cloud channel.\
+During office hours, the officer can assist via slack. Please use `.officer` in the #ask-private-cloud channel.\
 After hours, please ask the NOC to contact the on call cloud engineer via pagerduty.
