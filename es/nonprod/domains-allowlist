@@ -1,5 +1,3 @@
-# ONLY INTEGRA - www.mobile.de + suchen.mobile.de:
-# data team:
 .aatkit.com
 .adform.net
 .adition.com
@@ -31,6 +29,7 @@
 .cdn.segment.io
 .centos.org
 .charts.keel.sh
+.chime.aws
 .clojars.org
 .cloudera.com
 .cloudfront.net
@@ -139,8 +138,8 @@
 .pypi.python.org
 .pythonhosted.org
 .quay.io
-.rancher.io
 .rancher.com
+.rancher.io
 .redhat.com
 .redis.io
 .rubiconproject.com
@@ -219,12 +218,14 @@ ftp-stud.fht-esslingen.de
 ftp.gwdg.de
 ftp.halifax.rwth-aachen.de
 gems.rubyforge.org
+get.helm.sh
 gitlab.camao.de
 grafana.com
 identity.kijiji.ca
 identity.qa10.kjdev.ca
 idsync.rlcdn.com
 jenkins.mirror.isppower.de
+kubernetesjsonschema.dev
 m.exactag.com
 match.adsrvr.org
 mirror.gruenehoelle.nl
@@ -251,6 +252,8 @@ repos.azulsystems.com
 rubygems.global.ssl.fastly.net
 s0.2mdn.net
 servedby.flashtalking.com
+slack.global.ssl.fastly.net
+slackb.com
 smartbearsoftware.com
 soapui.org
 sonarplugins.com
@@ -267,5 +270,3 @@ www.datanucleus.org
 www.ecb.europa.eu
 www.eviware.com
 x.bidswitch.net
-kubernetesjsonschema.dev
-get.helm.sh
