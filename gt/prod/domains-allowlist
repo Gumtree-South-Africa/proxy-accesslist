@@ -11,7 +11,6 @@ appleid.apple.com
 auth.exacttargetapis.com
 .braintreegateway.com
 bsapi-euw.brsrvr.com
-codeload.github.com
 collector.newrelic.com
 contentapi-dot-isentropic-snow-282609.ew.r.appspot.com
 database.clamav.net
@@ -20,6 +19,7 @@ ebay11.detroncloud.nl
 ftp.e-dialog.com
 ftp.nl.debian.org
 ftp.s7.exacttarget.com
+.github.com
 .googleapis.com
 grafana.com
 graph.facebook.com
