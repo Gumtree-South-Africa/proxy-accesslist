@@ -69,6 +69,7 @@
 .pypi.python.org
 .pythonhosted.org
 .quay.io
+.qg2.apps.qualys.eu
 .rancher.io
 .r-project.org
 .redhat.com
@@ -153,7 +154,6 @@ pkg.ci.collectd.org
 pkg.jenkins-ci.org
 projectlombok.org
 pyx4j.com
-qualysguard.qg2.apps.qualys.eu
 registry.bower.io
 registry.npmjs.org
 releases.mozilla.org
