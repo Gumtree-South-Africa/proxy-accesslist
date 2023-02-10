@@ -17,6 +17,7 @@ pypi.org
 cockpit.prod.ki.ecg.so
 dockerregistry.prod.ki.ecg.so
 .cloudfront.net
+contracts.canonical.com
 .google.com
 archives.jenkins-ci.org
 mirrors.jenkins-ci.org
