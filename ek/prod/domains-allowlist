@@ -54,6 +54,7 @@ registry.npmjs.org
 repo.saltstack.com
 .detroncloud.nl
 .rook.io
+.ecr.aws
 # BEGIN rancher domains
 .rancher.com
 .rancher.io
