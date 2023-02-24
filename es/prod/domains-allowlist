@@ -47,6 +47,7 @@
 .iovisor.org
 .jenkins.io
 .jetstack.io
+.jfrog.io
 .launchpad.net
 .letsencrypt.org
 .looker.com
@@ -74,7 +75,6 @@
 .r-project.org
 .redhat.com
 .repo.saltproject.io
-.releases-docker.jfrog.io
 .amazonaws.com
 .slack-core.com
 .slack-edge.com
@@ -94,7 +94,6 @@
 .vmware.com
 .windows.net
 .zerossl.com
-adoptopenjdk.jfrog.io
 apt.dockerproject.org
 apt.postgresql.org
 apt.puppetlabs.com
